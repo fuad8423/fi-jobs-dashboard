@@ -1,6 +1,6 @@
 {
   "generated": "2026-05-18",
-  "total": 159,
+  "total": 164,
   "roles": [
     {
       "id": 1,
@@ -1909,6 +1909,66 @@
       "firm": "Guggenheim",
       "isNew": true,
       "minComp": 200000
+    },
+    {
+      "title": "Associate, Portfolio Management",
+      "location": "New York, NY",
+      "seniority": "Associate",
+      "link": "https://aresmgmt.wd1.myworkdayjobs.com/External/job/Associate--Portfolio-Management_R7694",
+      "tier": "top",
+      "posted": "05/02/2026",
+      "id": 160,
+      "firm": "Ares",
+      "isNew": true,
+      "minComp": 175000
+    },
+    {
+      "title": "Analyst, US Direct Lending (Ivy Hill)",
+      "location": "New York, NY",
+      "seniority": "Senior",
+      "link": "https://aresmgmt.wd1.myworkdayjobs.com/External/job/New-York-NY/Analyst--US-Direct-Lending--Ivy-Hill-_R7894",
+      "tier": "top",
+      "posted": "05/15/2026",
+      "id": 161,
+      "firm": "Ares",
+      "isNew": true,
+      "minComp": 225000
+    },
+    {
+      "title": "Senior Associate/Vice President, Alternative Credit",
+      "location": "Atlanta, GA",
+      "seniority": "Vice President",
+      "link": "https://aresmgmt.wd1.myworkdayjobs.com/External/job/Atlanta-GA/Senior-Associate-VP--Philanthropy-and-Private-Markets--Alternative-Credit_R7893",
+      "tier": "top",
+      "posted": "05/09/2026",
+      "id": 162,
+      "firm": "Ares",
+      "isNew": true,
+      "minComp": 250000
+    },
+    {
+      "title": "Analyst, Commercial Finance, Collateral Analyst",
+      "location": "Atlanta, GA",
+      "seniority": "Senior",
+      "link": "https://aresmgmt.wd1.myworkdayjobs.com/External/job/Atlanta-GA/Analyst--Commercial-Finance--Collateral-Analyst_R7735-1",
+      "tier": "adjacent",
+      "posted": "05/15/2026",
+      "id": 163,
+      "firm": "Ares",
+      "isNew": true,
+      "minComp": 225000
+    },
+    {
+      "title": "VP, Investment Operations - Global Asset Servicing",
+      "location": "New York, NY",
+      "seniority": "Vice President",
+      "link": "https://aresmgmt.wd1.myworkdayjobs.com/External/job/New-York-NY/Vice-President--Global-Asset-Servicing---Investment-Operations-_R6658",
+      "tier": "adjacent",
+      "posted": "05/16/2026",
+      "id": 164,
+      "firm": "Ares",
+      "isNew": true,
+      "minComp": 250000
     }
   ]
 }
