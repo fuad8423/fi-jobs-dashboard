@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15",
-  "total": 139,
+  "generated": "2026-05-18",
+  "total": 145,
   "roles": [
     {
       "id": 1,
@@ -1669,6 +1669,78 @@
       "minComp": 225000,
       "posted": "04/15/2026",
       "isNew": false
+    },
+    {
+      "title": "Emerging Markets Corporate Credit Research Analyst",
+      "location": "Los Angeles, CA",
+      "seniority": "Senior",
+      "link": "https://careers-tcw.icims.com/jobs/2252/emerging-markets-corporate-credit-research-analyst/job",
+      "firm": "TCW",
+      "tier": "top",
+      "minComp": 225000,
+      "posted": "05/2026",
+      "id": 140,
+      "isNew": true
+    },
+    {
+      "title": "Quantitative Fixed Income Researcher",
+      "location": "Los Angeles, CA",
+      "seniority": "Senior",
+      "link": "https://careers-tcw.icims.com/jobs/2247/quantitative-fixed-income-researcher/job",
+      "firm": "TCW",
+      "tier": "top",
+      "minComp": 225000,
+      "posted": "05/2026",
+      "id": 141,
+      "isNew": true
+    },
+    {
+      "title": "Credit Analyst",
+      "location": "Los Angeles, CA",
+      "seniority": "Senior",
+      "link": "https://careers-tcw.icims.com/jobs/2208/credit-analyst/job",
+      "firm": "TCW",
+      "tier": "top",
+      "minComp": 225000,
+      "posted": "05/2026",
+      "id": 142,
+      "isNew": true
+    },
+    {
+      "title": "Agency MBS Senior Analyst/Trader",
+      "location": "Los Angeles, CA",
+      "seniority": "Senior",
+      "link": "https://careers-tcw.icims.com/jobs/2204/agency-mbs-senior-analyst-trader/job",
+      "firm": "TCW",
+      "tier": "top",
+      "minComp": 225000,
+      "posted": "05/2026",
+      "id": 143,
+      "isNew": true
+    },
+    {
+      "title": "AVP, Insurance Solutions Strategist",
+      "location": "Los Angeles, CA",
+      "seniority": "AVP",
+      "link": "https://careers-tcw.icims.com/jobs/2235/avp%2c-insurance-solutions-strategist/job",
+      "firm": "TCW",
+      "tier": "adjacent",
+      "minComp": 225000,
+      "posted": "05/2026",
+      "id": 144,
+      "isNew": true
+    },
+    {
+      "title": "Risk Lead",
+      "location": "Los Angeles, CA",
+      "seniority": "Lead",
+      "link": "https://careers-tcw.icims.com/jobs/2246/risk-lead/job",
+      "firm": "TCW",
+      "tier": "adjacent",
+      "minComp": 250000,
+      "posted": "05/2026",
+      "id": 145,
+      "isNew": true
     }
   ]
 }
