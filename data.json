@@ -1,6 +1,6 @@
 {
   "generated": "2026-05-18",
-  "total": 145,
+  "total": 153,
   "roles": [
     {
       "id": 1,
@@ -1741,6 +1741,102 @@
       "posted": "05/2026",
       "id": 145,
       "isNew": true
+    },
+    {
+      "title": "VP Asset Liability Management",
+      "location": "El Segundo, CA",
+      "seniority": "Vice President",
+      "link": "https://athene.wd5.myworkdayjobs.com/athene_careers/job/El-Segundo-California/VP-Asset-Liability-Management_R254661",
+      "tier": "top",
+      "posted": "05/15/2026",
+      "id": 146,
+      "firm": "Athene",
+      "isNew": true,
+      "minComp": 250000
+    },
+    {
+      "title": "AVP Operational & Model Risk",
+      "location": "West Des Moines, IA",
+      "seniority": "AVP",
+      "link": "https://athene.wd5.myworkdayjobs.com/athene_careers/job/West-Des-Moines-Iowa/AVP-Operational---Model-Risk_R254625",
+      "tier": "adjacent",
+      "posted": "05/15/2026",
+      "id": 147,
+      "firm": "Athene",
+      "isNew": true,
+      "minComp": 250000
+    },
+    {
+      "title": "Senior Analyst, Derivative Operations",
+      "location": "West Des Moines, IA",
+      "seniority": "Senior",
+      "link": "https://athene.wd5.myworkdayjobs.com/athene_careers/job/West-Des-Moines-Iowa/Senior-Analyst--Derivative-Operations_R254232",
+      "tier": "adjacent",
+      "posted": "04/18/2026",
+      "id": 148,
+      "firm": "Athene",
+      "isNew": true,
+      "minComp": 225000
+    },
+    {
+      "title": "Technical Product Manager, Derivative Operations",
+      "location": "West Des Moines, IA",
+      "seniority": "Manager",
+      "link": "https://athene.wd5.myworkdayjobs.com/athene_careers/job/West-Des-Moines-Iowa/Technical-Product-Manager--Derivative-Operations_R254558-1",
+      "tier": "adjacent",
+      "posted": "04/30/2026",
+      "id": 149,
+      "firm": "Athene",
+      "isNew": true,
+      "minComp": 250000
+    },
+    {
+      "title": "Derivatives Business Systems Analyst",
+      "location": "Greenwich, CT",
+      "seniority": "Senior",
+      "link": "https://athene.wd5.myworkdayjobs.com/athene_careers/job/Greenwich-Connecticut/Business-Systems-Analyst--Derivative-Operations_R254375",
+      "tier": "adjacent",
+      "posted": "04/29/2026",
+      "id": 150,
+      "firm": "Athene",
+      "isNew": true,
+      "minComp": 225000
+    },
+    {
+      "title": "Collateral Management Analyst",
+      "location": "New York, NY",
+      "seniority": "Senior",
+      "link": "https://athene.wd5.myworkdayjobs.com/athene_careers/job/New-York-New-York/Collateral-Management-Analyst_R254559",
+      "tier": "adjacent",
+      "posted": "05/12/2026",
+      "id": 151,
+      "firm": "Athene",
+      "isNew": true,
+      "minComp": 225000
+    },
+    {
+      "title": "Director, Pension Group Annuity (PGA) Transaction Management",
+      "location": "Greenwich, CT",
+      "seniority": "Director",
+      "link": "https://athene.wd5.myworkdayjobs.com/athene_careers/job/Greenwich-Connecticut/Director--Pension-Group-Annuity--PGA--Transaction-Management_R254319",
+      "tier": "adjacent",
+      "posted": "05/12/2026",
+      "id": 152,
+      "firm": "Athene",
+      "isNew": true,
+      "minComp": 300000
+    },
+    {
+      "title": "VP Corporate Development",
+      "location": "New York, NY",
+      "seniority": "Vice President",
+      "link": "https://athene.wd5.myworkdayjobs.com/athene_careers/job/New-York-New-York/XMLNAME-2020MB---VP-Corporate-Development_R254164",
+      "tier": "adjacent",
+      "posted": "04/18/2026",
+      "id": 153,
+      "firm": "Athene",
+      "isNew": true,
+      "minComp": 250000
     }
   ]
 }
