@@ -1,6 +1,6 @@
 {
   "generated": "2026-05-18",
-  "total": 153,
+  "total": 159,
   "roles": [
     {
       "id": 1,
@@ -1837,6 +1837,78 @@
       "firm": "Athene",
       "isNew": true,
       "minComp": 250000
+    },
+    {
+      "title": "Product Specialist, CLOs & Bank Loans",
+      "location": "Stamford, CT",
+      "seniority": "Senior",
+      "link": "https://guggenheiminvestment.wd5.myworkdayjobs.com/External/job/300-First-Stamford-Place-Suite-300-Stamford-CT-US/Product-Specialist--CLOs---Bank-Loans_JR-2026-101104",
+      "tier": "top",
+      "posted": "04/18/2026",
+      "id": 154,
+      "firm": "Guggenheim",
+      "isNew": true,
+      "minComp": 225000
+    },
+    {
+      "title": "Fixed Income Product Specialist - US West",
+      "location": "Santa Monica, CA",
+      "seniority": "Senior",
+      "link": "https://guggenheiminvestment.wd5.myworkdayjobs.com/External/job/Santa-Monica-CA/Fixed-Income-Product-Specialist---US-West_JR-2026-100996",
+      "tier": "top",
+      "posted": "04/18/2026",
+      "id": 155,
+      "firm": "Guggenheim",
+      "isNew": true,
+      "minComp": 225000
+    },
+    {
+      "title": "Trade Confirmation, Settlement & Collateral Management - Derivative Manager (VP)",
+      "location": "Chicago, IL",
+      "seniority": "Vice President",
+      "link": "https://guggenheiminvestment.wd5.myworkdayjobs.com/External/job/Chicago-IL/Trade-Confirmation--Settlement---Collateral-Management---Derivative-Manager--VP-_JR-2026-101026",
+      "tier": "adjacent",
+      "posted": "04/18/2026",
+      "id": 156,
+      "firm": "Guggenheim",
+      "isNew": true,
+      "minComp": 250000
+    },
+    {
+      "title": "Valuation Analyst (Pricing), Senior Associate",
+      "location": "Chicago, IL",
+      "seniority": "Senior Associate",
+      "link": "https://guggenheiminvestment.wd5.myworkdayjobs.com/External/job/Chicago-IL/Valuation-Analyst--Pricing---Senior-Associate_JR-2026-101077",
+      "tier": "adjacent",
+      "posted": "05/05/2026",
+      "id": 157,
+      "firm": "Guggenheim",
+      "isNew": true,
+      "minComp": 200000
+    },
+    {
+      "title": "Real Estate Portfolio Management Analyst",
+      "location": "Clayton, MO",
+      "seniority": "Senior",
+      "link": "https://guggenheiminvestment.wd5.myworkdayjobs.com/External/job/One-North-Brentwood-Boulevard-Suite-910-Clayton-MOUS/Real-Estate-Portfolio-Management-Analyst--Analyst-_JR-2026-101060",
+      "tier": "adjacent",
+      "posted": "05/15/2026",
+      "id": 158,
+      "firm": "Guggenheim",
+      "isNew": true,
+      "minComp": 225000
+    },
+    {
+      "title": "Trade Confirmation & Settlement Associate",
+      "location": "Chicago, IL",
+      "seniority": "Senior Associate",
+      "link": "https://guggenheiminvestment.wd5.myworkdayjobs.com/External/job/Chicago-IL/Trade-Confirmation---Settlement-Associate_JR-2026-101002",
+      "tier": "adjacent",
+      "posted": "04/18/2026",
+      "id": 159,
+      "firm": "Guggenheim",
+      "isNew": true,
+      "minComp": 200000
     }
   ]
 }
