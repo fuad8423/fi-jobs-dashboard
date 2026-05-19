@@ -1,6 +1,6 @@
 {
   "generated": "2026-05-19",
-  "total": 188,
+  "total": 203,
   "roles": [
     {
       "id": 1,
@@ -2088,7 +2088,7 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "04/21/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 175,
@@ -2100,7 +2100,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "04/20/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 176,
@@ -2112,7 +2112,7 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "04/23/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 177,
@@ -2124,7 +2124,7 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "05/05/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 178,
@@ -2136,7 +2136,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "04/19/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 179,
@@ -2148,7 +2148,7 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "04/19/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 180,
@@ -2160,7 +2160,7 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "04/19/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 181,
@@ -2172,7 +2172,7 @@
       "tier": "top",
       "minComp": 400000,
       "posted": "04/19/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 182,
@@ -2184,7 +2184,7 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "05/11/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 183,
@@ -2196,7 +2196,7 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "04/19/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 184,
@@ -2208,7 +2208,7 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "04/19/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 185,
@@ -2220,7 +2220,7 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/19/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 186,
@@ -2232,7 +2232,7 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "04/23/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 187,
@@ -2244,7 +2244,7 @@
       "tier": "adjacent",
       "minComp": 400000,
       "posted": "04/19/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 188,
@@ -2256,6 +2256,186 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "05/04/2026",
+      "isNew": false
+    },
+    {
+      "id": 189,
+      "title": "Research/Trading Analyst - Agency MBS",
+      "location": "Atlanta, GA",
+      "seniority": "Senior",
+      "link": "https://godirect.wd5.myworkdayjobs.com/en-US/voya_jobs/job/Atlanta-GA/Research-Trading-Analyst---Agency-MBS_JR0031934",
+      "firm": "Voya Financial",
+      "tier": "top",
+      "minComp": 225000,
+      "posted": "04/27/2026",
+      "isNew": true
+    },
+    {
+      "id": 190,
+      "title": "Senior Credit Analyst, Income & Growth",
+      "location": "San Diego, CA",
+      "seniority": "Senior",
+      "link": "https://godirect.wd5.myworkdayjobs.com/en-US/voya_jobs/job/San-Diego-CA/Senior-Analyst--Income---Growth_JR0032673",
+      "firm": "Voya Financial",
+      "tier": "top",
+      "minComp": 225000,
+      "posted": "05/18/2026",
+      "isNew": true
+    },
+    {
+      "id": 191,
+      "title": "VP Emerging Markets (EM) Corporate Research Analyst",
+      "location": "Atlanta, GA",
+      "seniority": "Vice President",
+      "link": "https://godirect.wd5.myworkdayjobs.com/en-US/voya_jobs/job/Atlanta-GA/VP-Research-Analyst---EM_JR0032635",
+      "firm": "Voya Financial",
+      "tier": "top",
+      "minComp": 250000,
+      "posted": "05/12/2026",
+      "isNew": true
+    },
+    {
+      "id": 192,
+      "title": "AVP, Portfolio Manager",
+      "location": "Atlanta, GA",
+      "seniority": "AVP",
+      "link": "https://godirect.wd5.myworkdayjobs.com/en-US/voya_jobs/job/Atlanta-GA/AVP--Portfolio-Manager_JR0032591",
+      "firm": "Voya Financial",
+      "tier": "top",
+      "minComp": 250000,
+      "posted": "04/19/2026",
+      "isNew": true
+    },
+    {
+      "id": 193,
+      "title": "AVP, Risk Management Analytics & Reporting",
+      "location": "Atlanta, GA",
+      "seniority": "AVP",
+      "link": "https://godirect.wd5.myworkdayjobs.com/en-US/voya_jobs/job/Atlanta-GA/AVP--Risk-Management-Analytics---Reporting_JR0032496",
+      "firm": "Voya Financial",
+      "tier": "top",
+      "minComp": 250000,
+      "posted": "04/27/2026",
+      "isNew": true
+    },
+    {
+      "id": 194,
+      "title": "Real Estate Portfolio Analyst",
+      "location": "Atlanta, GA",
+      "seniority": "Senior",
+      "link": "https://godirect.wd5.myworkdayjobs.com/en-US/voya_jobs/job/Atlanta-GA/Real-Estate-Portfolio-Analyst_JR0032659-1",
+      "firm": "Voya Financial",
+      "tier": "top",
+      "minComp": 225000,
+      "posted": "04/30/2026",
+      "isNew": true
+    },
+    {
+      "id": 195,
+      "title": "Senior Real Estate Portfolio Analyst",
+      "location": "Atlanta, GA",
+      "seniority": "Senior",
+      "link": "https://godirect.wd5.myworkdayjobs.com/en-US/voya_jobs/job/Atlanta-GA/Senior-Real-Estate-Portfolio-Analyst_JR0032660",
+      "firm": "Voya Financial",
+      "tier": "top",
+      "minComp": 225000,
+      "posted": "04/30/2026",
+      "isNew": true
+    },
+    {
+      "id": 196,
+      "title": "SVP Private Credit Attorney",
+      "location": "Atlanta, GA",
+      "seniority": "SVP",
+      "link": "https://godirect.wd5.myworkdayjobs.com/en-US/voya_jobs/job/Atlanta-GA/SVP-Private-Credit-Attorney_JR0032663",
+      "firm": "Voya Financial",
+      "tier": "top",
+      "minComp": 250000,
+      "posted": "05/12/2026",
+      "isNew": true
+    },
+    {
+      "id": 197,
+      "title": "Trade Desk-Operations Manager",
+      "location": "Hartford, CT",
+      "seniority": "Manager",
+      "link": "https://godirect.wd5.myworkdayjobs.com/en-US/voya_jobs/job/Hartford-CT/Operations-Manager-Brokerage-Services_JR0032037",
+      "firm": "Voya Financial",
+      "tier": "top",
+      "minComp": 250000,
+      "posted": "05/01/2026",
+      "isNew": true
+    },
+    {
+      "id": 198,
+      "title": "Credit Support Analyst",
+      "location": "Atlanta, GA",
+      "seniority": "Senior",
+      "link": "https://godirect.wd5.myworkdayjobs.com/en-US/voya_jobs/job/Atlanta-GA/Private-Credit-Portfolio-Data-Analyst_JR0032118",
+      "firm": "Voya Financial",
+      "tier": "adjacent",
+      "minComp": 225000,
+      "posted": "05/13/2026",
+      "isNew": true
+    },
+    {
+      "id": 199,
+      "title": "Lead Reinsurance Financial Analyst",
+      "location": "Minneapolis, MN",
+      "seniority": "Lead",
+      "link": "https://godirect.wd5.myworkdayjobs.com/en-US/voya_jobs/job/Minneapolis-MN/Lead-Reinsurance-Financial-Analyst_JR0032547",
+      "firm": "Voya Financial",
+      "tier": "adjacent",
+      "minComp": 250000,
+      "posted": "04/27/2026",
+      "isNew": true
+    },
+    {
+      "id": 200,
+      "title": "Senior Analyst, Investment Platform Solutions",
+      "location": "Atlanta, GA",
+      "seniority": "Senior",
+      "link": "https://godirect.wd5.myworkdayjobs.com/en-US/voya_jobs/job/Atlanta-GA/Senior-Analyst--Investment-Analytics--Equity---Multi-Asset_JR0031080",
+      "firm": "Voya Financial",
+      "tier": "adjacent",
+      "minComp": 225000,
+      "posted": "04/27/2026",
+      "isNew": true
+    },
+    {
+      "id": 201,
+      "title": "Director, Strategy and Transformation - Wealth Management",
+      "location": "New York, NY",
+      "seniority": "Director",
+      "link": "https://godirect.wd5.myworkdayjobs.com/en-US/voya_jobs/job/New-York-NY/Director--Strategy-and-Transformation---Wealth-Management_JR0032669",
+      "firm": "Voya Financial",
+      "tier": "adjacent",
+      "minComp": 300000,
+      "posted": "05/12/2026",
+      "isNew": true
+    },
+    {
+      "id": 202,
+      "title": "Team Manager, Wealth Management",
+      "location": "Boston, MA",
+      "seniority": "Manager",
+      "link": "https://godirect.wd5.myworkdayjobs.com/en-US/voya_jobs/job/MA-Boston-121-Seaport-Blvd/Sales-Manager--Investor-Center_JR0032562",
+      "firm": "Voya Financial",
+      "tier": "adjacent",
+      "minComp": 250000,
+      "posted": "05/18/2026",
+      "isNew": true
+    },
+    {
+      "id": 203,
+      "title": "Senior Investment Writer",
+      "location": "New York, NY",
+      "seniority": "Senior",
+      "link": "https://godirect.wd5.myworkdayjobs.com/en-US/voya_jobs/job/New-York-NY/Senior-Investment-Writer_JR0032676",
+      "firm": "Voya Financial",
+      "tier": "adjacent",
+      "minComp": 225000,
+      "posted": "05/18/2026",
       "isNew": true
     }
   ]
