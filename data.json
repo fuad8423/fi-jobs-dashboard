@@ -1,6 +1,6 @@
 {
   "generated": "2026-05-19",
-  "total": 203,
+  "total": 217,
   "roles": [
     {
       "id": 1,
@@ -2268,7 +2268,7 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "04/27/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 190,
@@ -2280,7 +2280,7 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "05/18/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 191,
@@ -2292,7 +2292,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "05/12/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 192,
@@ -2304,7 +2304,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "04/19/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 193,
@@ -2316,7 +2316,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "04/27/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 194,
@@ -2328,7 +2328,7 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "04/30/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 195,
@@ -2340,7 +2340,7 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "04/30/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 196,
@@ -2352,7 +2352,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "05/12/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 197,
@@ -2364,7 +2364,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "05/01/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 198,
@@ -2376,7 +2376,7 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "05/13/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 199,
@@ -2388,7 +2388,7 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/27/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 200,
@@ -2400,7 +2400,7 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "04/27/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 201,
@@ -2412,7 +2412,7 @@
       "tier": "adjacent",
       "minComp": 300000,
       "posted": "05/12/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 202,
@@ -2424,7 +2424,7 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "05/18/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 203,
@@ -2436,6 +2436,174 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "05/18/2026",
+      "isNew": false
+    },
+    {
+      "id": 204,
+      "title": "Director, Derivatives",
+      "location": "New York, New York",
+      "seniority": "Director",
+      "link": "https://careers.newyorklife.com/jobs/40097880",
+      "firm": "New York Life",
+      "tier": "top",
+      "minComp": 300000,
+      "posted": "02/09/2026",
+      "isNew": true
+    },
+    {
+      "id": 205,
+      "title": "Director, Loan Management",
+      "location": "New York, New York",
+      "seniority": "Director",
+      "link": "https://careers.newyorklife.com/jobs/41205754",
+      "firm": "New York Life",
+      "tier": "top",
+      "minComp": 300000,
+      "posted": "04/03/2026",
+      "isNew": true
+    },
+    {
+      "id": 206,
+      "title": "Director, Alternatives Strategy",
+      "location": "New York, New York",
+      "seniority": "Director",
+      "link": "https://careers.newyorklife.com/jobs/40185135",
+      "firm": "New York Life",
+      "tier": "top",
+      "minComp": 300000,
+      "posted": "02/12/2026",
+      "isNew": true
+    },
+    {
+      "id": 207,
+      "title": "Associate / Sr. Associate Capital Markets",
+      "location": "New York, New York",
+      "seniority": "Senior",
+      "link": "https://careers.newyorklife.com/jobs/40607731",
+      "firm": "New York Life",
+      "tier": "top",
+      "minComp": 225000,
+      "posted": "03/02/2026",
+      "isNew": true
+    },
+    {
+      "id": 208,
+      "title": "Senior Associate, Private Capital Investors",
+      "location": "New York, New York",
+      "seniority": "Senior",
+      "link": "https://careers.newyorklife.com/jobs/41553662",
+      "firm": "New York Life",
+      "tier": "top",
+      "minComp": 225000,
+      "posted": "04/20/2026",
+      "isNew": true
+    },
+    {
+      "id": 209,
+      "title": "Senior Associate, Mortgage Loan",
+      "location": "New York, New York",
+      "seniority": "Senior",
+      "link": "https://careers.newyorklife.com/jobs/41205815",
+      "firm": "New York Life",
+      "tier": "top",
+      "minComp": 225000,
+      "posted": "04/03/2026",
+      "isNew": true
+    },
+    {
+      "id": 210,
+      "title": "Senior Associate, Investment Product Analyst",
+      "location": "New York, New York",
+      "seniority": "Senior",
+      "link": "https://careers.newyorklife.com/jobs/39402972",
+      "firm": "New York Life",
+      "tier": "top",
+      "minComp": 225000,
+      "posted": "12/23/2025",
+      "isNew": true
+    },
+    {
+      "id": 211,
+      "title": "Senior Associate, Investment Data & AI",
+      "location": "New York, New York",
+      "seniority": "Senior",
+      "link": "https://careers.newyorklife.com/jobs/40496632",
+      "firm": "New York Life",
+      "tier": "top",
+      "minComp": 225000,
+      "posted": "02/26/2026",
+      "isNew": true
+    },
+    {
+      "id": 212,
+      "title": "Senior Associate - Derivative Accounting & Reporting",
+      "location": "New York, New York",
+      "seniority": "Senior",
+      "link": "https://careers.newyorklife.com/jobs/38839548",
+      "firm": "New York Life",
+      "tier": "top",
+      "minComp": 225000,
+      "posted": "11/11/2025",
+      "isNew": true
+    },
+    {
+      "id": 213,
+      "title": "Sr. Associate Advisor Consultant, Strategic Wealth",
+      "location": "Remote, New York",
+      "seniority": "Senior",
+      "link": "https://careers.newyorklife.com/jobs/41456231",
+      "firm": "New York Life",
+      "tier": "adjacent",
+      "minComp": 225000,
+      "posted": "04/14/2026",
+      "isNew": true
+    },
+    {
+      "id": 214,
+      "title": "Strategy & Corporate Development, Senior Associate",
+      "location": "New York, New York",
+      "seniority": "Senior",
+      "link": "https://careers.newyorklife.com/jobs/41950434",
+      "firm": "New York Life",
+      "tier": "adjacent",
+      "minComp": 225000,
+      "posted": "05/15/2026",
+      "isNew": true
+    },
+    {
+      "id": 215,
+      "title": "Actuarial Associate - Financial Planning and Analysis",
+      "location": "White Plains, New York",
+      "seniority": "Senior",
+      "link": "https://careers.newyorklife.com/jobs/41835610",
+      "firm": "New York Life",
+      "tier": "adjacent",
+      "minComp": 225000,
+      "posted": "05/06/2026",
+      "isNew": true
+    },
+    {
+      "id": 216,
+      "title": "Senior Actuarial Associate",
+      "location": "New York, New York",
+      "seniority": "Senior",
+      "link": "https://careers.newyorklife.com/jobs/41762328",
+      "firm": "New York Life",
+      "tier": "adjacent",
+      "minComp": 225000,
+      "posted": "04/29/2026",
+      "isNew": true
+    },
+    {
+      "id": 217,
+      "title": "Corporate Vice President - Corporate Development & Strategy",
+      "location": "New York, New York",
+      "seniority": "Vice President",
+      "link": "https://careers.newyorklife.com/jobs/40974910",
+      "firm": "New York Life",
+      "tier": "adjacent",
+      "minComp": 250000,
+      "posted": "03/20/2026",
       "isNew": true
     }
   ]
