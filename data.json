@@ -1,6 +1,6 @@
 {
   "generated": "2026-05-19",
-  "total": 173,
+  "total": 188,
   "roles": [
     {
       "id": 1,
@@ -2004,7 +2004,7 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/30/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 168,
@@ -2016,7 +2016,7 @@
       "tier": "adjacent",
       "minComp": 300000,
       "posted": "04/19/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 169,
@@ -2028,7 +2028,7 @@
       "tier": "adjacent",
       "minComp": 300000,
       "posted": "04/24/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 170,
@@ -2040,7 +2040,7 @@
       "tier": "adjacent",
       "minComp": 300000,
       "posted": "04/19/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 171,
@@ -2052,7 +2052,7 @@
       "tier": "adjacent",
       "minComp": 300000,
       "posted": "05/12/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 172,
@@ -2064,7 +2064,7 @@
       "tier": "adjacent",
       "minComp": 300000,
       "posted": "04/19/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 173,
@@ -2076,6 +2076,186 @@
       "tier": "adjacent",
       "minComp": 300000,
       "posted": "05/14/2026",
+      "isNew": false
+    },
+    {
+      "id": 174,
+      "title": "Senior Director, Credit Asset Management (Los Angeles Office)",
+      "location": "Newport Beach, CA",
+      "seniority": "Director",
+      "link": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Newport-Beach-California/Senior-Director--Credit-Asset-Management--Los-Angeles-Office-_R-13768",
+      "firm": "Invesco",
+      "tier": "top",
+      "minComp": 300000,
+      "posted": "04/21/2026",
+      "isNew": true
+    },
+    {
+      "id": 175,
+      "title": "Client Portfolio Manager - Fixed Income",
+      "location": "Atlanta, GA",
+      "seniority": "Vice President",
+      "link": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Client-Portfolio-Manager---Fixed-Income_R-13553-1",
+      "firm": "Invesco",
+      "tier": "top",
+      "minComp": 250000,
+      "posted": "04/20/2026",
+      "isNew": true
+    },
+    {
+      "id": 176,
+      "title": "Associate Credit Analyst",
+      "location": "Atlanta, GA",
+      "seniority": "Senior",
+      "link": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Associate-Credit-Analyst_R-13810",
+      "firm": "Invesco",
+      "tier": "top",
+      "minComp": 225000,
+      "posted": "04/23/2026",
+      "isNew": true
+    },
+    {
+      "id": 177,
+      "title": "Municipal Research Analyst",
+      "location": "Downers Grove, IL",
+      "seniority": "Senior",
+      "link": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Downers-Grove-Illinois/Municipal-Research-Analyst_R-13854",
+      "firm": "Invesco",
+      "tier": "top",
+      "minComp": 225000,
+      "posted": "05/05/2026",
+      "isNew": true
+    },
+    {
+      "id": 178,
+      "title": "Fixed Income ETF Strategist",
+      "location": "New York, NY",
+      "seniority": "Vice President",
+      "link": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/New-York-New-York/Fixed-Income-ETF-Strategist_R-9158",
+      "firm": "Invesco",
+      "tier": "top",
+      "minComp": 250000,
+      "posted": "04/19/2026",
+      "isNew": true
+    },
+    {
+      "id": 179,
+      "title": "Senior Principal, Bank Loan Securities",
+      "location": "Downers Grove, IL",
+      "seniority": "Principal",
+      "link": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Downers-Grove-Illinois/Senior-Principal--Bank-Loan-Securities_R-12775",
+      "firm": "Invesco",
+      "tier": "top",
+      "minComp": 300000,
+      "posted": "04/19/2026",
+      "isNew": true
+    },
+    {
+      "id": 180,
+      "title": "Head of Accounting & Treasury, Private Credit",
+      "location": "New York, NY",
+      "seniority": "Director",
+      "link": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/New-York-New-York/Head-of-Accounting---Treasury--Private-Credit_R-13013-1",
+      "firm": "Invesco",
+      "tier": "top",
+      "minComp": 300000,
+      "posted": "04/19/2026",
+      "isNew": true
+    },
+    {
+      "id": 181,
+      "title": "MD Gbl Liquidity Cap Mkts",
+      "location": "New York, NY",
+      "seniority": "Managing Director",
+      "link": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/New-York-New-York/MD-Gbl-Liquidity-Cap-Mkts_R-13635",
+      "firm": "Invesco",
+      "tier": "top",
+      "minComp": 400000,
+      "posted": "04/19/2026",
+      "isNew": true
+    },
+    {
+      "id": 182,
+      "title": "Quantitative Developer",
+      "location": "Downers Grove, IL",
+      "seniority": "Senior",
+      "link": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Downers-Grove-Illinois/Quantitative-Developer_R-14044",
+      "firm": "Invesco",
+      "tier": "top",
+      "minComp": 225000,
+      "posted": "05/11/2026",
+      "isNew": true
+    },
+    {
+      "id": 183,
+      "title": "Quantitative Engineer",
+      "location": "Atlanta, GA",
+      "seniority": "Senior",
+      "link": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Quantitative-Engineer_R-13560-1",
+      "firm": "Invesco",
+      "tier": "top",
+      "minComp": 225000,
+      "posted": "04/19/2026",
+      "isNew": true
+    },
+    {
+      "id": 184,
+      "title": "Associate Quantitative Analyst, Fixed Income",
+      "location": "Downers Grove, IL",
+      "seniority": "Senior",
+      "link": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Downers-Grove-Illinois/Associate-Quantitative-Analyst--Fixed-Income_R-13429",
+      "firm": "Invesco",
+      "tier": "top",
+      "minComp": 225000,
+      "posted": "04/19/2026",
+      "isNew": true
+    },
+    {
+      "id": 185,
+      "title": "ETF Strategist",
+      "location": "Downers Grove, IL",
+      "seniority": "Vice President",
+      "link": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Downers-Grove-Illinois/Thematic---Spec-Strategist_R-12993",
+      "firm": "Invesco",
+      "tier": "adjacent",
+      "minComp": 250000,
+      "posted": "04/19/2026",
+      "isNew": true
+    },
+    {
+      "id": 186,
+      "title": "FOO Analyst III, Active Investing Equity",
+      "location": "New York, NY",
+      "seniority": "Senior",
+      "link": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/New-York-New-York/FOO-Analyst-III--Active-Investing-Equity_R-13780",
+      "firm": "Invesco",
+      "tier": "adjacent",
+      "minComp": 225000,
+      "posted": "04/23/2026",
+      "isNew": true
+    },
+    {
+      "id": 187,
+      "title": "MD Gbl Liquidity Direct Sales",
+      "location": "Austin, TX",
+      "seniority": "Managing Director",
+      "link": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Austin-Texas/MD-Gbl-Liquidity-Direct-Sales_R-13760",
+      "firm": "Invesco",
+      "tier": "adjacent",
+      "minComp": 400000,
+      "posted": "04/19/2026",
+      "isNew": true
+    },
+    {
+      "id": 188,
+      "title": "Securities Valuation Analyst I",
+      "location": "Houston, TX",
+      "seniority": "Senior",
+      "link": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Houston-Texas/Securities-Valuation-Analyst-I_R-13689",
+      "firm": "Invesco",
+      "tier": "adjacent",
+      "minComp": 225000,
+      "posted": "05/04/2026",
       "isNew": true
     }
   ]
