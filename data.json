@@ -12,7 +12,8 @@
       "tier": "top",
       "minComp": 375000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 11
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "tier": "top",
       "minComp": 350000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 88
     },
     {
       "id": 3,
@@ -36,7 +38,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 11
     },
     {
       "id": 4,
@@ -48,7 +51,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 5,
@@ -60,7 +64,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 65
     },
     {
       "id": 6,
@@ -72,7 +77,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 8
     },
     {
       "id": 7,
@@ -84,7 +90,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 26
     },
     {
       "id": 8,
@@ -96,7 +103,8 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "04/06/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 15
     },
     {
       "id": 9,
@@ -108,7 +116,8 @@
       "tier": "top",
       "minComp": 400000,
       "posted": "05/11/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 5
     },
     {
       "id": 10,
@@ -120,7 +129,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 85
     },
     {
       "id": 11,
@@ -132,7 +142,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 42
     },
     {
       "id": 12,
@@ -144,7 +155,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 13,
@@ -156,7 +168,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 14,
@@ -168,7 +181,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 20
     },
     {
       "id": 15,
@@ -180,7 +194,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 30
     },
     {
       "id": 16,
@@ -192,7 +207,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 17,
@@ -204,7 +220,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 18,
@@ -216,7 +233,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 42
     },
     {
       "id": 19,
@@ -228,7 +246,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 55
     },
     {
       "id": 20,
@@ -240,7 +259,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 34
     },
     {
       "id": 21,
@@ -252,7 +272,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 22,
@@ -264,7 +285,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 23,
@@ -276,7 +298,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 37
     },
     {
       "id": 24,
@@ -288,7 +311,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 25,
@@ -300,7 +324,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 20
     },
     {
       "id": 26,
@@ -312,7 +337,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 67
     },
     {
       "id": 27,
@@ -324,7 +350,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 28,
@@ -336,7 +363,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 8
     },
     {
       "id": 29,
@@ -348,7 +376,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 30,
@@ -360,7 +389,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 31,
@@ -372,7 +402,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 20
     },
     {
       "id": 32,
@@ -384,7 +415,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 33,
@@ -396,7 +428,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 34,
@@ -408,7 +441,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 6
     },
     {
       "id": 35,
@@ -420,7 +454,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 36,
@@ -432,7 +467,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 43
     },
     {
       "id": 37,
@@ -444,7 +480,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 20
     },
     {
       "id": 38,
@@ -456,7 +493,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 73
     },
     {
       "id": 39,
@@ -468,7 +506,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 40,
@@ -480,7 +519,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 41,
@@ -492,7 +532,8 @@
       "tier": "top",
       "minComp": 350000,
       "posted": "04/14/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 35
     },
     {
       "id": 42,
@@ -504,7 +545,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "04/23/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 55
     },
     {
       "id": 43,
@@ -516,7 +558,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "04/10/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 59
     },
     {
       "id": 44,
@@ -528,7 +571,8 @@
       "tier": "top",
       "minComp": 350000,
       "posted": "04/15/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 35
     },
     {
       "id": 45,
@@ -540,7 +584,8 @@
       "tier": "top",
       "minComp": 350000,
       "posted": "01/14/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 62
     },
     {
       "id": 46,
@@ -552,7 +597,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 47,
@@ -564,7 +610,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 48,
@@ -576,7 +623,8 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "03/24/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 72
     },
     {
       "id": 49,
@@ -588,7 +636,8 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "04/22/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 5
     },
     {
       "id": 50,
@@ -600,7 +649,8 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "04/29/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 51,
@@ -612,7 +662,8 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 52,
@@ -624,7 +675,8 @@
       "tier": "adjacent",
       "minComp": 300000,
       "posted": "04/28/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 53,
@@ -636,7 +688,8 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "03/26/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 31
     },
     {
       "id": 54,
@@ -648,7 +701,8 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "03/31/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 53
     },
     {
       "id": 55,
@@ -660,7 +714,8 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "03/24/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 50
     },
     {
       "id": 56,
@@ -672,7 +727,8 @@
       "tier": "adjacent",
       "minComp": 300000,
       "posted": "03/26/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 57,
@@ -684,7 +740,8 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "12/17/2025",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 58,
@@ -696,7 +753,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "04/03/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 50
     },
     {
       "id": 59,
@@ -708,7 +766,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "03/11/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 15
     },
     {
       "id": 60,
@@ -720,7 +779,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "03/11/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 61,
@@ -732,7 +792,8 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "04/30/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 12
     },
     {
       "id": 62,
@@ -744,7 +805,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "04/08/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 63,
@@ -756,7 +818,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "04/08/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 64,
@@ -768,7 +831,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 65,
@@ -780,7 +844,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "04/07/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 66,
@@ -792,7 +857,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "04/16/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 67,
@@ -804,7 +870,8 @@
       "tier": "adjacent",
       "minComp": 300000,
       "posted": "01/14/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 17
     },
     {
       "id": 68,
@@ -816,7 +883,8 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "04/22/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 5
     },
     {
       "id": 69,
@@ -828,7 +896,8 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "03/26/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 23
     },
     {
       "id": 70,
@@ -840,7 +909,8 @@
       "tier": "adjacent",
       "minComp": 300000,
       "posted": "01/14/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 25
     },
     {
       "id": 71,
@@ -852,7 +922,8 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "05/04/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 72,
@@ -864,7 +935,8 @@
       "tier": "top",
       "minComp": 400000,
       "posted": "03/17/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 5
     },
     {
       "id": 73,
@@ -876,7 +948,8 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "05/13/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 24
     },
     {
       "id": 74,
@@ -888,7 +961,8 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "05/05/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 15
     },
     {
       "id": 75,
@@ -900,7 +974,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "05/05/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 12
     },
     {
       "id": 76,
@@ -912,7 +987,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 50
     },
     {
       "id": 77,
@@ -924,7 +1000,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "05/05/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 78,
@@ -936,7 +1013,8 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "03/20/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 12
     },
     {
       "id": 79,
@@ -948,7 +1026,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "01/20/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 20
     },
     {
       "id": 80,
@@ -960,7 +1039,8 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "03/11/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 8
     },
     {
       "id": 81,
@@ -972,7 +1052,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/10/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 82,
@@ -984,7 +1065,8 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "03/17/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 83,
@@ -996,7 +1078,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "03/23/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 84,
@@ -1008,7 +1091,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/13/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 85,
@@ -1020,7 +1104,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "01/29/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 86,
@@ -1032,7 +1117,8 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "05/03/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 18
     },
     {
       "id": 87,
@@ -1044,7 +1130,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "04/27/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 85
     },
     {
       "id": 88,
@@ -1056,7 +1143,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "04/25/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 8
     },
     {
       "id": 89,
@@ -1068,7 +1156,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "04/22/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 23
     },
     {
       "id": 90,
@@ -1080,7 +1169,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "04/22/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 91,
@@ -1092,7 +1182,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "04/22/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 45
     },
     {
       "id": 92,
@@ -1104,7 +1195,8 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "05/04/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 12
     },
     {
       "id": 93,
@@ -1116,7 +1208,8 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "04/15/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 22
     },
     {
       "id": 94,
@@ -1128,7 +1221,8 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "04/15/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 12
     },
     {
       "id": 95,
@@ -1140,7 +1234,8 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "04/15/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 32
     },
     {
       "id": 96,
@@ -1152,7 +1247,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "04/15/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 45
     },
     {
       "id": 97,
@@ -1164,7 +1260,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "04/27/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 45
     },
     {
       "id": 98,
@@ -1176,7 +1273,8 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "04/15/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 99,
@@ -1188,7 +1286,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "04/15/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 100,
@@ -1200,7 +1299,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "04/15/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 101,
@@ -1212,7 +1312,8 @@
       "tier": "top",
       "minComp": 350000,
       "posted": "04/15/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 25
     },
     {
       "id": 102,
@@ -1224,7 +1325,8 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "04/15/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 103,
@@ -1236,7 +1338,8 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "04/15/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 104,
@@ -1248,7 +1351,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/15/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 12
     },
     {
       "id": 105,
@@ -1260,7 +1364,8 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "04/15/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 22
     },
     {
       "id": 106,
@@ -1272,7 +1377,8 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "04/15/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 22
     },
     {
       "id": 107,
@@ -1284,7 +1390,8 @@
       "tier": "top",
       "minComp": 350000,
       "posted": "05/06/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 61
     },
     {
       "id": 108,
@@ -1296,7 +1403,8 @@
       "tier": "top",
       "minComp": 350000,
       "posted": "04/15/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 35
     },
     {
       "id": 109,
@@ -1308,7 +1416,8 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "04/15/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 110,
@@ -1320,7 +1429,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "04/15/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 111,
@@ -1332,7 +1442,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/15/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 38
     },
     {
       "id": 112,
@@ -1344,7 +1455,8 @@
       "tier": "adjacent",
       "minComp": 300000,
       "posted": "04/15/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 5
     },
     {
       "id": 113,
@@ -1356,7 +1468,8 @@
       "tier": "adjacent",
       "minComp": 300000,
       "posted": "05/03/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 5
     },
     {
       "id": 114,
@@ -1368,7 +1481,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/15/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 15
     },
     {
       "id": 115,
@@ -1380,7 +1494,8 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "05/10/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 12
     },
     {
       "id": 116,
@@ -1392,7 +1507,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "05/10/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 22
     },
     {
       "id": 117,
@@ -1404,7 +1520,8 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "05/10/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 11
     },
     {
       "id": 118,
@@ -1416,7 +1533,8 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "05/10/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 119,
@@ -1428,7 +1546,8 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "05/10/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 120,
@@ -1440,7 +1559,8 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "04/26/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 5
     },
     {
       "id": 121,
@@ -1452,7 +1572,8 @@
       "tier": "adjacent",
       "minComp": 300000,
       "posted": "04/28/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 20
     },
     {
       "id": 122,
@@ -1464,7 +1585,8 @@
       "tier": "adjacent",
       "minComp": 300000,
       "posted": "04/22/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 5
     },
     {
       "id": 123,
@@ -1476,7 +1598,8 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "05/09/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 124,
@@ -1488,7 +1611,8 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "05/06/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 125,
@@ -1500,7 +1624,8 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "05/06/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 126,
@@ -1512,7 +1637,8 @@
       "tier": "adjacent",
       "minComp": 300000,
       "posted": "05/13/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 5
     },
     {
       "id": 127,
@@ -1524,7 +1650,8 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "05/11/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 128,
@@ -1536,7 +1663,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "05/05/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 129,
@@ -1548,7 +1676,8 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "04/15/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 130,
@@ -1560,7 +1689,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/26/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 131,
@@ -1572,7 +1702,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "05/05/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 132,
@@ -1584,7 +1715,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "04/15/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 133,
@@ -1596,7 +1728,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "05/05/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 50
     },
     {
       "id": 134,
@@ -1608,7 +1741,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "04/15/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 75
     },
     {
       "id": 135,
@@ -1620,7 +1754,8 @@
       "tier": "top",
       "minComp": 200000,
       "posted": "04/23/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 136,
@@ -1632,7 +1767,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/15/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 27
     },
     {
       "id": 137,
@@ -1644,7 +1780,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "04/21/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 138,
@@ -1656,7 +1793,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/15/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 139,
@@ -1668,7 +1806,8 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "04/15/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 140,
@@ -1680,7 +1819,8 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "05/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 12
     },
     {
       "id": 141,
@@ -1692,7 +1832,8 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "05/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 52
     },
     {
       "id": 142,
@@ -1704,7 +1845,8 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "05/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 12
     },
     {
       "id": 143,
@@ -1716,7 +1858,8 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "05/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 28
     },
     {
       "id": 144,
@@ -1728,7 +1871,8 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "05/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 17
     },
     {
       "id": 145,
@@ -1740,7 +1884,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "05/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 146,
@@ -1752,7 +1897,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "05/15/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 18
     },
     {
       "id": 147,
@@ -1764,7 +1910,8 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "05/15/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 2
     },
     {
       "id": 148,
@@ -1776,7 +1923,8 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "04/18/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 149,
@@ -1788,7 +1936,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/30/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 150,
@@ -1800,7 +1949,8 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "04/29/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 151,
@@ -1812,7 +1962,8 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "05/12/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 152,
@@ -1824,7 +1975,8 @@
       "tier": "adjacent",
       "minComp": 300000,
       "posted": "05/12/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 5
     },
     {
       "id": 153,
@@ -1836,7 +1988,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/18/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 154,
@@ -1848,7 +2001,8 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "04/18/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 20
     },
     {
       "id": 155,
@@ -1860,7 +2014,8 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "04/18/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 30
     },
     {
       "id": 156,
@@ -1872,7 +2027,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/18/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 157,
@@ -1884,7 +2040,8 @@
       "tier": "adjacent",
       "minComp": 200000,
       "posted": "05/05/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 6
     },
     {
       "id": 158,
@@ -1896,7 +2053,8 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "05/15/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 47
     },
     {
       "id": 159,
@@ -1908,7 +2066,8 @@
       "tier": "adjacent",
       "minComp": 200000,
       "posted": "04/18/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 160,
@@ -1920,7 +2079,8 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "05/15/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 161,
@@ -1932,7 +2092,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "05/09/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 162,
@@ -1944,7 +2105,8 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "05/15/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 163,
@@ -1956,7 +2118,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "05/16/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 164,
@@ -1968,7 +2131,8 @@
       "tier": "top",
       "minComp": 350000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 70
     },
     {
       "id": 165,
@@ -1980,7 +2144,8 @@
       "tier": "top",
       "minComp": 350000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 23
     },
     {
       "id": 166,
@@ -1992,7 +2157,8 @@
       "tier": "top",
       "minComp": 350000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 5
     },
     {
       "id": 167,
@@ -2004,7 +2170,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/30/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 168,
@@ -2016,7 +2183,8 @@
       "tier": "adjacent",
       "minComp": 300000,
       "posted": "04/19/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 5
     },
     {
       "id": 169,
@@ -2028,7 +2196,8 @@
       "tier": "adjacent",
       "minComp": 300000,
       "posted": "04/24/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 5
     },
     {
       "id": 170,
@@ -2040,7 +2209,8 @@
       "tier": "adjacent",
       "minComp": 300000,
       "posted": "04/19/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 171,
@@ -2052,7 +2222,8 @@
       "tier": "adjacent",
       "minComp": 300000,
       "posted": "05/12/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 11
     },
     {
       "id": 172,
@@ -2064,7 +2235,8 @@
       "tier": "adjacent",
       "minComp": 300000,
       "posted": "04/19/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 5
     },
     {
       "id": 173,
@@ -2076,7 +2248,8 @@
       "tier": "adjacent",
       "minComp": 300000,
       "posted": "05/14/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 5
     },
     {
       "id": 174,
@@ -2088,7 +2261,8 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "04/21/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 5
     },
     {
       "id": 175,
@@ -2100,7 +2274,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "04/20/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 80
     },
     {
       "id": 176,
@@ -2112,7 +2287,8 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "04/23/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 12
     },
     {
       "id": 177,
@@ -2124,7 +2300,8 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "05/05/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 18
     },
     {
       "id": 178,
@@ -2136,7 +2313,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "04/19/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 33
     },
     {
       "id": 179,
@@ -2148,7 +2326,8 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "04/19/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 23
     },
     {
       "id": 180,
@@ -2160,7 +2339,8 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "04/19/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 181,
@@ -2172,7 +2352,8 @@
       "tier": "top",
       "minComp": 400000,
       "posted": "04/19/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 10
     },
     {
       "id": 182,
@@ -2184,7 +2365,8 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "05/11/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 183,
@@ -2196,7 +2378,8 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "04/19/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 10
     },
     {
       "id": 184,
@@ -2208,7 +2391,8 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "04/19/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 30
     },
     {
       "id": 185,
@@ -2220,7 +2404,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/19/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 186,
@@ -2232,7 +2417,8 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "04/23/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 187,
@@ -2244,7 +2430,8 @@
       "tier": "adjacent",
       "minComp": 400000,
       "posted": "04/19/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 10
     },
     {
       "id": 188,
@@ -2256,7 +2443,8 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "05/04/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 26
     },
     {
       "id": 189,
@@ -2268,7 +2456,8 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "04/27/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 28
     },
     {
       "id": 190,
@@ -2280,7 +2469,8 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "05/18/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 12
     },
     {
       "id": 191,
@@ -2292,7 +2482,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "05/12/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 192,
@@ -2304,7 +2495,8 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "04/19/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 37
     },
     {
       "id": 193,
@@ -2316,7 +2508,8 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "04/27/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 2
     },
     {
       "id": 194,
@@ -2328,7 +2521,8 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "04/30/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 195,
@@ -2340,7 +2534,8 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "04/30/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 196,
@@ -2352,7 +2547,8 @@
       "tier": "top",
       "minComp": 350000,
       "posted": "05/12/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 5
     },
     {
       "id": 197,
@@ -2364,7 +2560,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "05/01/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 198,
@@ -2376,7 +2573,8 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "05/13/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 12
     },
     {
       "id": 199,
@@ -2388,7 +2586,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/27/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 200,
@@ -2400,7 +2599,8 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "04/27/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 201,
@@ -2412,7 +2612,8 @@
       "tier": "adjacent",
       "minComp": 300000,
       "posted": "05/12/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 5
     },
     {
       "id": 202,
@@ -2424,7 +2625,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "05/18/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 203,
@@ -2436,7 +2638,8 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "05/18/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 204,
@@ -2448,7 +2651,8 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "02/09/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 5
     },
     {
       "id": 205,
@@ -2460,7 +2664,8 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "04/03/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 5
     },
     {
       "id": 206,
@@ -2472,7 +2677,8 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "02/12/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 5
     },
     {
       "id": 207,
@@ -2484,7 +2690,8 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "03/02/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 208,
@@ -2496,7 +2703,8 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "04/20/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 209,
@@ -2508,7 +2716,8 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "04/03/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 20
     },
     {
       "id": 210,
@@ -2520,7 +2729,8 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "12/23/2025",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 211,
@@ -2532,7 +2742,8 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "02/26/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 212,
@@ -2544,7 +2755,8 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "11/11/2025",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 213,
@@ -2556,7 +2768,8 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "04/14/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 214,
@@ -2568,7 +2781,8 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "05/15/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 215,
@@ -2580,7 +2794,8 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "05/06/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 216,
@@ -2592,7 +2807,8 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "04/29/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 217,
@@ -2604,7 +2820,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "03/20/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 218,
@@ -2616,7 +2833,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "05/15/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 219,
@@ -2628,7 +2846,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "04/22/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 57
     },
     {
       "id": 220,
@@ -2640,7 +2859,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "04/22/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 221,
@@ -2652,7 +2872,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "05/13/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 15
     },
     {
       "id": 222,
@@ -2664,7 +2885,8 @@
       "tier": "adjacent",
       "minComp": 375000,
       "posted": "05/12/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 5
     },
     {
       "id": 223,
@@ -2676,7 +2898,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "05/05/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 50
     },
     {
       "id": 224,
@@ -2688,7 +2911,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "05/05/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 15
     },
     {
       "id": 225,
@@ -2700,7 +2924,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "05/04/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 226,
@@ -2712,7 +2937,8 @@
       "tier": "top",
       "minComp": 350000,
       "posted": "04/28/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 5
     },
     {
       "id": 227,
@@ -2724,7 +2950,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/22/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 228,
@@ -2736,7 +2963,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "04/22/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 229,
@@ -2748,7 +2976,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "04/22/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 56
     },
     {
       "id": 230,
@@ -2760,7 +2989,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "05/20/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 8
     },
     {
       "id": 231,
@@ -2772,7 +3002,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/22/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 25
     },
     {
       "id": 232,
@@ -2784,7 +3015,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/22/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 233,
@@ -2796,7 +3028,8 @@
       "tier": "adjacent",
       "minComp": 275000,
       "posted": "04/22/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 60
     },
     {
       "id": 234,
@@ -2808,7 +3041,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "05/18/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 235,
@@ -2820,7 +3054,8 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "05/12/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 236,
@@ -2832,7 +3067,8 @@
       "tier": "adjacent",
       "minComp": 300000,
       "posted": "05/05/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 5
     },
     {
       "id": 237,
@@ -2844,7 +3080,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "05/04/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 238,
@@ -2856,7 +3093,8 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "05/04/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 239,
@@ -2868,7 +3106,8 @@
       "tier": "adjacent",
       "minComp": 300000,
       "posted": "04/22/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 5
     },
     {
       "id": 240,
@@ -2880,7 +3119,8 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "05/18/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 241,
@@ -2892,7 +3132,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "04/22/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 242,
@@ -2904,7 +3145,8 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "05/19/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 6
     },
     {
       "id": 243,
@@ -2916,7 +3158,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "05/06/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 244,
@@ -2928,7 +3171,8 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "05/05/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 245,
@@ -2940,7 +3184,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "05/05/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 246,
@@ -2952,7 +3197,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "05/05/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 247,
@@ -2964,7 +3210,8 @@
       "tier": "top",
       "minComp": 350000,
       "posted": "05/04/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 27
     },
     {
       "id": 248,
@@ -2976,7 +3223,8 @@
       "tier": "top",
       "minComp": 350000,
       "posted": "05/04/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 5
     },
     {
       "id": 249,
@@ -2988,7 +3236,8 @@
       "tier": "top",
       "minComp": 350000,
       "posted": "05/04/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 5
     },
     {
       "id": 250,
@@ -3000,7 +3249,8 @@
       "tier": "top",
       "minComp": 400000,
       "posted": "05/04/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 10
     },
     {
       "id": 251,
@@ -3012,7 +3262,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "05/01/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 50
     },
     {
       "id": 252,
@@ -3024,7 +3275,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "04/22/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 253,
@@ -3036,7 +3288,8 @@
       "tier": "top",
       "minComp": 350000,
       "posted": "04/22/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 5
     },
     {
       "id": 254,
@@ -3048,7 +3301,8 @@
       "tier": "top",
       "minComp": 350000,
       "posted": "04/22/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 5
     },
     {
       "id": 255,
@@ -3060,7 +3314,8 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "04/30/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 256,
@@ -3072,7 +3327,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "Posted Yesterday",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 257,
@@ -3084,7 +3340,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "05/12/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 258,
@@ -3096,7 +3353,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "05/18/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 259,
@@ -3108,7 +3366,8 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "05/04/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 260,
@@ -3120,7 +3379,8 @@
       "tier": "adjacent",
       "minComp": 300000,
       "posted": "04/28/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 261,
@@ -3132,7 +3392,8 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "04/27/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 21
     },
     {
       "id": 262,
@@ -3144,7 +3405,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 15
     },
     {
       "id": 263,
@@ -3156,7 +3418,8 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "Posted Yesterday",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 264,
@@ -3168,7 +3431,8 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "05/13/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 265,
@@ -3180,7 +3444,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "05/20/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 266,
@@ -3192,7 +3457,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/28/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 267,
@@ -3204,7 +3470,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/30/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 268,
@@ -3216,7 +3483,8 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "05/08/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 2
     },
     {
       "id": 269,
@@ -3228,7 +3496,8 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 2
     },
     {
       "id": 270,
@@ -3240,7 +3509,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "05/19/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 271,
@@ -3252,7 +3522,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "05/13/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 272,
@@ -3264,7 +3535,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/30/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 273,
@@ -3276,7 +3548,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "05/14/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 274,
@@ -3288,7 +3561,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "05/18/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 275,
@@ -3300,7 +3574,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "05/20/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 276,
@@ -3312,7 +3587,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "Posted Yesterday",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 277,
@@ -3324,7 +3600,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/22/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 278,
@@ -3336,7 +3613,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/22/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 279,
@@ -3348,7 +3626,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/22/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 280,
@@ -3360,7 +3639,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/22/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 281,
@@ -3372,7 +3652,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/22/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 282,
@@ -3384,7 +3665,8 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "05/19/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 283,
@@ -3396,7 +3678,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "05/18/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 284,
@@ -3408,7 +3691,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "05/08/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 3
     },
     {
       "id": 285,
@@ -3420,7 +3704,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/22/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 286,
@@ -3432,7 +3717,8 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/22/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 287,
@@ -3444,7 +3730,8 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "05/18/2026",
-      "isNew": false
+      "isNew": false,
+      "fit": 2
     },
     {
       "id": 288,
@@ -3456,7 +3743,8 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 289,
@@ -3468,7 +3756,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 12
     },
     {
       "id": 290,
@@ -3480,7 +3769,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 10
     },
     {
       "id": 291,
@@ -3492,7 +3782,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 22
     },
     {
       "id": 292,
@@ -3504,7 +3795,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 30
     },
     {
       "id": 293,
@@ -3516,7 +3808,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 294,
@@ -3528,7 +3821,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 295,
@@ -3540,7 +3834,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 18
     },
     {
       "id": 296,
@@ -3552,7 +3847,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 100
     },
     {
       "id": 297,
@@ -3564,7 +3860,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 298,
@@ -3576,7 +3873,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 0
     },
     {
       "id": 299,
@@ -3588,7 +3886,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 100
     },
     {
       "id": 300,
@@ -3600,7 +3899,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 6
     },
     {
       "id": 301,
@@ -3612,7 +3912,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 51
     },
     {
       "id": 302,
@@ -3624,7 +3925,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 48
     },
     {
       "id": 303,
@@ -3636,7 +3938,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 85
     },
     {
       "id": 304,
@@ -3648,7 +3951,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 44
     },
     {
       "id": 305,
@@ -3660,7 +3964,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 11
     },
     {
       "id": 306,
@@ -3672,7 +3977,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "",
-      "isNew": false
+      "isNew": false,
+      "fit": 15
     },
     {
       "id": 307,
@@ -3684,7 +3990,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "",
-      "isNew": true
+      "isNew": true,
+      "fit": 11
     },
     {
       "id": 308,
@@ -3696,7 +4003,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "",
-      "isNew": true
+      "isNew": true,
+      "fit": 10
     },
     {
       "id": 309,
@@ -3708,7 +4016,8 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "",
-      "isNew": true
+      "isNew": true,
+      "fit": 0
     },
     {
       "id": 310,
@@ -3720,7 +4029,8 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "",
-      "isNew": true
+      "isNew": true,
+      "fit": 8
     },
     {
       "id": 311,
@@ -3732,7 +4042,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "",
-      "isNew": true
+      "isNew": true,
+      "fit": 11
     }
   ]
 }
