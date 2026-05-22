@@ -247,7 +247,7 @@ document.querySelectorAll('th[data-col]').forEach(th => {
 });
 
 // Load data
-fetch('data.json').then(r => r.json()).then(d => {
+fetch('data.json?v='+Date.now()).then(r => r.json()).then(d => {
   document.getElementById('total-count').textContent = d.total;
   document.getElementById('gen-date').textContent = d.generated;
   allRoles = d.roles;
