@@ -1,6 +1,6 @@
 {
   "generated": "2026-05-22",
-  "total": 291,
+  "total": 306,
   "roles": [
     {
       "id": 1,
@@ -3096,7 +3096,7 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "05/18/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 259,
@@ -3108,7 +3108,7 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "05/04/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 260,
@@ -3120,7 +3120,7 @@
       "tier": "adjacent",
       "minComp": 300000,
       "posted": "04/28/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 261,
@@ -3132,7 +3132,7 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "04/27/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 262,
@@ -3148,6 +3148,78 @@
     },
     {
       "id": 263,
+      "title": "Senior Investment Accountant - Derivatives",
+      "location": "2 Locations",
+      "seniority": "Senior",
+      "link": "https://athene.wd5.myworkdayjobs.com/en-US/athene_careers/job//job/West-Des-Moines-Iowa/Senior-Investment-Accountant---Derivatives_R254688",
+      "firm": "Athene",
+      "tier": "adjacent",
+      "minComp": 225000,
+      "posted": "Posted Yesterday",
+      "isNew": true
+    },
+    {
+      "id": 264,
+      "title": "Senior Investment Analyst",
+      "location": "Toronto, Ontario",
+      "seniority": "Senior",
+      "link": "https://athene.wd5.myworkdayjobs.com/en-US/athene_careers/job//job/Toronto-Ontario/Investment-Senior-Analyst_R254571",
+      "firm": "Athene",
+      "tier": "adjacent",
+      "minComp": 225000,
+      "posted": "05/13/2026",
+      "isNew": true
+    },
+    {
+      "id": 265,
+      "title": "Internal Wholesaler Bank/BD/IMO",
+      "location": "West Des Moines, Iowa",
+      "seniority": "Vice President",
+      "link": "https://athene.wd5.myworkdayjobs.com/en-US/athene_careers/job//job/West-Des-Moines-Iowa/Internal-Wholesaler-Bank-BD_R254461",
+      "firm": "Athene",
+      "tier": "adjacent",
+      "minComp": 250000,
+      "posted": "05/20/2026",
+      "isNew": true
+    },
+    {
+      "id": 266,
+      "title": "VP Internal Sales",
+      "location": "West Des Moines, Iowa",
+      "seniority": "Vice President",
+      "link": "https://athene.wd5.myworkdayjobs.com/en-US/athene_careers/job//job/West-Des-Moines-Iowa/VP-Internal-Sales_R254459",
+      "firm": "Athene",
+      "tier": "adjacent",
+      "minComp": 250000,
+      "posted": "04/28/2026",
+      "isNew": true
+    },
+    {
+      "id": 267,
+      "title": "RVP/External Wholesaler- Virginia (Remote)",
+      "location": "Remote, VA",
+      "seniority": "Vice President",
+      "link": "https://athene.wd5.myworkdayjobs.com/en-US/athene_careers/job//job/Remote-VA/VP-Relationship-Manager_R254556",
+      "firm": "Athene",
+      "tier": "adjacent",
+      "minComp": 250000,
+      "posted": "04/30/2026",
+      "isNew": true
+    },
+    {
+      "id": 268,
+      "title": "AVP Strategic Partnerships",
+      "location": "3 Locations",
+      "seniority": "AVP",
+      "link": "https://athene.wd5.myworkdayjobs.com/en-US/athene_careers/job//job/Remote-NY/AVP-Strategic-Partnerships_R254554",
+      "firm": "Athene",
+      "tier": "adjacent",
+      "minComp": 225000,
+      "posted": "05/08/2026",
+      "isNew": true
+    },
+    {
+      "id": 269,
       "title": "Data Analytics Developer, AVP - Credit and Insurance",
       "location": "Miami",
       "seniority": "AVP",
@@ -3159,7 +3231,7 @@
       "isNew": false
     },
     {
-      "id": 264,
+      "id": 270,
       "title": "Lead Architect, Investment Management Strategy",
       "location": "Irvine",
       "seniority": "Lead",
@@ -3168,10 +3240,10 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "05/19/2026",
-      "isNew": true
+      "isNew": false
     },
     {
-      "id": 265,
+      "id": 271,
       "title": "AI Risk Specialist",
       "location": "2 Locations",
       "seniority": "Vice President",
@@ -3180,10 +3252,10 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "05/13/2026",
-      "isNew": true
+      "isNew": false
     },
     {
-      "id": 266,
+      "id": 272,
       "title": "Portfolio Architecture Senior Manager - Global Business Services and\u00a0Corporate\u00a0functions",
       "location": "2 Locations",
       "seniority": "Manager",
@@ -3192,10 +3264,118 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/30/2026",
+      "isNew": false
+    },
+    {
+      "id": 273,
+      "title": "Wealth Management Customer Service Specialist",
+      "location": "Bethlehem",
+      "seniority": "Vice President",
+      "link": "https://guardianlife.wd5.myworkdayjobs.com/en-US/Guardian-Life-Careers/job//job/Bethlehem/Wealth-Management-Customer-Service-Specialist_R000109237-1",
+      "firm": "Guardian Life",
+      "tier": "adjacent",
+      "minComp": 250000,
+      "posted": "05/14/2026",
       "isNew": true
     },
     {
-      "id": 267,
+      "id": 274,
+      "title": "Wealth Management Planning Team Leader",
+      "location": "2 Locations",
+      "seniority": "Lead",
+      "link": "https://guardianlife.wd5.myworkdayjobs.com/en-US/Guardian-Life-Careers/job//job/New-York/Wealth-Management-Planning-Team-Leader_R000109116",
+      "firm": "Guardian Life",
+      "tier": "adjacent",
+      "minComp": 250000,
+      "posted": "05/18/2026",
+      "isNew": true
+    },
+    {
+      "id": 275,
+      "title": "Corporate Development Manager",
+      "location": "New York",
+      "seniority": "Manager",
+      "link": "https://guardianlife.wd5.myworkdayjobs.com/en-US/Guardian-Life-Careers/job//job/New-York/Corporate-Development-Manager_R000109147",
+      "firm": "Guardian Life",
+      "tier": "adjacent",
+      "minComp": 250000,
+      "posted": "05/20/2026",
+      "isNew": true
+    },
+    {
+      "id": 276,
+      "title": "Marketing Manager, Retirement and Annuity Marketing",
+      "location": "3 Locations",
+      "seniority": "Manager",
+      "link": "https://guardianlife.wd5.myworkdayjobs.com/en-US/Guardian-Life-Careers/job//job/New-York/Marketing-Manager--Retirement-and-Annuity-Marketing_R000109343",
+      "firm": "Guardian Life",
+      "tier": "adjacent",
+      "minComp": 250000,
+      "posted": "Posted Yesterday",
+      "isNew": true
+    },
+    {
+      "id": 277,
+      "title": "Investment & Accounting Associate",
+      "location": "Mumbai, India",
+      "seniority": "Vice President",
+      "link": "https://guggenheiminvestment.wd5.myworkdayjobs.com/en-US/External/job//job/Mumbai-India/Investment---Accounting-Associate_JR-2026-101056",
+      "firm": "Guggenheim",
+      "tier": "adjacent",
+      "minComp": 250000,
+      "posted": "04/22/2026",
+      "isNew": true
+    },
+    {
+      "id": 278,
+      "title": "Transaction Services - Trade Confirmation & Settlement",
+      "location": "Chicago, IL",
+      "seniority": "Vice President",
+      "link": "https://guggenheiminvestment.wd5.myworkdayjobs.com/en-US/External/job//job/Chicago-IL/Trade-Confirmation---Settlement_JR-2025-100794",
+      "firm": "Guggenheim",
+      "tier": "adjacent",
+      "minComp": 250000,
+      "posted": "04/22/2026",
+      "isNew": true
+    },
+    {
+      "id": 279,
+      "title": "Regional Vice President, Michigan",
+      "location": "Remote",
+      "seniority": "Vice President",
+      "link": "https://guggenheiminvestment.wd5.myworkdayjobs.com/en-US/External/job//job/Remote/Regional-Vice-President--Michigan_JR-2026-101075",
+      "firm": "Guggenheim",
+      "tier": "adjacent",
+      "minComp": 250000,
+      "posted": "04/22/2026",
+      "isNew": true
+    },
+    {
+      "id": 280,
+      "title": "Regional Sales Associate - Internal Sales (AS)",
+      "location": "227 Monroe St (7th Fl), Chicago, IL,US",
+      "seniority": "Vice President",
+      "link": "https://guggenheiminvestment.wd5.myworkdayjobs.com/en-US/External/job//job/227-Monroe-St-7th-Fl-Chicago-ILUS/Regional-Sales-Associate---Internal-Sales--AS-_JR-2025-100841",
+      "firm": "Guggenheim",
+      "tier": "adjacent",
+      "minComp": 250000,
+      "posted": "04/22/2026",
+      "isNew": true
+    },
+    {
+      "id": 281,
+      "title": "Cash Services - Reconciliation Sr. Associate",
+      "location": "Chicago, IL",
+      "seniority": "Vice President",
+      "link": "https://guggenheiminvestment.wd5.myworkdayjobs.com/en-US/External/job//job/Chicago-IL/Cash-Services---Reconciliation-Associate_JR-2025-100948-1",
+      "firm": "Guggenheim",
+      "tier": "adjacent",
+      "minComp": 250000,
+      "posted": "04/22/2026",
+      "isNew": true
+    },
+    {
+      "id": 282,
       "title": "Senior Software Developer \u2013 Security Risk Modelling",
       "location": "Newport Beach, CA USA",
       "seniority": "Senior",
@@ -3204,10 +3384,10 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "05/19/2026",
-      "isNew": true
+      "isNew": false
     },
     {
-      "id": 268,
+      "id": 283,
       "title": "VP, Product Engineer, Alternatives",
       "location": "Newport Beach, CA USA",
       "seniority": "Vice President",
@@ -3216,10 +3396,10 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "05/18/2026",
-      "isNew": true
+      "isNew": false
     },
     {
-      "id": 269,
+      "id": 284,
       "title": "Vice President, Alternatives Finance Control (Alternative Fund Services)",
       "location": "3 Locations",
       "seniority": "Vice President",
@@ -3228,10 +3408,10 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "05/08/2026",
-      "isNew": true
+      "isNew": false
     },
     {
-      "id": 270,
+      "id": 285,
       "title": "Account Manager, Alternatives Investment Specialist (West Region)",
       "location": "2 Locations",
       "seniority": "Manager",
@@ -3240,10 +3420,10 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/22/2026",
-      "isNew": true
+      "isNew": false
     },
     {
-      "id": 271,
+      "id": 286,
       "title": "Vice President, Alternatives Marketing Manager \u2013 U.S. Global Wealth Management (GWM)",
       "location": "2 Locations",
       "seniority": "Vice President",
@@ -3252,10 +3432,10 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/22/2026",
-      "isNew": true
+      "isNew": false
     },
     {
-      "id": 272,
+      "id": 287,
       "title": "AVP - Workforce Benefits Risk Management",
       "location": "2 Locations",
       "seniority": "AVP",
@@ -3264,10 +3444,10 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "05/18/2026",
-      "isNew": true
+      "isNew": false
     },
     {
-      "id": 273,
+      "id": 288,
       "title": "Sr. Software Developer, Financial Risk & Automation",
       "location": "Atlanta, GA",
       "seniority": "Senior",
@@ -3279,7 +3459,7 @@
       "isNew": false
     },
     {
-      "id": 274,
+      "id": 289,
       "title": "Asset & Wealth Management, Credit Research, Associate, TaiwanTaipei\u00b7Taiwan\u00b7Associate",
       "location": "US",
       "seniority": "VP+",
@@ -3291,7 +3471,7 @@
       "isNew": false
     },
     {
-      "id": 275,
+      "id": 290,
       "title": "Legal, Asset Management Structured Finance Attorney, Vice President, Dallas/",
       "location": "New York",
       "seniority": "VP+",
@@ -3303,7 +3483,7 @@
       "isNew": false
     },
     {
-      "id": 276,
+      "id": 291,
       "title": "Global Investment Research, Credit Research Analyst",
       "location": "Salt Lake City",
       "seniority": "VP+",
@@ -3315,7 +3495,7 @@
       "isNew": false
     },
     {
-      "id": 277,
+      "id": 292,
       "title": "Asset & Wealth Management, Credit Secondaries & Portfolio Finance - Vintage Credit Opportunity Partners (VCOP), Associate",
       "location": "New York",
       "seniority": "VP+",
@@ -3327,7 +3507,7 @@
       "isNew": false
     },
     {
-      "id": 278,
+      "id": 293,
       "title": "Compliance- Control, Finance and Operating (CF&O) - Corporate Treasury Coverage, Associate",
       "location": "Dallas",
       "seniority": "VP+",
@@ -3339,7 +3519,7 @@
       "isNew": false
     },
     {
-      "id": 279,
+      "id": 294,
       "title": "Corporate Treasury Operations-Trade Processing",
       "location": "New York",
       "seniority": "VP+",
@@ -3351,7 +3531,7 @@
       "isNew": false
     },
     {
-      "id": 280,
+      "id": 295,
       "title": "Risk, Credit Review (Wholesale), Analyst",
       "location": "Dallas",
       "seniority": "VP+",
@@ -3363,7 +3543,7 @@
       "isNew": false
     },
     {
-      "id": 281,
+      "id": 296,
       "title": "Asset & Wealth Management, Fixed Income, Agency MBS Portfolio Management, Vice President",
       "location": "New York",
       "seniority": "VP+",
@@ -3375,7 +3555,7 @@
       "isNew": false
     },
     {
-      "id": 282,
+      "id": 297,
       "title": "Capital Solutions Group, Loan Negotiation Grp, Vice President",
       "location": "New York",
       "seniority": "VP+",
@@ -3387,7 +3567,7 @@
       "isNew": false
     },
     {
-      "id": 283,
+      "id": 298,
       "title": "Vice President - Security Incident Management",
       "location": "Dallas",
       "seniority": "VP+",
@@ -3399,7 +3579,7 @@
       "isNew": false
     },
     {
-      "id": 284,
+      "id": 299,
       "title": "Asset & Wealth Management, Fixed Income \u2013 Municipal Client Portfolio Management, Analyst",
       "location": "New York",
       "seniority": "VP+",
@@ -3411,7 +3591,7 @@
       "isNew": false
     },
     {
-      "id": 285,
+      "id": 300,
       "title": "Risk, Credit Risk, Private Wealth Management, Vice President, WarsawWarsaw\u00b7Poland\u00b7Vice President",
       "location": "US",
       "seniority": "VP+",
@@ -3423,7 +3603,7 @@
       "isNew": false
     },
     {
-      "id": 286,
+      "id": 301,
       "title": "Asset & Wealth Management, Private Wealth Management, Managed Strategies, Portfolio Manager/Trader, Associate",
       "location": "New York",
       "seniority": "VP+",
@@ -3435,7 +3615,7 @@
       "isNew": false
     },
     {
-      "id": 287,
+      "id": 302,
       "title": "Asset & Wealth Management, Fixed Income, Municipal Research, Analyst/Associate",
       "location": "Salt Lake City",
       "seniority": "VP+",
@@ -3447,7 +3627,7 @@
       "isNew": false
     },
     {
-      "id": 288,
+      "id": 303,
       "title": "Asset & Wealth Management, Fixed Income - Client Portfolio Manager, Analyst",
       "location": "New York",
       "seniority": "VP+",
@@ -3459,7 +3639,7 @@
       "isNew": false
     },
     {
-      "id": 289,
+      "id": 304,
       "title": "Asset & Wealth Management, Fixed Income: Portfolio Construction and Risk, Vice President",
       "location": "New York",
       "seniority": "VP+",
@@ -3471,7 +3651,7 @@
       "isNew": false
     },
     {
-      "id": 290,
+      "id": 305,
       "title": "Corporate Bond Trader - Vice President",
       "location": "New York, NY, United States",
       "seniority": "Vice President",
@@ -3483,7 +3663,7 @@
       "isNew": false
     },
     {
-      "id": 291,
+      "id": 306,
       "title": "Risk Management - Multi Asset Investment Risk Manager - Vice President",
       "location": "Columbus, OH, United States",
       "seniority": "Vice President",
