@@ -2761,7 +2761,7 @@
     {
       "id": 213,
       "title": "Sr. Associate Advisor Consultant, Strategic Wealth",
-      "location": "New York, NY (Remote)",
+      "location": "New York, NY",
       "seniority": "Senior",
       "link": "https://careers.newyorklife.com/jobs/41456231",
       "firm": "New York Life",
@@ -3990,7 +3990,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "",
-      "isNew": true,
+      "isNew": false,
       "fit": 11
     },
     {
@@ -4003,7 +4003,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "",
-      "isNew": true,
+      "isNew": false,
       "fit": 10
     },
     {
@@ -4016,7 +4016,7 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
@@ -4029,7 +4029,7 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "",
-      "isNew": true,
+      "isNew": false,
       "fit": 8
     },
     {
@@ -4042,7 +4042,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "",
-      "isNew": true,
+      "isNew": false,
       "fit": 11
     }
   ]
