@@ -1,6 +1,6 @@
 {
   "generated": "2026-05-22",
-  "total": 306,
+  "total": 311,
   "roles": [
     {
       "id": 1,
@@ -3156,7 +3156,7 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "Posted Yesterday",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 264,
@@ -3168,7 +3168,7 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "05/13/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 265,
@@ -3180,7 +3180,7 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "05/20/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 266,
@@ -3192,7 +3192,7 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/28/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 267,
@@ -3204,7 +3204,7 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/30/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 268,
@@ -3216,7 +3216,7 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "05/08/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 269,
@@ -3276,7 +3276,7 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "05/14/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 274,
@@ -3288,7 +3288,7 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "05/18/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 275,
@@ -3300,7 +3300,7 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "05/20/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 276,
@@ -3312,7 +3312,7 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "Posted Yesterday",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 277,
@@ -3324,7 +3324,7 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/22/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 278,
@@ -3336,7 +3336,7 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/22/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 279,
@@ -3348,7 +3348,7 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/22/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 280,
@@ -3360,7 +3360,7 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/22/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 281,
@@ -3372,7 +3372,7 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/22/2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 282,
@@ -3673,6 +3673,66 @@
       "minComp": 250000,
       "posted": "",
       "isNew": false
+    },
+    {
+      "id": 307,
+      "title": "Trader \u2013 APAC Credit and Emerging Markets Asia",
+      "location": "Los Angeles, CA",
+      "seniority": "Vice President",
+      "link": "https://careers-tcw.icims.com/jobs/2243/trader-%e2%80%93-apac-credit-and-emerging-markets-asia/job",
+      "firm": "TCW",
+      "tier": "top",
+      "minComp": 250000,
+      "posted": "",
+      "isNew": true
+    },
+    {
+      "id": 308,
+      "title": "Lead Quantitative Engineer",
+      "location": "Los Angeles, CA",
+      "seniority": "Lead",
+      "link": "https://careers-tcw.icims.com/jobs/2250/lead-quantitative-engineer/job",
+      "firm": "TCW",
+      "tier": "top",
+      "minComp": 250000,
+      "posted": "",
+      "isNew": true
+    },
+    {
+      "id": 309,
+      "title": "Head of Private Credit Fund Accounting",
+      "location": "Los Angeles, CA",
+      "seniority": "Director",
+      "link": "https://careers-tcw.icims.com/jobs/2221/head-of-private-credit-fund-accounting/job",
+      "firm": "TCW",
+      "tier": "top",
+      "minComp": 300000,
+      "posted": "",
+      "isNew": true
+    },
+    {
+      "id": 310,
+      "title": "AVP, Valuations Manager",
+      "location": "Los Angeles, CA",
+      "seniority": "AVP",
+      "link": "https://careers-tcw.icims.com/jobs/2220/avp%2c-valuations-manager/job",
+      "firm": "TCW",
+      "tier": "top",
+      "minComp": 225000,
+      "posted": "",
+      "isNew": true
+    },
+    {
+      "id": 311,
+      "title": "Wealth Advisory Business Development Officer",
+      "location": "Los Angeles, CA",
+      "seniority": "Vice President",
+      "link": "https://careers-tcw.icims.com/jobs/2207/wealth-advisory-business-development-officer/job",
+      "firm": "TCW",
+      "tier": "top",
+      "minComp": 250000,
+      "posted": "",
+      "isNew": true
     }
   ]
 }
