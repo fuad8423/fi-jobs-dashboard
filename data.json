@@ -1,6 +1,6 @@
 {
   "generated": "2026-05-28",
-  "total": 179,
+  "total": 175,
   "roles": [
     {
       "id": 1,
@@ -589,32 +589,6 @@
     },
     {
       "id": 46,
-      "title": "Wealth Management, Cross Asset Derivative Specialist: VP",
-      "location": "New York, NY",
-      "seniority": "Vice President",
-      "link": "",
-      "firm": "J.P. Morgan",
-      "tier": "top",
-      "minComp": 250000,
-      "posted": "",
-      "isNew": false,
-      "fit": 3
-    },
-    {
-      "id": 47,
-      "title": "Lead Software Engineer - Quant Developer Python",
-      "location": "New York, NY",
-      "seniority": "Vice President",
-      "link": "",
-      "firm": "J.P. Morgan",
-      "tier": "top",
-      "minComp": 250000,
-      "posted": "",
-      "isNew": false,
-      "fit": 0
-    },
-    {
-      "id": 48,
       "title": "Principal, Credit Strategy & Management",
       "location": "US",
       "seniority": "Principal",
@@ -627,7 +601,7 @@
       "fit": 3
     },
     {
-      "id": 49,
+      "id": 47,
       "title": "Corporate Credit Business Strategy",
       "location": "US",
       "seniority": "Vice President",
@@ -640,7 +614,7 @@
       "fit": 3
     },
     {
-      "id": 50,
+      "id": 48,
       "title": "Blackstone Multi-Asset Investing (BXMA)- Credit Team, Principal",
       "location": "New York, NY",
       "seniority": "Principal",
@@ -653,7 +627,7 @@
       "fit": 15
     },
     {
-      "id": 51,
+      "id": 49,
       "title": "Blackstone Multi-Asset Investing (BXMA) \u2013 Portfolio Strategy Group, Vice President",
       "location": "New York, NY",
       "seniority": "VP",
@@ -666,7 +640,7 @@
       "fit": 12
     },
     {
-      "id": 52,
+      "id": 50,
       "title": "Blackstone Credit & Insurance - ICS, Marketing Coordinator",
       "location": "New York, NY",
       "seniority": "Vice President",
@@ -679,7 +653,7 @@
       "fit": 0
     },
     {
-      "id": 53,
+      "id": 51,
       "title": "Trader, Investment Grade Credit",
       "location": "US",
       "seniority": "Trader",
@@ -692,7 +666,7 @@
       "fit": 8
     },
     {
-      "id": 54,
+      "id": 52,
       "title": "Portfolio Associate - Derivatives",
       "location": "US",
       "seniority": "Vice President",
@@ -705,7 +679,7 @@
       "fit": 3
     },
     {
-      "id": 55,
+      "id": 53,
       "title": "Investment Analyst Opportunistic Credit",
       "location": "US",
       "seniority": "Senior",
@@ -718,7 +692,7 @@
       "fit": 12
     },
     {
-      "id": 56,
+      "id": 54,
       "title": "Credit Research Analyst, Energy & Emerging Markets",
       "location": "US",
       "seniority": "Senior",
@@ -731,7 +705,7 @@
       "fit": 12
     },
     {
-      "id": 57,
+      "id": 55,
       "title": "Capital Markets Asset Based Finance Origination",
       "location": "US",
       "seniority": "Executive Director",
@@ -744,7 +718,7 @@
       "fit": 25
     },
     {
-      "id": 58,
+      "id": 56,
       "title": "Fixed Income - Fundamental Research Group (High Yield)",
       "location": "US",
       "seniority": "Executive Director",
@@ -757,7 +731,7 @@
       "fit": 35
     },
     {
-      "id": 59,
+      "id": 57,
       "title": "Senior Credit Analyst",
       "location": "US",
       "seniority": "Senior",
@@ -770,7 +744,7 @@
       "fit": 12
     },
     {
-      "id": 60,
+      "id": 58,
       "title": "Sr Real Estate Portfolio Associate II",
       "location": "US",
       "seniority": "Senior",
@@ -783,7 +757,7 @@
       "fit": 0
     },
     {
-      "id": 61,
+      "id": 59,
       "title": "Vice President, Liquid Credit - Investments",
       "location": "New York, NY",
       "seniority": "Vice President",
@@ -796,7 +770,7 @@
       "fit": 3
     },
     {
-      "id": 62,
+      "id": 60,
       "title": "Associate, Asset-Based Finance Portfolio Management",
       "location": "New York, NY",
       "seniority": "Vice President",
@@ -809,7 +783,7 @@
       "fit": 50
     },
     {
-      "id": 63,
+      "id": 61,
       "title": "Associate, Quantitative Investment Strategist, Asset Allocation",
       "location": "New York, NY",
       "seniority": "Vice President",
@@ -822,7 +796,7 @@
       "fit": 75
     },
     {
-      "id": 64,
+      "id": 62,
       "title": "Senior Associate, Portfolio Solutions",
       "location": "Chicago, IL",
       "seniority": "Senior Associate",
@@ -835,7 +809,7 @@
       "fit": 0
     },
     {
-      "id": 65,
+      "id": 63,
       "title": "Analyst / Associate, Credit & Multi-Asset Solutions, Fundraise Management",
       "location": "New York, NY",
       "seniority": "Vice President",
@@ -848,7 +822,7 @@
       "fit": 27
     },
     {
-      "id": 66,
+      "id": 64,
       "title": "Analyst / Associate, Capital Markets",
       "location": "New York, NY",
       "seniority": "Vice President",
@@ -861,7 +835,7 @@
       "fit": 3
     },
     {
-      "id": 67,
+      "id": 65,
       "title": "Emerging Markets Corporate Credit Research Analyst",
       "location": "Los Angeles, CA",
       "seniority": "Senior",
@@ -874,7 +848,7 @@
       "fit": 12
     },
     {
-      "id": 68,
+      "id": 66,
       "title": "Quantitative Fixed Income Researcher",
       "location": "Los Angeles, CA",
       "seniority": "Senior",
@@ -887,7 +861,7 @@
       "fit": 52
     },
     {
-      "id": 69,
+      "id": 67,
       "title": "Credit Analyst",
       "location": "Los Angeles, CA",
       "seniority": "Senior",
@@ -900,7 +874,7 @@
       "fit": 12
     },
     {
-      "id": 70,
+      "id": 68,
       "title": "Agency MBS Senior Analyst/Trader",
       "location": "Los Angeles, CA",
       "seniority": "Senior",
@@ -913,7 +887,7 @@
       "fit": 28
     },
     {
-      "id": 71,
+      "id": 69,
       "title": "AVP, Insurance Solutions Strategist",
       "location": "Los Angeles, CA",
       "seniority": "AVP",
@@ -926,7 +900,7 @@
       "fit": 17
     },
     {
-      "id": 72,
+      "id": 70,
       "title": "Risk Lead",
       "location": "Los Angeles, CA",
       "seniority": "Lead",
@@ -939,7 +913,7 @@
       "fit": 0
     },
     {
-      "id": 73,
+      "id": 71,
       "title": "VP Asset Liability Management",
       "location": "El Segundo, CA",
       "seniority": "Vice President",
@@ -952,7 +926,7 @@
       "fit": 18
     },
     {
-      "id": 74,
+      "id": 72,
       "title": "AVP Operational & Model Risk",
       "location": "West Des Moines, IA",
       "seniority": "AVP",
@@ -965,7 +939,7 @@
       "fit": 2
     },
     {
-      "id": 75,
+      "id": 73,
       "title": "Senior Analyst, Derivative Operations",
       "location": "West Des Moines, IA",
       "seniority": "Senior",
@@ -978,7 +952,7 @@
       "fit": 0
     },
     {
-      "id": 76,
+      "id": 74,
       "title": "Technical Product Manager, Derivative Operations",
       "location": "West Des Moines, IA",
       "seniority": "Manager",
@@ -991,7 +965,7 @@
       "fit": 0
     },
     {
-      "id": 77,
+      "id": 75,
       "title": "Derivatives Business Systems Analyst",
       "location": "Greenwich, CT",
       "seniority": "Senior",
@@ -1004,7 +978,7 @@
       "fit": 0
     },
     {
-      "id": 78,
+      "id": 76,
       "title": "Collateral Management Analyst",
       "location": "New York, NY",
       "seniority": "Senior",
@@ -1017,7 +991,7 @@
       "fit": 0
     },
     {
-      "id": 79,
+      "id": 77,
       "title": "Director, Pension Group Annuity (PGA) Transaction Management",
       "location": "Greenwich, CT",
       "seniority": "Director",
@@ -1030,7 +1004,7 @@
       "fit": 5
     },
     {
-      "id": 80,
+      "id": 78,
       "title": "VP Corporate Development",
       "location": "New York, NY",
       "seniority": "Vice President",
@@ -1043,7 +1017,7 @@
       "fit": 3
     },
     {
-      "id": 81,
+      "id": 79,
       "title": "Product Specialist, CLOs & Bank Loans",
       "location": "Stamford, CT",
       "seniority": "Senior",
@@ -1056,7 +1030,7 @@
       "fit": 20
     },
     {
-      "id": 82,
+      "id": 80,
       "title": "Fixed Income Product Specialist - US West",
       "location": "Santa Monica, CA",
       "seniority": "Senior",
@@ -1069,7 +1043,7 @@
       "fit": 30
     },
     {
-      "id": 83,
+      "id": 81,
       "title": "Trade Confirmation, Settlement & Collateral Management - Derivative Manager (VP)",
       "location": "Chicago, IL",
       "seniority": "Vice President",
@@ -1082,7 +1056,7 @@
       "fit": 3
     },
     {
-      "id": 84,
+      "id": 82,
       "title": "Valuation Analyst (Pricing), Senior Associate",
       "location": "Chicago, IL",
       "seniority": "Senior Associate",
@@ -1095,7 +1069,7 @@
       "fit": 6
     },
     {
-      "id": 85,
+      "id": 83,
       "title": "Real Estate Portfolio Management Analyst",
       "location": "Clayton, MO",
       "seniority": "Senior",
@@ -1108,7 +1082,7 @@
       "fit": 47
     },
     {
-      "id": 86,
+      "id": 84,
       "title": "Trade Confirmation & Settlement Associate",
       "location": "Chicago, IL",
       "seniority": "Senior Associate",
@@ -1121,7 +1095,7 @@
       "fit": 0
     },
     {
-      "id": 87,
+      "id": 85,
       "title": "Analyst, US Direct Lending (Ivy Hill)",
       "location": "New York, NY",
       "seniority": "Senior",
@@ -1134,7 +1108,7 @@
       "fit": 0
     },
     {
-      "id": 88,
+      "id": 86,
       "title": "Senior Associate/Vice President, Alternative Credit",
       "location": "Atlanta, GA",
       "seniority": "Vice President",
@@ -1147,7 +1121,7 @@
       "fit": 3
     },
     {
-      "id": 89,
+      "id": 87,
       "title": "Analyst, Commercial Finance, Collateral Analyst",
       "location": "Atlanta, GA",
       "seniority": "Senior",
@@ -1160,7 +1134,7 @@
       "fit": 0
     },
     {
-      "id": 90,
+      "id": 88,
       "title": "VP, Investment Operations - Global Asset Servicing",
       "location": "New York, NY",
       "seniority": "Vice President",
@@ -1173,7 +1147,7 @@
       "fit": 3
     },
     {
-      "id": 91,
+      "id": 89,
       "title": "Asset Management, Systematic Fixed Income Portfolio Manager, Executive Director",
       "location": "New York, NY",
       "seniority": "Executive Director",
@@ -1186,7 +1160,7 @@
       "fit": 70
     },
     {
-      "id": 92,
+      "id": 90,
       "title": "Asset Management - Municipal Research Analyst - Executive Director",
       "location": "New York, NY",
       "seniority": "Executive Director",
@@ -1199,7 +1173,7 @@
       "fit": 23
     },
     {
-      "id": 93,
+      "id": 91,
       "title": "Pricing & Index Specialist Sales \u2013 Executive Director",
       "location": "New York, NY",
       "seniority": "Executive Director",
@@ -1212,7 +1186,7 @@
       "fit": 5
     },
     {
-      "id": 94,
+      "id": 92,
       "title": "Senior Director, Credit Asset Management (Los Angeles Office)",
       "location": "Newport Beach, CA",
       "seniority": "Director",
@@ -1225,7 +1199,7 @@
       "fit": 5
     },
     {
-      "id": 95,
+      "id": 93,
       "title": "Client Portfolio Manager - Fixed Income",
       "location": "Atlanta, GA",
       "seniority": "Vice President",
@@ -1238,7 +1212,7 @@
       "fit": 80
     },
     {
-      "id": 96,
+      "id": 94,
       "title": "Associate Credit Analyst",
       "location": "Atlanta, GA",
       "seniority": "Senior",
@@ -1251,7 +1225,7 @@
       "fit": 12
     },
     {
-      "id": 97,
+      "id": 95,
       "title": "AVP, Portfolio Manager",
       "location": "Atlanta, GA",
       "seniority": "AVP",
@@ -1264,7 +1238,7 @@
       "fit": 37
     },
     {
-      "id": 98,
+      "id": 96,
       "title": "Senior Real Estate Portfolio Analyst",
       "location": "Atlanta, GA",
       "seniority": "Senior",
@@ -1277,7 +1251,7 @@
       "fit": 0
     },
     {
-      "id": 99,
+      "id": 97,
       "title": "Credit Support Analyst",
       "location": "Atlanta, GA",
       "seniority": "Senior",
@@ -1290,7 +1264,7 @@
       "fit": 12
     },
     {
-      "id": 100,
+      "id": 98,
       "title": "Director, Derivatives",
       "location": "New York, NY",
       "seniority": "Director",
@@ -1303,7 +1277,7 @@
       "fit": 5
     },
     {
-      "id": 101,
+      "id": 99,
       "title": "Director, Loan Management",
       "location": "New York, NY",
       "seniority": "Director",
@@ -1316,7 +1290,7 @@
       "fit": 5
     },
     {
-      "id": 102,
+      "id": 100,
       "title": "Director, Alternatives Strategy",
       "location": "New York, NY",
       "seniority": "Director",
@@ -1329,7 +1303,7 @@
       "fit": 5
     },
     {
-      "id": 103,
+      "id": 101,
       "title": "Associate / Sr. Associate Capital Markets",
       "location": "New York, NY",
       "seniority": "Senior",
@@ -1342,7 +1316,7 @@
       "fit": 0
     },
     {
-      "id": 104,
+      "id": 102,
       "title": "Senior Associate, Private Capital Investors",
       "location": "New York, NY",
       "seniority": "Senior",
@@ -1355,7 +1329,7 @@
       "fit": 0
     },
     {
-      "id": 105,
+      "id": 103,
       "title": "Senior Associate, Mortgage Loan",
       "location": "New York, NY",
       "seniority": "Senior",
@@ -1368,7 +1342,7 @@
       "fit": 20
     },
     {
-      "id": 106,
+      "id": 104,
       "title": "Senior Associate, Investment Product Analyst",
       "location": "New York, NY",
       "seniority": "Senior",
@@ -1381,7 +1355,7 @@
       "fit": 0
     },
     {
-      "id": 107,
+      "id": 105,
       "title": "Senior Associate, Investment Data & AI",
       "location": "New York, NY",
       "seniority": "Senior",
@@ -1394,7 +1368,7 @@
       "fit": 0
     },
     {
-      "id": 108,
+      "id": 106,
       "title": "Senior Associate - Derivative Accounting & Reporting",
       "location": "New York, NY",
       "seniority": "Senior",
@@ -1407,7 +1381,7 @@
       "fit": 0
     },
     {
-      "id": 109,
+      "id": 107,
       "title": "Sr. Associate Advisor Consultant, Strategic Wealth",
       "location": "New York, NY",
       "seniority": "Senior",
@@ -1420,7 +1394,7 @@
       "fit": 0
     },
     {
-      "id": 110,
+      "id": 108,
       "title": "Strategy & Corporate Development, Senior Associate",
       "location": "New York, NY",
       "seniority": "Senior",
@@ -1433,7 +1407,7 @@
       "fit": 0
     },
     {
-      "id": 111,
+      "id": 109,
       "title": "Actuarial Associate - Financial Planning and Analysis",
       "location": "White Plains, NY",
       "seniority": "Senior",
@@ -1446,7 +1420,7 @@
       "fit": 0
     },
     {
-      "id": 112,
+      "id": 110,
       "title": "Senior Actuarial Associate",
       "location": "New York, NY",
       "seniority": "Senior",
@@ -1459,7 +1433,7 @@
       "fit": 0
     },
     {
-      "id": 113,
+      "id": 111,
       "title": "Corporate Vice President - Corporate Development & Strategy",
       "location": "New York, NY",
       "seniority": "Vice President",
@@ -1472,7 +1446,7 @@
       "fit": 3
     },
     {
-      "id": 114,
+      "id": 112,
       "title": "Associate, Short Term Trader",
       "location": "Newport Beach, CA",
       "seniority": "Trader",
@@ -1485,7 +1459,7 @@
       "fit": 8
     },
     {
-      "id": 115,
+      "id": 113,
       "title": "Infrastructure & Military Housing - Originator",
       "location": "New York, NY",
       "seniority": "Vice President",
@@ -1498,7 +1472,7 @@
       "fit": 3
     },
     {
-      "id": 116,
+      "id": 114,
       "title": "Senior Associate, Portfolio Strategy and Risk, Secondaries",
       "location": "New York, NY",
       "seniority": "Senior",
@@ -1511,7 +1485,7 @@
       "fit": 6
     },
     {
-      "id": 117,
+      "id": 115,
       "title": "Senior Associate/Vice President, Capital Solutions (Bank Coverage)",
       "location": "New York, NY",
       "seniority": "Vice President",
@@ -1524,7 +1498,7 @@
       "fit": 3
     },
     {
-      "id": 118,
+      "id": 116,
       "title": "Senior Associate, Infrastructure Opportunities Investor Relations",
       "location": "New York, NY",
       "seniority": "Senior",
@@ -1537,7 +1511,7 @@
       "fit": 0
     },
     {
-      "id": 119,
+      "id": 117,
       "title": "Associate, Infrastructure Debt",
       "location": "New York, NY",
       "seniority": "Vice President",
@@ -1550,7 +1524,7 @@
       "fit": 3
     },
     {
-      "id": 120,
+      "id": 118,
       "title": "Vice President, Infrastructure Opportunities",
       "location": "New York, NY",
       "seniority": "Vice President",
@@ -1563,7 +1537,7 @@
       "fit": 3
     },
     {
-      "id": 121,
+      "id": 119,
       "title": "Associate, Portfolio Company Value Creation, Opportunistic Credit",
       "location": "Los Angeles, CA",
       "seniority": "Executive Director",
@@ -1576,7 +1550,7 @@
       "fit": 27
     },
     {
-      "id": 122,
+      "id": 120,
       "title": "Senior Associate, Alternative Credit",
       "location": "Atlanta, GA",
       "seniority": "Executive Director",
@@ -1589,7 +1563,7 @@
       "fit": 5
     },
     {
-      "id": 123,
+      "id": 121,
       "title": "Vice President, Product Management and Investor Relations, Alternative Credit",
       "location": "New York, NY",
       "seniority": "Executive Director",
@@ -1602,7 +1576,7 @@
       "fit": 5
     },
     {
-      "id": 124,
+      "id": 122,
       "title": "Managing Director, Global Product Management and Investor Relations, Digital Infrastructure",
       "location": "New York, NY",
       "seniority": "Managing Director",
@@ -1615,7 +1589,7 @@
       "fit": 10
     },
     {
-      "id": 125,
+      "id": 123,
       "title": "Analyst, Real Estate (Portfolio Management)",
       "location": "Denver, CO",
       "seniority": "Vice President",
@@ -1628,7 +1602,7 @@
       "fit": 50
     },
     {
-      "id": 126,
+      "id": 124,
       "title": "Associate Vice President \u2013 Manager, Portfolio Analytics",
       "location": "New York, NY",
       "seniority": "Vice President",
@@ -1641,7 +1615,7 @@
       "fit": 3
     },
     {
-      "id": 127,
+      "id": 125,
       "title": "Associate, Alternative Credit, Asset Management",
       "location": "Atlanta, GA",
       "seniority": "Executive Director",
@@ -1654,7 +1628,7 @@
       "fit": 5
     },
     {
-      "id": 128,
+      "id": 126,
       "title": "Associate, Credit, US Direct Lending",
       "location": "Los Angeles, CA",
       "seniority": "Executive Director",
@@ -1667,7 +1641,7 @@
       "fit": 5
     },
     {
-      "id": 129,
+      "id": 127,
       "title": "Senior Marketer, Pro-Buyer and Insurance Marketing",
       "location": "Atlanta, GA",
       "seniority": "Senior",
@@ -1680,7 +1654,7 @@
       "fit": 0
     },
     {
-      "id": 130,
+      "id": 128,
       "title": "Analyst/Associate, Alternative Credit Investor Relations",
       "location": "New York, NY",
       "seniority": "Vice President",
@@ -1693,7 +1667,7 @@
       "fit": 15
     },
     {
-      "id": 131,
+      "id": 129,
       "title": "Senior Investment Accountant - Derivatives",
       "location": "2 Locations",
       "seniority": "Senior",
@@ -1706,7 +1680,7 @@
       "fit": 0
     },
     {
-      "id": 132,
+      "id": 130,
       "title": "Senior Investment Analyst",
       "location": "Toronto, Ontario",
       "seniority": "Senior",
@@ -1719,7 +1693,7 @@
       "fit": 0
     },
     {
-      "id": 133,
+      "id": 131,
       "title": "Internal Wholesaler Bank/BD/IMO",
       "location": "West Des Moines, IA",
       "seniority": "Vice President",
@@ -1732,7 +1706,7 @@
       "fit": 3
     },
     {
-      "id": 134,
+      "id": 132,
       "title": "VP Internal Sales",
       "location": "West Des Moines, IA",
       "seniority": "Vice President",
@@ -1745,7 +1719,7 @@
       "fit": 3
     },
     {
-      "id": 135,
+      "id": 133,
       "title": "RVP/External Wholesaler- Virginia (Remote)",
       "location": "Remote, VA",
       "seniority": "Vice President",
@@ -1758,7 +1732,7 @@
       "fit": 3
     },
     {
-      "id": 136,
+      "id": 134,
       "title": "AVP Strategic Partnerships",
       "location": "3 Locations",
       "seniority": "AVP",
@@ -1771,7 +1745,7 @@
       "fit": 2
     },
     {
-      "id": 137,
+      "id": 135,
       "title": "Investment & Accounting Associate",
       "location": "Mumbai, India",
       "seniority": "Vice President",
@@ -1784,7 +1758,7 @@
       "fit": 0
     },
     {
-      "id": 138,
+      "id": 136,
       "title": "Transaction Services - Trade Confirmation & Settlement",
       "location": "Chicago, IL",
       "seniority": "Vice President",
@@ -1797,7 +1771,7 @@
       "fit": 3
     },
     {
-      "id": 139,
+      "id": 137,
       "title": "Regional Vice President, Michigan",
       "location": "Remote",
       "seniority": "Vice President",
@@ -1810,7 +1784,7 @@
       "fit": 3
     },
     {
-      "id": 140,
+      "id": 138,
       "title": "Regional Sales Associate - Internal Sales (AS)",
       "location": "Chicago, IL",
       "seniority": "Vice President",
@@ -1823,7 +1797,7 @@
       "fit": 3
     },
     {
-      "id": 141,
+      "id": 139,
       "title": "Cash Services - Reconciliation Sr. Associate",
       "location": "Chicago, IL",
       "seniority": "Vice President",
@@ -1836,7 +1810,7 @@
       "fit": 3
     },
     {
-      "id": 142,
+      "id": 140,
       "title": "Asset & Wealth Management, Credit Research, Associate, TaiwanTaipei\u00b7Taiwan\u00b7Associate",
       "location": "US",
       "seniority": "VP+",
@@ -1849,7 +1823,7 @@
       "fit": 12
     },
     {
-      "id": 143,
+      "id": 141,
       "title": "Legal, Asset Management Structured Finance Attorney, Vice President, Dallas/",
       "location": "New York, NY",
       "seniority": "VP+",
@@ -1862,7 +1836,7 @@
       "fit": 10
     },
     {
-      "id": 144,
+      "id": 142,
       "title": "Global Investment Research, Credit Research Analyst",
       "location": "Salt Lake City, UT",
       "seniority": "VP+",
@@ -1875,7 +1849,7 @@
       "fit": 22
     },
     {
-      "id": 145,
+      "id": 143,
       "title": "Asset & Wealth Management, Credit Secondaries & Portfolio Finance - Vintage Credit Opportunity Partners (VCOP), Associate",
       "location": "New York, NY",
       "seniority": "VP+",
@@ -1888,7 +1862,7 @@
       "fit": 30
     },
     {
-      "id": 146,
+      "id": 144,
       "title": "Compliance- Control, Finance and Operating (CF&O) - Corporate Treasury Coverage, Associate",
       "location": "Dallas, TX",
       "seniority": "VP+",
@@ -1901,7 +1875,7 @@
       "fit": 0
     },
     {
-      "id": 147,
+      "id": 145,
       "title": "Corporate Treasury Operations-Trade Processing",
       "location": "New York, NY",
       "seniority": "VP+",
@@ -1914,7 +1888,7 @@
       "fit": 0
     },
     {
-      "id": 148,
+      "id": 146,
       "title": "Risk, Credit Review (Wholesale), Analyst",
       "location": "Dallas, TX",
       "seniority": "VP+",
@@ -1927,7 +1901,7 @@
       "fit": 18
     },
     {
-      "id": 149,
+      "id": 147,
       "title": "Asset & Wealth Management, Fixed Income, Agency MBS Portfolio Management, Vice President",
       "location": "New York, NY",
       "seniority": "VP+",
@@ -1940,7 +1914,7 @@
       "fit": 100
     },
     {
-      "id": 150,
+      "id": 148,
       "title": "Capital Solutions Group, Loan Negotiation Grp, Vice President",
       "location": "New York, NY",
       "seniority": "VP+",
@@ -1953,7 +1927,7 @@
       "fit": 0
     },
     {
-      "id": 151,
+      "id": 149,
       "title": "Vice President - Security Incident Management",
       "location": "Dallas, TX",
       "seniority": "VP+",
@@ -1966,7 +1940,7 @@
       "fit": 0
     },
     {
-      "id": 152,
+      "id": 150,
       "title": "Asset & Wealth Management, Fixed Income \u2013 Municipal Client Portfolio Management, Analyst",
       "location": "New York, NY",
       "seniority": "VP+",
@@ -1979,7 +1953,7 @@
       "fit": 100
     },
     {
-      "id": 153,
+      "id": 151,
       "title": "Risk, Credit Risk, Private Wealth Management, Vice President, WarsawWarsaw\u00b7Poland\u00b7Vice President",
       "location": "US",
       "seniority": "VP+",
@@ -1992,7 +1966,7 @@
       "fit": 6
     },
     {
-      "id": 154,
+      "id": 152,
       "title": "Asset & Wealth Management, Private Wealth Management, Managed Strategies, Portfolio Manager/Trader, Associate",
       "location": "New York, NY",
       "seniority": "VP+",
@@ -2005,7 +1979,7 @@
       "fit": 51
     },
     {
-      "id": 155,
+      "id": 153,
       "title": "Asset & Wealth Management, Fixed Income, Municipal Research, Analyst/Associate",
       "location": "Salt Lake City, UT",
       "seniority": "VP+",
@@ -2018,7 +1992,7 @@
       "fit": 48
     },
     {
-      "id": 156,
+      "id": 154,
       "title": "Asset & Wealth Management, Fixed Income - Client Portfolio Manager, Analyst",
       "location": "New York, NY",
       "seniority": "VP+",
@@ -2031,7 +2005,7 @@
       "fit": 85
     },
     {
-      "id": 157,
+      "id": 155,
       "title": "Asset & Wealth Management, Fixed Income: Portfolio Construction and Risk, Vice President",
       "location": "New York, NY",
       "seniority": "VP+",
@@ -2044,33 +2018,7 @@
       "fit": 44
     },
     {
-      "id": 158,
-      "title": "Corporate Bond Trader - Vice President",
-      "location": "New York, NY",
-      "seniority": "Vice President",
-      "link": "",
-      "firm": "J.P. Morgan",
-      "tier": "top",
-      "minComp": 250000,
-      "posted": "",
-      "isNew": false,
-      "fit": 11
-    },
-    {
-      "id": 159,
-      "title": "Risk Management - Multi Asset Investment Risk Manager - Vice President",
-      "location": "Columbus, OH",
-      "seniority": "Vice President",
-      "link": "",
-      "firm": "J.P. Morgan",
-      "tier": "top",
-      "minComp": 250000,
-      "posted": "",
-      "isNew": false,
-      "fit": 15
-    },
-    {
-      "id": 160,
+      "id": 156,
       "title": "Trader \u2013 APAC Credit and Emerging Markets Asia",
       "location": "Los Angeles, CA",
       "seniority": "Vice President",
@@ -2083,7 +2031,7 @@
       "fit": 11
     },
     {
-      "id": 161,
+      "id": 157,
       "title": "Lead Quantitative Engineer",
       "location": "Los Angeles, CA",
       "seniority": "Lead",
@@ -2096,7 +2044,7 @@
       "fit": 10
     },
     {
-      "id": 162,
+      "id": 158,
       "title": "Head of Private Credit Fund Accounting",
       "location": "Los Angeles, CA",
       "seniority": "Director",
@@ -2109,7 +2057,7 @@
       "fit": 0
     },
     {
-      "id": 163,
+      "id": 159,
       "title": "AVP, Valuations Manager",
       "location": "Los Angeles, CA",
       "seniority": "AVP",
@@ -2122,7 +2070,7 @@
       "fit": 8
     },
     {
-      "id": 164,
+      "id": 160,
       "title": "Wealth Advisory Business Development Officer",
       "location": "Los Angeles, CA",
       "seniority": "Vice President",
@@ -2135,7 +2083,7 @@
       "fit": 11
     },
     {
-      "id": 165,
+      "id": 161,
       "title": "Principal, Portfolio Management - Multi Credit",
       "location": "US",
       "seniority": "Principal",
@@ -2144,11 +2092,11 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "03/24/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 72
     },
     {
-      "id": 166,
+      "id": 162,
       "title": "Principal, Investment Grade Credit",
       "location": "US",
       "seniority": "Principal",
@@ -2157,11 +2105,11 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "",
-      "isNew": true,
+      "isNew": false,
       "fit": 3
     },
     {
-      "id": 167,
+      "id": 163,
       "title": "Associate - IG Credit (Financials)",
       "location": "US",
       "seniority": "Vice President",
@@ -2170,11 +2118,11 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "03/11/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 3
     },
     {
-      "id": 168,
+      "id": 164,
       "title": "Analyst, Private Credit Allocation Management \u2013 Global Corporate Credit",
       "location": "US",
       "seniority": "Senior",
@@ -2183,11 +2131,11 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "04/30/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 12
     },
     {
-      "id": 169,
+      "id": 165,
       "title": "Associate, Global Corporate Credit \u2013 Media & Telecom",
       "location": "US",
       "seniority": "Vice President",
@@ -2196,11 +2144,11 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "",
-      "isNew": true,
+      "isNew": false,
       "fit": 3
     },
     {
-      "id": 170,
+      "id": 166,
       "title": "Associate, Global Corporate Credit \u2013 Retail/Autos",
       "location": "US",
       "seniority": "Vice President",
@@ -2209,11 +2157,11 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "04/07/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 3
     },
     {
-      "id": 171,
+      "id": 167,
       "title": "Portfolio Associate - Mortgage Trade Support",
       "location": "US",
       "seniority": "Vice President",
@@ -2222,11 +2170,11 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "04/22/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 23
     },
     {
-      "id": 172,
+      "id": 168,
       "title": "Portfolio Manager, Private Corporate Strategies",
       "location": "US",
       "seniority": "Portfolio Manager",
@@ -2235,11 +2183,11 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "04/22/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 45
     },
     {
-      "id": 173,
+      "id": 169,
       "title": "Portfolio Manager, FX Vol",
       "location": "US",
       "seniority": "Portfolio Manager",
@@ -2248,11 +2196,11 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "04/15/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 45
     },
     {
-      "id": 174,
+      "id": 170,
       "title": "Equity Derivatives Investment Strategist",
       "location": "US",
       "seniority": "Vice President",
@@ -2261,11 +2209,11 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/15/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 38
     },
     {
-      "id": 175,
+      "id": 171,
       "title": "Real Estate Portfolio Analyst",
       "location": "Atlanta, GA",
       "seniority": "Senior",
@@ -2274,11 +2222,11 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "04/30/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
-      "id": 176,
+      "id": 172,
       "title": "Credit Analysis Manager",
       "location": "US",
       "seniority": "Manager",
@@ -2287,11 +2235,11 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "05/10/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 22
     },
     {
-      "id": 177,
+      "id": 173,
       "title": "Blackstone Multi-Asset Investing (BXMA)- Credit Team, Analyst",
       "location": "New York, NY",
       "seniority": "Senior",
@@ -2300,11 +2248,11 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "05/13/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 24
     },
     {
-      "id": 178,
+      "id": 174,
       "title": "BXMA- Total Portfolio Management: Portfolio Management, Associate",
       "location": "New York, NY",
       "seniority": "Vice President",
@@ -2313,11 +2261,11 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "",
-      "isNew": true,
+      "isNew": false,
       "fit": 50
     },
     {
-      "id": 179,
+      "id": 175,
       "title": "Blackstone Credit & Insurance (BXCI), Investment Analyst/Associate",
       "location": "New York, NY",
       "seniority": "Senior",
@@ -2326,7 +2274,7 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "03/20/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 12
     }
   ]
