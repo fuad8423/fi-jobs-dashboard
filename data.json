@@ -1,6 +1,6 @@
 {
   "generated": "2026-05-28",
-  "total": 244,
+  "total": 250,
   "roles": [
     {
       "id": 1,
@@ -532,7 +532,7 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "04/22/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 5
     },
     {
@@ -571,7 +571,7 @@
       "tier": "adjacent",
       "minComp": 300000,
       "posted": "04/28/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 3
     },
     {
@@ -584,7 +584,7 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "03/26/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 31
     },
     {
@@ -597,7 +597,7 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "03/31/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 53
     },
     {
@@ -623,7 +623,7 @@
       "tier": "adjacent",
       "minComp": 300000,
       "posted": "03/26/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 3
     },
     {
@@ -636,7 +636,7 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "12/17/2025",
-      "isNew": true,
+      "isNew": false,
       "fit": 3
     },
     {
@@ -649,7 +649,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "04/03/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 50
     },
     {
@@ -701,7 +701,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "04/08/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 3
     },
     {
@@ -714,7 +714,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "04/08/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 3
     },
     {
@@ -766,7 +766,7 @@
       "tier": "adjacent",
       "minComp": 300000,
       "posted": "01/14/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 17
     },
     {
@@ -779,7 +779,7 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "04/22/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 5
     },
     {
@@ -792,7 +792,7 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "03/26/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 23
     },
     {
@@ -805,7 +805,7 @@
       "tier": "adjacent",
       "minComp": 300000,
       "posted": "01/14/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 25
     },
     {
@@ -818,7 +818,7 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "05/04/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 3
     },
     {
@@ -831,7 +831,7 @@
       "tier": "top",
       "minComp": 400000,
       "posted": "03/17/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 5
     },
     {
@@ -896,7 +896,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "05/05/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 3
     },
     {
@@ -922,7 +922,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "01/20/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 20
     },
     {
@@ -935,7 +935,7 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "03/11/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 8
     },
     {
@@ -948,7 +948,7 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/10/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
@@ -961,7 +961,7 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "03/17/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
@@ -987,7 +987,7 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/13/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
@@ -1000,7 +1000,7 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "01/29/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
@@ -1013,7 +1013,7 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "05/03/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 18
     },
     {
@@ -1026,7 +1026,7 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "04/27/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 85
     },
     {
@@ -1091,7 +1091,7 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "04/15/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 22
     },
     {
@@ -1117,7 +1117,7 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "04/15/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 32
     },
     {
@@ -1143,7 +1143,7 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "04/27/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 45
     },
     {
@@ -1156,7 +1156,7 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "04/15/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
@@ -1169,7 +1169,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "04/15/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
@@ -1182,7 +1182,7 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "04/15/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
@@ -1208,7 +1208,7 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "04/15/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
@@ -1221,7 +1221,7 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "04/15/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
@@ -1234,7 +1234,7 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/15/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 12
     },
     {
@@ -1247,7 +1247,7 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "04/15/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 22
     },
     {
@@ -1260,7 +1260,7 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "04/15/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 22
     },
     {
@@ -1273,7 +1273,7 @@
       "tier": "top",
       "minComp": 350000,
       "posted": "05/06/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 61
     },
     {
@@ -1299,7 +1299,7 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "04/15/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
@@ -1312,7 +1312,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "04/15/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 3
     },
     {
@@ -1338,7 +1338,7 @@
       "tier": "adjacent",
       "minComp": 300000,
       "posted": "04/15/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 5
     },
     {
@@ -1351,7 +1351,7 @@
       "tier": "adjacent",
       "minComp": 300000,
       "posted": "05/03/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 5
     },
     {
@@ -1364,7 +1364,7 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/15/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 15
     },
     {
@@ -1403,7 +1403,7 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "05/10/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 11
     },
     {
@@ -1429,7 +1429,7 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "05/10/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
@@ -1442,7 +1442,7 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "04/26/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 5
     },
     {
@@ -1455,7 +1455,7 @@
       "tier": "adjacent",
       "minComp": 300000,
       "posted": "04/28/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 20
     },
     {
@@ -1468,7 +1468,7 @@
       "tier": "adjacent",
       "minComp": 300000,
       "posted": "04/22/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 5
     },
     {
@@ -1481,7 +1481,7 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "05/09/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
@@ -1494,7 +1494,7 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "05/06/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
@@ -1507,7 +1507,7 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "05/06/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
@@ -1520,7 +1520,7 @@
       "tier": "adjacent",
       "minComp": 300000,
       "posted": "05/13/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 5
     },
     {
@@ -1533,7 +1533,7 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "05/11/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
@@ -1546,7 +1546,7 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "05/05/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 3
     },
     {
@@ -1559,7 +1559,7 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "04/15/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
@@ -1572,7 +1572,7 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/26/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 3
     },
     {
@@ -1585,7 +1585,7 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "05/05/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 3
     },
     {
@@ -1676,7 +1676,7 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/15/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 3
     },
     {
@@ -1689,7 +1689,7 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "04/15/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
@@ -2053,7 +2053,7 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/30/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 3
     },
     {
@@ -2066,7 +2066,7 @@
       "tier": "adjacent",
       "minComp": 300000,
       "posted": "04/19/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 5
     },
     {
@@ -2079,7 +2079,7 @@
       "tier": "adjacent",
       "minComp": 300000,
       "posted": "04/24/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 5
     },
     {
@@ -2092,7 +2092,7 @@
       "tier": "adjacent",
       "minComp": 300000,
       "posted": "04/19/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
@@ -2105,7 +2105,7 @@
       "tier": "adjacent",
       "minComp": 300000,
       "posted": "05/12/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 11
     },
     {
@@ -2118,7 +2118,7 @@
       "tier": "adjacent",
       "minComp": 300000,
       "posted": "04/19/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 5
     },
     {
@@ -2131,7 +2131,7 @@
       "tier": "adjacent",
       "minComp": 300000,
       "posted": "05/14/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 5
     },
     {
@@ -2183,7 +2183,7 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "05/05/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 18
     },
     {
@@ -2196,7 +2196,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "04/19/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 33
     },
     {
@@ -2209,7 +2209,7 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "04/19/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 23
     },
     {
@@ -2222,7 +2222,7 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "04/19/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
@@ -2235,7 +2235,7 @@
       "tier": "top",
       "minComp": 400000,
       "posted": "04/19/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 10
     },
     {
@@ -2248,7 +2248,7 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "05/11/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
@@ -2261,7 +2261,7 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "04/19/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 10
     },
     {
@@ -2274,7 +2274,7 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "04/19/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 30
     },
     {
@@ -2287,7 +2287,7 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/19/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 3
     },
     {
@@ -2300,7 +2300,7 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "04/23/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
@@ -2313,7 +2313,7 @@
       "tier": "adjacent",
       "minComp": 400000,
       "posted": "04/19/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 10
     },
     {
@@ -2326,7 +2326,7 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "05/04/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 26
     },
     {
@@ -2339,7 +2339,7 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "04/27/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 28
     },
     {
@@ -2352,7 +2352,7 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "05/18/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 12
     },
     {
@@ -2365,7 +2365,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "05/12/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 3
     },
     {
@@ -2391,7 +2391,7 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "04/27/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 2
     },
     {
@@ -2430,7 +2430,7 @@
       "tier": "top",
       "minComp": 350000,
       "posted": "05/12/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 5
     },
     {
@@ -2443,7 +2443,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "05/01/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
@@ -2469,7 +2469,7 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/27/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
@@ -2482,7 +2482,7 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "04/27/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
@@ -2495,7 +2495,7 @@
       "tier": "adjacent",
       "minComp": 300000,
       "posted": "05/12/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 5
     },
     {
@@ -2508,7 +2508,7 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "05/18/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
@@ -2521,7 +2521,7 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "05/18/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
@@ -2534,7 +2534,7 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "05/18/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 3
     },
     {
@@ -2547,7 +2547,7 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "05/04/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
@@ -2560,7 +2560,7 @@
       "tier": "adjacent",
       "minComp": 300000,
       "posted": "04/28/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
@@ -2573,7 +2573,7 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "04/27/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 21
     },
     {
@@ -2664,7 +2664,7 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "",
-      "isNew": true,
+      "isNew": false,
       "fit": 2
     },
     {
@@ -2677,7 +2677,7 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "05/19/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
@@ -2690,7 +2690,7 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "05/13/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 3
     },
     {
@@ -2703,7 +2703,7 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/30/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
@@ -2716,7 +2716,7 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "05/14/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 3
     },
     {
@@ -2729,7 +2729,7 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "05/18/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
@@ -2742,7 +2742,7 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "05/20/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
@@ -2755,7 +2755,7 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "Posted Yesterday",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
@@ -2820,7 +2820,7 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "05/19/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
@@ -2833,7 +2833,7 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "05/18/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 3
     },
     {
@@ -2846,7 +2846,7 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "05/08/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 3
     },
     {
@@ -2859,7 +2859,7 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/22/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
@@ -2872,7 +2872,7 @@
       "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/22/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
@@ -2885,7 +2885,7 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "05/18/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 2
     },
     {
@@ -2898,7 +2898,7 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
@@ -3173,6 +3173,84 @@
       "posted": "",
       "isNew": false,
       "fit": 11
+    },
+    {
+      "id": 245,
+      "title": "",
+      "location": ", USA",
+      "seniority": "Senior",
+      "link": "https://pinebridge.wd5.myworkdayjobs.com/en-US/PineBridge_Career_Site/job/New-York/Leveraged-Loans-Operations_R-02040",
+      "firm": "PineBridge",
+      "tier": "adjacent",
+      "minComp": 225000,
+      "posted": "",
+      "isNew": true,
+      "fit": 0
+    },
+    {
+      "id": 246,
+      "title": "Contract Leveraged Loans Operations Associate",
+      "location": "New York, NY",
+      "seniority": "Vice President",
+      "link": "https://pinebridge.wd5.myworkdayjobs.com/en-US/PineBridge_Career_Site/job/New-York/Leveraged-Loans-Operations_R-02040",
+      "firm": "PineBridge",
+      "tier": "adjacent",
+      "minComp": 250000,
+      "posted": "2026-05-14",
+      "isNew": true,
+      "fit": 0
+    },
+    {
+      "id": 247,
+      "title": "Associate-Vice President, Client Relations",
+      "location": "Pennsylvania, USA",
+      "seniority": "Vice President",
+      "link": "https://pinebridge.wd5.myworkdayjobs.com/en-US/PineBridge_Career_Site/job/Pennsylvania/Associate-Vice-President--Client-Relations_R-02029",
+      "firm": "PineBridge",
+      "tier": "adjacent",
+      "minComp": 250000,
+      "posted": "2026-04-27",
+      "isNew": true,
+      "fit": 3
+    },
+    {
+      "id": 248,
+      "title": "Client Portfolio Manager, Multi-Asset",
+      "location": "New York, NY",
+      "seniority": "Manager",
+      "link": "https://pinebridge.wd5.myworkdayjobs.com/en-US/PineBridge_Career_Site/job/New-York/Client-Portfolio-Manager--Multi-Asset_R-02030",
+      "firm": "PineBridge",
+      "tier": "adjacent",
+      "minComp": 250000,
+      "posted": "2026-04-26",
+      "isNew": true,
+      "fit": 59
+    },
+    {
+      "id": 249,
+      "title": "Sub Advisory Client Relations Manager, VP-SVP",
+      "location": "New York, NY",
+      "seniority": "SVP/MD",
+      "link": "https://pinebridge.wd5.myworkdayjobs.com/en-US/PineBridge_Career_Site/job/New-York/Sub-Advisory-Client-Relations-Manager--VP-SVP_R-02028",
+      "firm": "PineBridge",
+      "tier": "adjacent",
+      "minComp": 375000,
+      "posted": "2026-04-26",
+      "isNew": true,
+      "fit": 5
+    },
+    {
+      "id": 250,
+      "title": "Head of Americas, Product",
+      "location": "New York, NY",
+      "seniority": "Director",
+      "link": "https://pinebridge.wd5.myworkdayjobs.com/en-US/PineBridge_Career_Site/job/New-York/Head-of-Americas--Product_R-02011",
+      "firm": "PineBridge",
+      "tier": "adjacent",
+      "minComp": 300000,
+      "posted": "2026-03-18",
+      "isNew": true,
+      "fit": 5
     }
   ]
 }
