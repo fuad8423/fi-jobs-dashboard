@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-03",
-  "total": 227,
+  "generated": "2026-06-05",
+  "total": 233,
   "roles": [
     {
       "id": 1,
@@ -519,7 +519,7 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "04/29/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 3
     },
     {
@@ -532,7 +532,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "04/16/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 3
     },
     {
@@ -545,7 +545,7 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "05/05/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 15
     },
     {
@@ -558,7 +558,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "05/05/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 12
     },
     {
@@ -571,7 +571,7 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "04/25/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 8
     },
     {
@@ -584,7 +584,7 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "05/04/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 12
     },
     {
@@ -597,7 +597,7 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "04/15/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 12
     },
     {
@@ -610,7 +610,7 @@
       "tier": "top",
       "minComp": 350000,
       "posted": "04/15/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 25
     },
     {
@@ -636,7 +636,7 @@
       "tier": "top",
       "minComp": 350000,
       "posted": "04/15/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 35
     },
     {
@@ -727,7 +727,7 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "05/10/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 12
     },
     {
@@ -740,7 +740,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "05/10/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 22
     },
     {
@@ -948,7 +948,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "04/15/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 3
     },
     {
@@ -961,7 +961,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "05/05/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 50
     },
     {
@@ -974,7 +974,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "04/15/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 75
     },
     {
@@ -987,7 +987,7 @@
       "tier": "top",
       "minComp": 200000,
       "posted": "04/23/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
@@ -1000,7 +1000,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "04/21/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 3
     },
     {
@@ -1455,7 +1455,7 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "04/21/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 5
     },
     {
@@ -1468,7 +1468,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "04/20/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 80
     },
     {
@@ -1481,7 +1481,7 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "04/23/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 12
     },
     {
@@ -1533,7 +1533,7 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "04/19/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 37
     },
     {
@@ -1572,7 +1572,7 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "04/30/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
@@ -1611,7 +1611,7 @@
       "tier": "adjacent",
       "minComp": 225000,
       "posted": "05/13/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 12
     },
     {
@@ -2729,7 +2729,7 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": true,
+      "isNew": false,
       "fit": 6
     },
     {
@@ -2742,7 +2742,7 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": true,
+      "isNew": false,
       "fit": 63
     },
     {
@@ -2768,7 +2768,7 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
@@ -2781,7 +2781,7 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
@@ -2794,7 +2794,7 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": true,
+      "isNew": false,
       "fit": 15
     },
     {
@@ -2807,7 +2807,7 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
@@ -2820,7 +2820,7 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
@@ -2833,7 +2833,7 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
@@ -2846,7 +2846,7 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": true,
+      "isNew": false,
       "fit": 12
     },
     {
@@ -2859,7 +2859,7 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
@@ -2872,7 +2872,7 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": true,
+      "isNew": false,
       "fit": 6
     },
     {
@@ -2885,7 +2885,7 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": true,
+      "isNew": false,
       "fit": 6
     },
     {
@@ -2898,7 +2898,7 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
@@ -2911,7 +2911,7 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": true,
+      "isNew": false,
       "fit": 81
     },
     {
@@ -2924,7 +2924,7 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": true,
+      "isNew": false,
       "fit": 42
     },
     {
@@ -2937,7 +2937,7 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": true,
+      "isNew": false,
       "fit": 6
     },
     {
@@ -2950,8 +2950,86 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "",
-      "isNew": true,
+      "isNew": false,
       "fit": 6
+    },
+    {
+      "id": 228,
+      "title": "Senior Portfolio Analyst, Asset Allocation",
+      "location": "Multiple",
+      "seniority": "Senior",
+      "link": "https://careers.principal.com/careers-home/jobs/51355",
+      "firm": "Principal",
+      "tier": "top",
+      "minComp": 225000,
+      "posted": "",
+      "isNew": true,
+      "fit": 15
+    },
+    {
+      "id": 229,
+      "title": "Senior Equities Trader and Options / Derivatives Specialist",
+      "location": "Multiple",
+      "seniority": "Senior",
+      "link": "https://careers.principal.com/careers-home/jobs/50951",
+      "firm": "Principal",
+      "tier": "top",
+      "minComp": 225000,
+      "posted": "",
+      "isNew": true,
+      "fit": 8
+    },
+    {
+      "id": 230,
+      "title": "Director, Portfolio Management, Private Infrastructure Debt",
+      "location": "Multiple",
+      "seniority": "Director",
+      "link": "https://careers.principal.com/careers-home/jobs/50564",
+      "firm": "Principal",
+      "tier": "top",
+      "minComp": 300000,
+      "posted": "",
+      "isNew": true,
+      "fit": 52
+    },
+    {
+      "id": 231,
+      "title": "Internal Investment Consultant",
+      "location": "This position is based out of our Des Moines, IA office and will have a hybrid work arrangement of 3 days in the office and 2 days remote.",
+      "seniority": "Senior",
+      "link": "https://careers.principal.com/careers-home/jobs/51322",
+      "firm": "Principal",
+      "tier": "top",
+      "minComp": 225000,
+      "posted": "",
+      "isNew": true,
+      "fit": 0
+    },
+    {
+      "id": 232,
+      "title": "Managing Director, Defined Contribution Real Estate Solutions",
+      "location": "Multiple",
+      "seniority": "MD",
+      "link": "https://careers.principal.com/careers-home/jobs/51303",
+      "firm": "Principal",
+      "tier": "top",
+      "minComp": 400000,
+      "posted": "",
+      "isNew": true,
+      "fit": 5
+    },
+    {
+      "id": 233,
+      "title": "Managing Director, Portfolio Management, Private Equity Real Estate (Residential focused)",
+      "location": "Multiple",
+      "seniority": "MD",
+      "link": "https://careers.principal.com/careers-home/jobs/51145",
+      "firm": "Principal",
+      "tier": "top",
+      "minComp": 400000,
+      "posted": "",
+      "isNew": true,
+      "fit": 52
     }
   ]
 }
