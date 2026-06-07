@@ -253,7 +253,7 @@
       "minComp": 250000,
       "posted": "",
       "isNew": false,
-      "fit": 3,
+      "fit": 18,
       "applied": false,
       "applied_date": ""
     },
@@ -418,7 +418,7 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 55,
+      "fit": 75,
       "applied": false,
       "applied_date": ""
     },
@@ -433,7 +433,7 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 34,
+      "fit": 54,
       "applied": false,
       "applied_date": ""
     },
@@ -448,7 +448,7 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 0,
+      "fit": 12,
       "applied": false,
       "applied_date": ""
     },
@@ -673,7 +673,7 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 43,
+      "fit": 63,
       "applied": false,
       "applied_date": ""
     },
@@ -703,7 +703,7 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 73,
+      "fit": 93,
       "applied": false,
       "applied_date": ""
     },
@@ -958,7 +958,7 @@
       "minComp": 250000,
       "posted": "04/15/2026",
       "isNew": false,
-      "fit": 3,
+      "fit": 53,
       "applied": false,
       "applied_date": ""
     },
@@ -1108,7 +1108,7 @@
       "minComp": 300000,
       "posted": "04/28/2026",
       "isNew": false,
-      "fit": 20,
+      "fit": 35,
       "applied": false,
       "applied_date": ""
     },
@@ -1168,7 +1168,7 @@
       "minComp": 225000,
       "posted": "05/06/2026",
       "isNew": false,
-      "fit": 0,
+      "fit": 18,
       "applied": false,
       "applied_date": ""
     },
@@ -1183,7 +1183,7 @@
       "minComp": 300000,
       "posted": "05/13/2026",
       "isNew": false,
-      "fit": 5,
+      "fit": 23,
       "applied": false,
       "applied_date": ""
     },
@@ -1243,7 +1243,7 @@
       "minComp": 250000,
       "posted": "04/26/2026",
       "isNew": false,
-      "fit": 3,
+      "fit": 21,
       "applied": false,
       "applied_date": ""
     },
@@ -1258,7 +1258,7 @@
       "minComp": 250000,
       "posted": "05/05/2026",
       "isNew": false,
-      "fit": 3,
+      "fit": 21,
       "applied": false,
       "applied_date": ""
     },
@@ -1318,7 +1318,7 @@
       "minComp": 200000,
       "posted": "04/23/2026",
       "isNew": false,
-      "fit": 0,
+      "fit": 20,
       "applied": false,
       "applied_date": ""
     },
@@ -1438,7 +1438,7 @@
       "minComp": 250000,
       "posted": "05/15/2026",
       "isNew": false,
-      "fit": 18,
+      "fit": 51,
       "applied": false,
       "applied_date": ""
     },
@@ -1528,7 +1528,7 @@
       "minComp": 300000,
       "posted": "05/12/2026",
       "isNew": false,
-      "fit": 5,
+      "fit": 38,
       "applied": false,
       "applied_date": ""
     },
@@ -1753,7 +1753,7 @@
       "minComp": 250000,
       "posted": "04/30/2026",
       "isNew": false,
-      "fit": 3,
+      "fit": 21,
       "applied": false,
       "applied_date": ""
     },
@@ -1768,7 +1768,7 @@
       "minComp": 300000,
       "posted": "04/19/2026",
       "isNew": false,
-      "fit": 5,
+      "fit": 23,
       "applied": false,
       "applied_date": ""
     },
@@ -2053,7 +2053,7 @@
       "minComp": 250000,
       "posted": "04/27/2026",
       "isNew": false,
-      "fit": 0,
+      "fit": 12,
       "applied": false,
       "applied_date": ""
     },
@@ -2308,7 +2308,7 @@
       "minComp": 250000,
       "posted": "Posted Yesterday",
       "isNew": false,
-      "fit": 0,
+      "fit": 3,
       "applied": false,
       "applied_date": ""
     },
@@ -2953,7 +2953,7 @@
       "minComp": 300000,
       "posted": "04/02/2025",
       "isNew": false,
-      "fit": 20,
+      "fit": 35,
       "applied": false,
       "applied_date": ""
     },
@@ -3178,7 +3178,7 @@
       "minComp": 250000,
       "posted": "04/06/2026",
       "isNew": false,
-      "fit": 0,
+      "fit": 15,
       "applied": false,
       "applied_date": ""
     },
@@ -3643,7 +3643,7 @@
       "minComp": 400000,
       "posted": "",
       "isNew": false,
-      "fit": 5,
+      "fit": 20,
       "applied": false,
       "applied_date": ""
     },
@@ -3673,7 +3673,7 @@
       "minComp": 250000,
       "posted": "05/08/2026",
       "isNew": false,
-      "fit": 0,
+      "fit": 15,
       "applied": false,
       "applied_date": ""
     },
@@ -3718,7 +3718,7 @@
       "minComp": 300000,
       "posted": "05/18/2026",
       "isNew": false,
-      "fit": 20,
+      "fit": 50,
       "applied": false,
       "applied_date": ""
     },
@@ -3898,7 +3898,7 @@
       "minComp": 275000,
       "posted": "05/13/2026",
       "isNew": false,
-      "fit": 45,
+      "fit": 75,
       "applied": true,
       "applied_date": "2026-06-07"
     }
