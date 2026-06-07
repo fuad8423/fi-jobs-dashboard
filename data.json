@@ -1,6 +1,6 @@
 {
   "generated": "2026-06-07",
-  "total": 262,
+  "total": 260,
   "roles": [
     {
       "id": 1,
@@ -3177,27 +3177,27 @@
     {
       "id": 245,
       "title": "Business Development & Client Relationship Manager - Insurance GA",
-      "location": "2 Locations",
+      "location": "New York, NY",
       "seniority": "Manager",
       "link": "https://franklintempleton.wd5.myworkdayjobs.com/en-US/Primary-External-1/job/New-York-New-York-United-States-of-America/VP--Business-Development-Corporate-Liquidity_864199",
       "firm": "Franklin Templeton",
       "tier": "top",
       "minComp": 250000,
       "posted": "05/08/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
       "id": 246,
       "title": "Director - Investment Risk Management",
-      "location": "5 Locations",
+      "location": "Baltimore, Maryland",
       "seniority": "Director",
       "link": "https://franklintempleton.wd5.myworkdayjobs.com/en-US/Primary-External-1/job/Baltimore-Maryland-United-States-of-America/Investment-Risk-Manager--Liquidity-_863225",
       "firm": "Franklin Templeton",
       "tier": "top",
       "minComp": 300000,
       "posted": "05/14/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 5
     },
     {
@@ -3210,33 +3210,33 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "05/08/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 30
     },
     {
       "id": 248,
       "title": "Head of Insurance General Account Solutions \u2013 US",
-      "location": "5 Locations",
+      "location": "New York, NY",
       "seniority": "Director",
       "link": "https://franklintempleton.wd5.myworkdayjobs.com/en-US/Primary-External-1/job/New-York-New-York-United-States-of-America/Head-of-Insurance-General-Account-Solutions---US_866477",
       "firm": "Franklin Templeton",
       "tier": "top",
       "minComp": 300000,
       "posted": "05/18/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 20
     },
     {
       "id": 249,
       "title": "Head of Performance & Attribution",
-      "location": "7 Locations",
+      "location": "Ft. Lauderdale, Florida",
       "seniority": "Director",
       "link": "https://franklintempleton.wd5.myworkdayjobs.com/en-US/Primary-External-1/job/Ft-Lauderdale-Florida-United-States-of-America/Head-of-Performance---Attribution_868030-1",
       "firm": "Franklin Templeton",
       "tier": "top",
       "minComp": 300000,
       "posted": "05/28/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 5
     },
     {
@@ -3249,7 +3249,7 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "05/08/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 8
     },
     {
@@ -3262,24 +3262,11 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "05/08/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
       "id": 252,
-      "title": "Junior Quantitative Trader",
-      "location": "Edinburgh, United Kingdom",
-      "seniority": "Senior",
-      "link": "https://franklintempleton.wd5.myworkdayjobs.com/en-US/Primary-External-1/job/Edinburgh-United-Kingdom/Junior-Quantitative-Trader_866502",
-      "firm": "Franklin Templeton",
-      "tier": "top",
-      "minComp": 225000,
-      "posted": "05/08/2026",
-      "isNew": true,
-      "fit": 8
-    },
-    {
-      "id": 253,
       "title": "Portfolio Manager, Alternative Risk Premia (EG)",
       "location": "Boston, Massachusetts, United States of America",
       "seniority": "Portfolio Manager",
@@ -3288,11 +3275,11 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "06/05/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 51
     },
     {
-      "id": 254,
+      "id": 253,
       "title": "Portfolio Manager, Private Markets",
       "location": "New York, NY",
       "seniority": "Portfolio Manager",
@@ -3301,11 +3288,11 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "05/08/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 45
     },
     {
-      "id": 255,
+      "id": 254,
       "title": "Quantitative Developer",
       "location": "Pasadena, California, United States of America",
       "seniority": "Senior",
@@ -3314,24 +3301,24 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "05/21/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
-      "id": 256,
+      "id": 255,
       "title": "Quantitative Portfolio Manager - Custom Indexing (L/S strategies)",
-      "location": "3 Locations",
+      "location": "New York, NY",
       "seniority": "Portfolio Manager",
       "link": "https://franklintempleton.wd5.myworkdayjobs.com/en-US/Primary-External-1/job/New-York-New-York-United-States-of-America/Quantitative-Portfolio-Manager---Custom-Indexing--L-S-strategies-_865431-1",
       "firm": "Franklin Templeton",
       "tier": "top",
       "minComp": 275000,
       "posted": "05/08/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 57
     },
     {
-      "id": 257,
+      "id": 256,
       "title": "Research Analyst (Western Asset)",
       "location": "New York, NY",
       "seniority": "Senior",
@@ -3340,11 +3327,11 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "06/02/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
-      "id": 258,
+      "id": 257,
       "title": "Risk Analyst (Putnam)",
       "location": "Boston, Massachusetts, United States of America",
       "seniority": "Senior",
@@ -3353,11 +3340,11 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "05/18/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
-      "id": 259,
+      "id": 258,
       "title": "Senior Quantitative Analyst (Putnam Investments)",
       "location": "Boston, Massachusetts, United States of America",
       "seniority": "Senior",
@@ -3366,47 +3353,34 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "05/12/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
-      "id": 260,
+      "id": 259,
       "title": "Senior Quantitative Analyst, Quantitative & Risk Analytics",
-      "location": "3 Locations",
+      "location": "Lincoln, Massachusetts",
       "seniority": "Senior",
       "link": "https://franklintempleton.wd5.myworkdayjobs.com/en-US/Primary-External-1/job/Lincoln-Massachusetts-United-States-of-America/Senior-Quantitative-Analyst--Quantitative---Risk-Analytics_866513",
       "firm": "Franklin Templeton",
       "tier": "top",
       "minComp": 225000,
       "posted": "05/08/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 0
     },
     {
-      "id": 261,
+      "id": 260,
       "title": "Solutions Portfolio Manager - FTIS",
-      "location": "2 Locations",
+      "location": "New York, NY",
       "seniority": "Portfolio Manager",
       "link": "https://franklintempleton.wd5.myworkdayjobs.com/en-US/Primary-External-1/job/New-York-City-New-York-United-States-of-America/Solutions-Portfolio-Manager---FTIS_867799",
       "firm": "Franklin Templeton",
       "tier": "top",
       "minComp": 275000,
       "posted": "05/13/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 45
-    },
-    {
-      "id": 262,
-      "title": "VP, Business Development, Liquidity Services",
-      "location": "2 Locations",
-      "seniority": "Vice President",
-      "link": "https://franklintempleton.wd5.myworkdayjobs.com/en-US/Primary-External-1/job/Singapore-Singapore/VP--Business-Development-Liquidity-Services_864205",
-      "firm": "Franklin Templeton",
-      "tier": "top",
-      "minComp": 250000,
-      "posted": "05/15/2026",
-      "isNew": true,
-      "fit": 3
     }
   ]
 }
