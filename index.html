@@ -34,6 +34,54 @@
     .filters input:focus, .filters select:focus { border-color: var(--accent); }
     .filters input[type="text"] { width: 220px; }
     .filters select { cursor: pointer; }
+
+    /* Multi-select dropdown */
+    .multi-select { position: relative; display: inline-block; }
+    .multi-select-btn {
+      background: var(--surface); border: 1px solid var(--border);
+      color: var(--text); border-radius: 6px; padding: 6px 28px 6px 10px;
+      font-size: 0.82rem; cursor: pointer; min-width: 160px; max-width: 220px;
+      text-align: left; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+      position: relative; user-select: none;
+    }
+    .multi-select-btn::after {
+      content: '▾'; position: absolute; right: 8px; top: 50%; transform: translateY(-50%);
+      font-size: 0.7rem; color: var(--dim); pointer-events: none;
+    }
+    .multi-select-btn.open { border-color: var(--accent); }
+    .multi-select-btn .count-badge {
+      background: var(--accent); color: #000; border-radius: 10px; padding: 1px 6px;
+      font-size: 0.7rem; font-weight: 700; margin-left: 4px;
+    }
+    .multi-select-panel {
+      display: none; position: absolute; top: 100%; left: 0; z-index: 10;
+      background: var(--surface); border: 1px solid var(--border); border-radius: 8px;
+      margin-top: 4px; min-width: 240px; max-height: 320px; overflow: hidden;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+    }
+    .multi-select-panel.open { display: block; }
+    .multi-select-search {
+      width: 100%; border: none; border-bottom: 1px solid var(--border);
+      background: transparent; color: var(--text); padding: 8px 10px;
+      font-size: 0.8rem; outline: none; box-sizing: border-box;
+    }
+    .multi-select-options { max-height: 260px; overflow-y: auto; padding: 4px 0; }
+    .multi-select-option {
+      display: flex; align-items: center; gap: 8px; padding: 5px 10px;
+      cursor: pointer; font-size: 0.82rem; color: var(--text);
+    }
+    .multi-select-option:hover { background: rgba(56, 189, 248, 0.08); }
+    .multi-select-option input[type="checkbox"] {
+      accent-color: var(--accent); width: 14px; height: 14px; cursor: pointer;
+    }
+    .multi-select-actions {
+      display: flex; gap: 6px; padding: 6px 10px; border-top: 1px solid var(--border);
+    }
+    .multi-select-actions button {
+      background: transparent; border: 1px solid var(--border); color: var(--dim);
+      border-radius: 4px; padding: 2px 8px; font-size: 0.72rem; cursor: pointer;
+    }
+    .multi-select-actions button:hover { border-color: var(--accent); color: var(--text); }
     .stat { color: var(--dim); font-size: 0.78rem; margin-left: auto; }
 
     /* Table */
@@ -92,6 +140,9 @@
       body { padding: 12px; }
       .filters input[type="text"] { width: 100%; }
       .filters { gap: 6px; }
+      .multi-select { width: 100%; }
+      .multi-select-btn { width: 100%; max-width: none; box-sizing: border-box; }
+      .multi-select-panel { min-width: 100%; box-sizing: border-box; }
       .title-cell { max-width: 200px; }
     }
   </style>
@@ -107,7 +158,17 @@
     <input type="text" id="search" placeholder="Search title, location…" />
     <select id="firm-filter"><option value="">All Firms</option></select>
     <select id="seniority-filter"><option value="">All Seniority</option></select>
-    <select id="location-filter"><option value="">All Locations</option></select>
+    <div class="multi-select" id="location-filter">
+      <div class="multi-select-btn" id="location-btn">All Locations</div>
+      <div class="multi-select-panel" id="location-panel">
+        <input type="text" class="multi-select-search" id="location-search" placeholder="Search locations…" />
+        <div class="multi-select-options" id="location-options"></div>
+        <div class="multi-select-actions">
+          <button onclick="locSelectAll()">All</button>
+          <button onclick="locClearAll()">Clear</button>
+        </div>
+      </div>
+    </div>
     <select id="tier-filter">
       <option value="">All Tiers</option>
       <option value="top">Top (Core FI)</option>
@@ -181,23 +242,78 @@ const postedSort = s => {
   return 0;
 };
 
+let selectedLocations = new Set();
+
+function locSelectAll() {
+  const boxes = document.querySelectorAll('#location-options input[type="checkbox"]');
+  const visible = Array.from(boxes).filter(b => b.closest('.multi-select-option').style.display !== 'none');
+  const allChecked = visible.every(b => b.checked);
+  visible.forEach(b => { b.checked = !allChecked; const v = b.value; if (!allChecked) selectedLocations.add(v); else selectedLocations.delete(v); });
+  updateLocBtn();
+  render();
+}
+function locClearAll() {
+  selectedLocations.clear();
+  document.querySelectorAll('#location-options input[type="checkbox"]').forEach(b => b.checked = false);
+  updateLocBtn();
+  render();
+}
+function updateLocBtn() {
+  const btn = document.getElementById('location-btn');
+  if (selectedLocations.size === 0) { btn.innerHTML = 'All Locations'; }
+  else if (selectedLocations.size <= 2) { btn.innerHTML = [...selectedLocations].join(', ') + ' <span class="count-badge">' + selectedLocations.size + '</span>'; }
+  else { btn.innerHTML = selectedLocations.size + ' locations <span class="count-badge">' + selectedLocations.size + '</span>'; }
+}
+
 function populateFilters() {
   const firms = [...new Set(allRoles.map(r => r.firm))].sort();
   const seniorities = [...new Set(allRoles.map(r => r.seniority))].sort();
   const locations = [...new Set(allRoles.map(r => r.location))].sort();
   const ff = document.getElementById('firm-filter');
   const sf = document.getElementById('seniority-filter');
-  const lf = document.getElementById('location-filter');
   firms.forEach(f => { const o = document.createElement('option'); o.value = f; o.textContent = f; ff.appendChild(o); });
   seniorities.forEach(s => { const o = document.createElement('option'); o.value = s; o.textContent = s; sf.appendChild(o); });
-  locations.forEach(l => { const o = document.createElement('option'); o.value = l; o.textContent = l; lf.appendChild(o); });
+
+  // Build location multi-select options
+  const opts = document.getElementById('location-options');
+  locations.forEach(l => {
+    const div = document.createElement('label');
+    div.className = 'multi-select-option';
+    div.innerHTML = `<input type="checkbox" value="${l}" /> ${l}`;
+    div.querySelector('input').addEventListener('change', () => {
+      if (div.querySelector('input').checked) selectedLocations.add(l); else selectedLocations.delete(l);
+      updateLocBtn(); render();
+    });
+    opts.appendChild(div);
+  });
+
+  // Toggle panel
+  const btn = document.getElementById('location-btn');
+  const panel = document.getElementById('location-panel');
+  btn.addEventListener('click', (e) => {
+    e.stopPropagation();
+    const isOpen = panel.classList.contains('open');
+    document.querySelectorAll('.multi-select-panel').forEach(p => p.classList.remove('open'));
+    document.querySelectorAll('.multi-select-btn').forEach(b => b.classList.remove('open'));
+    if (!isOpen) { panel.classList.add('open'); btn.classList.add('open'); document.getElementById('location-search').focus(); }
+  });
+  document.addEventListener('click', () => { panel.classList.remove('open'); btn.classList.remove('open'); });
+  panel.addEventListener('click', (e) => e.stopPropagation());
+
+  // Search filter
+  document.getElementById('location-search').addEventListener('input', (e) => {
+    const q = e.target.value.toLowerCase();
+    document.querySelectorAll('#location-options .multi-select-option').forEach(opt => {
+      opt.style.display = opt.textContent.toLowerCase().includes(q) ? '' : 'none';
+    });
+  });
 }
 
 function getFiltered() {
   const q = document.getElementById('search').value.toLowerCase();
   const firm = document.getElementById('firm-filter').value;
   const sen = document.getElementById('seniority-filter').value;
-  const loc = document.getElementById('location-filter').value;
+  const locs = selectedLocations;
   const tier = document.getElementById('tier-filter').value;
   const minComp = +document.getElementById('comp-filter').value;
   const minFit = +document.getElementById('fit-filter').value;
@@ -206,7 +322,7 @@ function getFiltered() {
     if (q && !r.title.toLowerCase().includes(q) && !r.location.toLowerCase().includes(q) && !r.firm.toLowerCase().includes(q)) return false;
     if (firm && r.firm !== firm) return false;
     if (sen && r.seniority !== sen) return false;
-    if (loc && r.location !== loc) return false;
+    if (locs.size > 0 && !locs.has(r.location)) return false;
     if (tier && r.tier !== tier) return false;
     if (r.minComp < minComp) return false;
     if ((r.fit||0) < minFit) return false;
@@ -261,7 +377,7 @@ document.querySelectorAll('th[data-col]').forEach(th => {
 });
 
 // Filter events
-['search','firm-filter','seniority-filter','location-filter','tier-filter','comp-filter','fit-filter','applied-filter'].forEach(id => {
+['search','firm-filter','seniority-filter','tier-filter','comp-filter','fit-filter','applied-filter'].forEach(id => {
   document.getElementById(id).addEventListener(id === 'search' ? 'input' : 'change', render);
 });
 
