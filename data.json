@@ -1,6 +1,6 @@
 {
   "generated": "2026-06-07",
-  "total": 260,
+  "total": 267,
   "roles": [
     {
       "id": 1,
@@ -1768,7 +1768,7 @@
       "minComp": 300000,
       "posted": "04/19/2026",
       "isNew": false,
-      "fit": 23,
+      "fit": 38,
       "applied": false,
       "applied_date": ""
     },
@@ -2803,7 +2803,7 @@
       "minComp": 300000,
       "posted": "02/09/2026",
       "isNew": false,
-      "fit": 5,
+      "fit": 25,
       "applied": false,
       "applied_date": ""
     },
@@ -3553,7 +3553,7 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 6,
+      "fit": 24,
       "applied": false,
       "applied_date": ""
     },
@@ -3901,6 +3901,111 @@
       "fit": 75,
       "applied": true,
       "applied_date": "2026-06-07"
+    },
+    {
+      "id": 261,
+      "title": "Director, RMBS Trading & Residential Credit Investing",
+      "location": "Addison, TX; Montpelier, VT",
+      "seniority": "Director",
+      "link": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4214292009",
+      "firm": "National Life Group",
+      "tier": "top",
+      "minComp": 300000,
+      "posted": "",
+      "isNew": false,
+      "fit": 58,
+      "applied": false,
+      "applied_date": ""
+    },
+    {
+      "id": 262,
+      "title": "Executive Director Derivatives & Hedging",
+      "location": "Addison, TX; Montpelier, VT; New York, NY",
+      "seniority": "ED",
+      "link": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4059916009",
+      "firm": "National Life Group",
+      "tier": "top",
+      "minComp": 350000,
+      "posted": "",
+      "isNew": false,
+      "fit": 38,
+      "applied": false,
+      "applied_date": ""
+    },
+    {
+      "id": 263,
+      "title": "Sr. Director, Derivatives & Hedging",
+      "location": "Addison, TX; Montpelier, VT",
+      "seniority": "Director",
+      "link": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4214166009",
+      "firm": "National Life Group",
+      "tier": "top",
+      "minComp": 300000,
+      "posted": "",
+      "isNew": false,
+      "fit": 43,
+      "applied": false,
+      "applied_date": ""
+    },
+    {
+      "id": 264,
+      "title": "Sr. Director, Insurance Portfolio Management",
+      "location": "Addison, TX; Montpelier, VT; New York, NY",
+      "seniority": "Director",
+      "link": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4261859009",
+      "firm": "National Life Group",
+      "tier": "top",
+      "minComp": 300000,
+      "posted": "",
+      "isNew": false,
+      "fit": 67,
+      "applied": false,
+      "applied_date": ""
+    },
+    {
+      "id": 265,
+      "title": "AVP, Market Risk",
+      "location": "Addison, TX; Montpelier, VT",
+      "seniority": "AVP",
+      "link": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4173851009",
+      "firm": "National Life Group",
+      "tier": "top",
+      "minComp": 225000,
+      "posted": "",
+      "isNew": false,
+      "fit": 20,
+      "applied": false,
+      "applied_date": ""
+    },
+    {
+      "id": 266,
+      "title": "Director, Capital Strategy, Liquidity & Rating Agency Relations",
+      "location": "Addison, TX; Montpelier, VT",
+      "seniority": "Director",
+      "link": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4210485009",
+      "firm": "National Life Group",
+      "tier": "top",
+      "minComp": 300000,
+      "posted": "",
+      "isNew": false,
+      "fit": 17,
+      "applied": false,
+      "applied_date": ""
+    },
+    {
+      "id": 267,
+      "title": "Director, Commercial Real Estate Origination",
+      "location": "Addison, TX; Montpelier, VT",
+      "seniority": "Director",
+      "link": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4239157009",
+      "firm": "National Life Group",
+      "tier": "adj",
+      "minComp": 300000,
+      "posted": "",
+      "isNew": false,
+      "fit": 5,
+      "applied": false,
+      "applied_date": ""
     }
   ]
 }
