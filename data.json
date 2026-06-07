@@ -1,6 +1,6 @@
 {
   "generated": "2026-06-07",
-  "total": 267,
+  "total": 272,
   "roles": [
     {
       "id": 1,
@@ -3959,8 +3959,8 @@
       "posted": "",
       "isNew": false,
       "fit": 67,
-      "applied": false,
-      "applied_date": ""
+      "applied": true,
+      "applied_date": "2026-06-07"
     },
     {
       "id": 265,
@@ -4004,6 +4004,81 @@
       "posted": "",
       "isNew": false,
       "fit": 5,
+      "applied": false,
+      "applied_date": ""
+    },
+    {
+      "id": 268,
+      "title": "Portfolio Manager",
+      "location": "Dallas, TX",
+      "seniority": "Portfolio Manager",
+      "link": "https://job-boards.greenhouse.io/lincoln/jobs/7876441",
+      "firm": "Lincoln Financial Group",
+      "tier": "top",
+      "minComp": 275000,
+      "posted": "",
+      "isNew": true,
+      "fit": 45,
+      "applied": false,
+      "applied_date": ""
+    },
+    {
+      "id": 269,
+      "title": "Investment Manager",
+      "location": "Dallas, TX",
+      "seniority": "Director",
+      "link": "https://job-boards.greenhouse.io/lincoln/jobs/7876440",
+      "firm": "Lincoln Financial Group",
+      "tier": "top",
+      "minComp": 300000,
+      "posted": "",
+      "isNew": true,
+      "fit": 5,
+      "applied": false,
+      "applied_date": ""
+    },
+    {
+      "id": 270,
+      "title": "Senior Investment Analyst",
+      "location": "Dallas, TX",
+      "seniority": "VP",
+      "link": "https://job-boards.greenhouse.io/lincoln/jobs/7876439",
+      "firm": "Lincoln Financial Group",
+      "tier": "top",
+      "minComp": 250000,
+      "posted": "",
+      "isNew": true,
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
+    },
+    {
+      "id": 271,
+      "title": "Insurance Product Manager, Excess & Surplus Lines",
+      "location": "San Francisco, CA; Denver, CO; Madison, WI",
+      "seniority": "Manager",
+      "link": "https://job-boards.greenhouse.io/mgtinsurance/jobs/7945001",
+      "firm": "MGT Insurance",
+      "tier": "adj",
+      "minComp": 250000,
+      "posted": "",
+      "isNew": true,
+      "fit": 15,
+      "applied": false,
+      "applied_date": ""
+    },
+    {
+      "id": 272,
+      "title": "Insurance Operations Manager",
+      "location": "San Francisco, CA; Denver, CO; Madison, WI",
+      "seniority": "Manager",
+      "link": "https://job-boards.greenhouse.io/mgtinsurance/jobs/7876001",
+      "firm": "MGT Insurance",
+      "tier": "adj",
+      "minComp": 250000,
+      "posted": "",
+      "isNew": true,
+      "fit": 7,
       "applied": false,
       "applied_date": ""
     }
