@@ -71,6 +71,15 @@
       padding: 1px 5px; border-radius: 3px; font-weight: 700;
       margin-left: 5px; vertical-align: middle;
     }
+    .badge-applied {
+      color: #000; background: var(--green); border-radius: 4px;
+      padding: 1px 7px; font-weight: 600; font-size: 0.75rem;
+      white-space: nowrap;
+    }
+    .badge-pending {
+      color: var(--dim); font-size: 0.75rem;
+    }
+    .applied-cell { text-align: center; white-space: nowrap; }
     .apply-link {
       color: var(--accent); text-decoration: none; font-weight: 600;
       font-size: 0.75rem; white-space: nowrap;
@@ -90,7 +99,7 @@
 <body>
   <h1>📊 FI Jobs Dashboard</h1>
   <div class="subtitle">
-    <span id="total-count">—</span> roles · Last updated <span id="gen-date">—</span>
+    <span id="total-count">—</span> roles · <span id="applied-count">0</span> applied · Last updated <span id="gen-date">—</span>
     · ≥$200k comp · No Analysts
   </div>
 
@@ -117,6 +126,11 @@
       <option value="30">Fit ≥30</option>
       <option value="10">Fit ≥10</option>
     </select>
+    <select id="applied-filter">
+      <option value="">All Status</option>
+      <option value="applied">Applied</option>
+      <option value="not-applied">Not Applied</option>
+    </select>
     <span class="stat" id="filtered-count"></span>
   </div>
 
@@ -132,6 +146,7 @@
           <th data-col="minComp">Comp <span class="arrow"></span></th>
           <th data-col="tier">Tier <span class="arrow"></span></th>
           <th data-col="posted">Posted <span class="arrow"></span></th>
+          <th data-col="applied">Applied <span class="arrow"></span></th>
           <th>Apply</th>
         </tr>
       </thead>
@@ -186,6 +201,7 @@ function getFiltered() {
   const tier = document.getElementById('tier-filter').value;
   const minComp = +document.getElementById('comp-filter').value;
   const minFit = +document.getElementById('fit-filter').value;
+  const appliedFilter = document.getElementById('applied-filter').value;
   return allRoles.filter(r => {
     if (q && !r.title.toLowerCase().includes(q) && !r.location.toLowerCase().includes(q) && !r.firm.toLowerCase().includes(q)) return false;
     if (firm && r.firm !== firm) return false;
@@ -194,6 +210,8 @@ function getFiltered() {
     if (tier && r.tier !== tier) return false;
     if (r.minComp < minComp) return false;
     if ((r.fit||0) < minFit) return false;
+    if (appliedFilter === 'applied' && !r.applied) return false;
+    if (appliedFilter === 'not-applied' && r.applied) return false;
     return true;
   });
 }
@@ -223,6 +241,7 @@ else if (sortCol === 'fit') { av = a.fit || 0; bv = b.fit || 0; }
     <td class="comp-cell">${fmt(r.minComp)}</td>
     <td><span class="tier-${r.tier === 'adj' ? 'adj' : 'top'}">${r.tier === 'adj' ? 'ADJ' : 'TOP'}</span></td>
     <td class="posted-cell">${fmtDate(r.posted)}</td>
+    <td class="applied-cell">${r.applied ? '<span class="badge-applied">✅ ' + (r.applied_date||'Applied') + '</span>' : '<span class="badge-pending">—</span>'}</td>
     <td>${r.link ? '<a class="apply-link" href="'+r.link+'" target="_blank" rel="noopener">Apply →</a>' : '<span class="no-link">—</span>'}</td>
   </tr>`).join('');
 
@@ -242,7 +261,7 @@ document.querySelectorAll('th[data-col]').forEach(th => {
 });
 
 // Filter events
-['search','firm-filter','seniority-filter','location-filter','tier-filter','comp-filter','fit-filter'].forEach(id => {
+['search','firm-filter','seniority-filter','location-filter','tier-filter','comp-filter','fit-filter','applied-filter'].forEach(id => {
   document.getElementById(id).addEventListener(id === 'search' ? 'input' : 'change', render);
 });
 
@@ -250,11 +269,13 @@ document.querySelectorAll('th[data-col]').forEach(th => {
 fetch('data.json?v='+Date.now()).then(r => r.json()).then(d => {
   document.getElementById('total-count').textContent = d.total;
   document.getElementById('gen-date').textContent = d.generated;
+  const appliedCount = d.roles.filter(r => r.applied).length;
+  document.getElementById('applied-count').textContent = appliedCount;
   allRoles = d.roles;
   populateFilters();
   render();
 }).catch(e => {
-  document.getElementById('tbody').innerHTML = '<tr><td colspan="8" style="padding:20px;text-align:center;color:#f87171">Failed to load data.json — ' + e.message + '</td></tr>';
+  document.getElementById('tbody').innerHTML = '<tr><td colspan="9" style="padding:20px;text-align:center;color:#f87171">Failed to load data.json — ' + e.message + '</td></tr>';
 });
 </script>
 </body>

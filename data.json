@@ -13,7 +13,9 @@
       "minComp": 225000,
       "posted": "",
       "isNew": false,
-      "fit": 2
+      "fit": 2,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 2,
@@ -26,7 +28,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 57
+      "fit": 57,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 3,
@@ -39,7 +43,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 42
+      "fit": 42,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 4,
@@ -52,7 +58,9 @@
       "minComp": 225000,
       "posted": "",
       "isNew": false,
-      "fit": 6
+      "fit": 6,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 5,
@@ -65,7 +73,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 57
+      "fit": 57,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 6,
@@ -78,7 +88,9 @@
       "minComp": 300000,
       "posted": "",
       "isNew": false,
-      "fit": 23
+      "fit": 23,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 7,
@@ -91,7 +103,9 @@
       "minComp": 225000,
       "posted": "",
       "isNew": false,
-      "fit": 30
+      "fit": 30,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 8,
@@ -104,7 +118,9 @@
       "minComp": 300000,
       "posted": "",
       "isNew": false,
-      "fit": 5
+      "fit": 5,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 9,
@@ -117,7 +133,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 45
+      "fit": 45,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 10,
@@ -130,7 +148,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 45
+      "fit": 45,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 11,
@@ -143,7 +163,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 57
+      "fit": 57,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 12,
@@ -156,7 +178,9 @@
       "minComp": 225000,
       "posted": "",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 13,
@@ -169,7 +193,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 45
+      "fit": 45,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 14,
@@ -182,7 +208,9 @@
       "minComp": 225000,
       "posted": "",
       "isNew": false,
-      "fit": 38
+      "fit": 38,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 15,
@@ -195,7 +223,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 45
+      "fit": 45,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 16,
@@ -208,7 +238,9 @@
       "minComp": 250000,
       "posted": "",
       "isNew": false,
-      "fit": 3
+      "fit": 3,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 17,
@@ -221,7 +253,9 @@
       "minComp": 250000,
       "posted": "",
       "isNew": false,
-      "fit": 3
+      "fit": 3,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 18,
@@ -234,7 +268,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 26
+      "fit": 26,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 19,
@@ -247,7 +283,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 85
+      "fit": 85,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 20,
@@ -260,7 +298,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 42
+      "fit": 42,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 21,
@@ -273,7 +313,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 22,
@@ -286,7 +328,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 23,
@@ -299,7 +343,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 20
+      "fit": 20,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 24,
@@ -312,7 +358,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 30
+      "fit": 30,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 25,
@@ -325,7 +373,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 26,
@@ -338,7 +388,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 27,
@@ -351,7 +403,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 42
+      "fit": 42,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 28,
@@ -364,7 +418,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 55
+      "fit": 55,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 29,
@@ -377,7 +433,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 34
+      "fit": 34,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 30,
@@ -390,7 +448,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 31,
@@ -403,7 +463,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 32,
@@ -416,7 +478,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 37
+      "fit": 37,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 33,
@@ -429,7 +493,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 34,
@@ -442,7 +508,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 20
+      "fit": 20,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 35,
@@ -455,7 +523,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 67
+      "fit": 67,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 36,
@@ -468,7 +538,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 37,
@@ -481,7 +553,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 8
+      "fit": 8,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 38,
@@ -494,7 +568,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 39,
@@ -507,7 +583,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 40,
@@ -520,7 +598,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 20
+      "fit": 20,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 41,
@@ -533,7 +613,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 42,
@@ -546,7 +628,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 43,
@@ -559,7 +643,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 6
+      "fit": 6,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 44,
@@ -572,7 +658,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 45,
@@ -585,7 +673,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 43
+      "fit": 43,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 46,
@@ -598,7 +688,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 20
+      "fit": 20,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 47,
@@ -611,7 +703,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 73
+      "fit": 73,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 48,
@@ -624,7 +718,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 49,
@@ -637,7 +733,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 50,
@@ -650,7 +748,9 @@
       "minComp": 350000,
       "posted": "04/14/2026",
       "isNew": false,
-      "fit": 35
+      "fit": 35,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 51,
@@ -663,7 +763,9 @@
       "minComp": 250000,
       "posted": "04/23/2026",
       "isNew": false,
-      "fit": 55
+      "fit": 55,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 52,
@@ -676,7 +778,9 @@
       "minComp": 250000,
       "posted": "04/10/2026",
       "isNew": false,
-      "fit": 59
+      "fit": 59,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 53,
@@ -689,7 +793,9 @@
       "minComp": 350000,
       "posted": "04/15/2026",
       "isNew": false,
-      "fit": 35
+      "fit": 35,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 54,
@@ -702,7 +808,9 @@
       "minComp": 350000,
       "posted": "01/14/2026",
       "isNew": false,
-      "fit": 62
+      "fit": 62,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 55,
@@ -715,7 +823,9 @@
       "minComp": 300000,
       "posted": "04/29/2026",
       "isNew": false,
-      "fit": 3
+      "fit": 3,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 56,
@@ -728,7 +838,9 @@
       "minComp": 250000,
       "posted": "04/16/2026",
       "isNew": false,
-      "fit": 3
+      "fit": 3,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 57,
@@ -741,7 +853,9 @@
       "minComp": 250000,
       "posted": "05/05/2026",
       "isNew": false,
-      "fit": 12
+      "fit": 12,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 58,
@@ -754,7 +868,9 @@
       "minComp": 275000,
       "posted": "04/25/2026",
       "isNew": false,
-      "fit": 8
+      "fit": 8,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 59,
@@ -767,7 +883,9 @@
       "minComp": 225000,
       "posted": "05/04/2026",
       "isNew": false,
-      "fit": 12
+      "fit": 12,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 60,
@@ -780,7 +898,9 @@
       "minComp": 225000,
       "posted": "04/15/2026",
       "isNew": false,
-      "fit": 12
+      "fit": 12,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 61,
@@ -793,7 +913,9 @@
       "minComp": 350000,
       "posted": "04/15/2026",
       "isNew": false,
-      "fit": 25
+      "fit": 25,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 62,
@@ -806,7 +928,9 @@
       "minComp": 350000,
       "posted": "05/06/2026",
       "isNew": false,
-      "fit": 61
+      "fit": 61,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 63,
@@ -819,7 +943,9 @@
       "minComp": 350000,
       "posted": "04/15/2026",
       "isNew": false,
-      "fit": 35
+      "fit": 35,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 64,
@@ -832,7 +958,9 @@
       "minComp": 250000,
       "posted": "04/15/2026",
       "isNew": false,
-      "fit": 3
+      "fit": 3,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 65,
@@ -845,7 +973,9 @@
       "minComp": 250000,
       "posted": "04/15/2026",
       "isNew": false,
-      "fit": 38
+      "fit": 38,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 66,
@@ -858,7 +988,9 @@
       "minComp": 300000,
       "posted": "04/15/2026",
       "isNew": false,
-      "fit": 5
+      "fit": 5,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 67,
@@ -871,7 +1003,9 @@
       "minComp": 300000,
       "posted": "05/03/2026",
       "isNew": false,
-      "fit": 5
+      "fit": 5,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 68,
@@ -884,7 +1018,9 @@
       "minComp": 250000,
       "posted": "04/15/2026",
       "isNew": false,
-      "fit": 15
+      "fit": 15,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 69,
@@ -897,7 +1033,9 @@
       "minComp": 225000,
       "posted": "05/10/2026",
       "isNew": false,
-      "fit": 12
+      "fit": 12,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 70,
@@ -910,7 +1048,9 @@
       "minComp": 300000,
       "posted": "05/10/2026",
       "isNew": false,
-      "fit": 11
+      "fit": 11,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 71,
@@ -923,7 +1063,9 @@
       "minComp": 225000,
       "posted": "05/10/2026",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 72,
@@ -936,7 +1078,9 @@
       "minComp": 225000,
       "posted": "05/10/2026",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 73,
@@ -949,7 +1093,9 @@
       "minComp": 300000,
       "posted": "04/26/2026",
       "isNew": false,
-      "fit": 5
+      "fit": 5,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 74,
@@ -962,7 +1108,9 @@
       "minComp": 300000,
       "posted": "04/28/2026",
       "isNew": false,
-      "fit": 20
+      "fit": 20,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 75,
@@ -975,7 +1123,9 @@
       "minComp": 300000,
       "posted": "04/22/2026",
       "isNew": false,
-      "fit": 5
+      "fit": 5,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 76,
@@ -988,7 +1138,9 @@
       "minComp": 225000,
       "posted": "05/09/2026",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 77,
@@ -1001,7 +1153,9 @@
       "minComp": 225000,
       "posted": "05/06/2026",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 78,
@@ -1014,7 +1168,9 @@
       "minComp": 225000,
       "posted": "05/06/2026",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 79,
@@ -1027,7 +1183,9 @@
       "minComp": 300000,
       "posted": "05/13/2026",
       "isNew": false,
-      "fit": 5
+      "fit": 5,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 80,
@@ -1040,7 +1198,9 @@
       "minComp": 225000,
       "posted": "05/11/2026",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 81,
@@ -1053,7 +1213,9 @@
       "minComp": 250000,
       "posted": "05/05/2026",
       "isNew": false,
-      "fit": 3
+      "fit": 3,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 82,
@@ -1066,7 +1228,9 @@
       "minComp": 225000,
       "posted": "04/15/2026",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 83,
@@ -1079,7 +1243,9 @@
       "minComp": 250000,
       "posted": "04/26/2026",
       "isNew": false,
-      "fit": 3
+      "fit": 3,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 84,
@@ -1092,7 +1258,9 @@
       "minComp": 250000,
       "posted": "05/05/2026",
       "isNew": false,
-      "fit": 3
+      "fit": 3,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 85,
@@ -1105,7 +1273,9 @@
       "minComp": 250000,
       "posted": "04/15/2026",
       "isNew": false,
-      "fit": 3
+      "fit": 3,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 86,
@@ -1118,7 +1288,9 @@
       "minComp": 250000,
       "posted": "05/05/2026",
       "isNew": false,
-      "fit": 50
+      "fit": 50,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 87,
@@ -1131,7 +1303,9 @@
       "minComp": 250000,
       "posted": "04/15/2026",
       "isNew": false,
-      "fit": 75
+      "fit": 75,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 88,
@@ -1144,7 +1318,9 @@
       "minComp": 200000,
       "posted": "04/23/2026",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 89,
@@ -1157,7 +1333,9 @@
       "minComp": 250000,
       "posted": "04/21/2026",
       "isNew": false,
-      "fit": 3
+      "fit": 3,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 90,
@@ -1170,7 +1348,9 @@
       "minComp": 225000,
       "posted": "05/2026",
       "isNew": false,
-      "fit": 12
+      "fit": 12,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 91,
@@ -1183,7 +1363,9 @@
       "minComp": 225000,
       "posted": "05/2026",
       "isNew": false,
-      "fit": 52
+      "fit": 52,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 92,
@@ -1196,7 +1378,9 @@
       "minComp": 225000,
       "posted": "05/2026",
       "isNew": false,
-      "fit": 12
+      "fit": 12,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 93,
@@ -1209,7 +1393,9 @@
       "minComp": 225000,
       "posted": "05/2026",
       "isNew": false,
-      "fit": 28
+      "fit": 28,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 94,
@@ -1222,7 +1408,9 @@
       "minComp": 225000,
       "posted": "05/2026",
       "isNew": false,
-      "fit": 17
+      "fit": 17,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 95,
@@ -1235,7 +1423,9 @@
       "minComp": 250000,
       "posted": "05/2026",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 96,
@@ -1248,7 +1438,9 @@
       "minComp": 250000,
       "posted": "05/15/2026",
       "isNew": false,
-      "fit": 18
+      "fit": 18,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 97,
@@ -1261,7 +1453,9 @@
       "minComp": 225000,
       "posted": "05/15/2026",
       "isNew": false,
-      "fit": 2
+      "fit": 2,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 98,
@@ -1274,7 +1468,9 @@
       "minComp": 225000,
       "posted": "04/18/2026",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 99,
@@ -1287,7 +1483,9 @@
       "minComp": 250000,
       "posted": "04/30/2026",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 100,
@@ -1300,7 +1498,9 @@
       "minComp": 225000,
       "posted": "04/29/2026",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 101,
@@ -1313,7 +1513,9 @@
       "minComp": 225000,
       "posted": "05/12/2026",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 102,
@@ -1326,7 +1528,9 @@
       "minComp": 300000,
       "posted": "05/12/2026",
       "isNew": false,
-      "fit": 5
+      "fit": 5,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 103,
@@ -1339,7 +1543,9 @@
       "minComp": 250000,
       "posted": "04/18/2026",
       "isNew": false,
-      "fit": 3
+      "fit": 3,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 104,
@@ -1352,7 +1558,9 @@
       "minComp": 225000,
       "posted": "04/18/2026",
       "isNew": false,
-      "fit": 20
+      "fit": 20,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 105,
@@ -1365,7 +1573,9 @@
       "minComp": 225000,
       "posted": "04/18/2026",
       "isNew": false,
-      "fit": 30
+      "fit": 30,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 106,
@@ -1378,7 +1588,9 @@
       "minComp": 250000,
       "posted": "04/18/2026",
       "isNew": false,
-      "fit": 3
+      "fit": 3,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 107,
@@ -1391,7 +1603,9 @@
       "minComp": 200000,
       "posted": "05/05/2026",
       "isNew": false,
-      "fit": 6
+      "fit": 6,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 108,
@@ -1404,7 +1618,9 @@
       "minComp": 225000,
       "posted": "05/15/2026",
       "isNew": false,
-      "fit": 47
+      "fit": 47,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 109,
@@ -1417,7 +1633,9 @@
       "minComp": 200000,
       "posted": "04/18/2026",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 110,
@@ -1430,7 +1648,9 @@
       "minComp": 225000,
       "posted": "05/15/2026",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 111,
@@ -1443,7 +1663,9 @@
       "minComp": 250000,
       "posted": "05/09/2026",
       "isNew": false,
-      "fit": 3
+      "fit": 3,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 112,
@@ -1456,7 +1678,9 @@
       "minComp": 225000,
       "posted": "05/15/2026",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 113,
@@ -1469,7 +1693,9 @@
       "minComp": 250000,
       "posted": "05/16/2026",
       "isNew": false,
-      "fit": 3
+      "fit": 3,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 114,
@@ -1482,7 +1708,9 @@
       "minComp": 350000,
       "posted": "",
       "isNew": false,
-      "fit": 70
+      "fit": 70,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 115,
@@ -1495,7 +1723,9 @@
       "minComp": 350000,
       "posted": "",
       "isNew": false,
-      "fit": 23
+      "fit": 23,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 116,
@@ -1508,7 +1738,9 @@
       "minComp": 350000,
       "posted": "",
       "isNew": false,
-      "fit": 5
+      "fit": 5,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 117,
@@ -1521,7 +1753,9 @@
       "minComp": 250000,
       "posted": "04/30/2026",
       "isNew": false,
-      "fit": 3
+      "fit": 3,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 118,
@@ -1534,7 +1768,9 @@
       "minComp": 300000,
       "posted": "04/19/2026",
       "isNew": false,
-      "fit": 5
+      "fit": 5,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 119,
@@ -1547,7 +1783,9 @@
       "minComp": 300000,
       "posted": "04/24/2026",
       "isNew": false,
-      "fit": 5
+      "fit": 5,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 120,
@@ -1560,7 +1798,9 @@
       "minComp": 300000,
       "posted": "04/19/2026",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 121,
@@ -1573,7 +1813,9 @@
       "minComp": 300000,
       "posted": "05/12/2026",
       "isNew": false,
-      "fit": 11
+      "fit": 11,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 122,
@@ -1586,7 +1828,9 @@
       "minComp": 300000,
       "posted": "04/19/2026",
       "isNew": false,
-      "fit": 5
+      "fit": 5,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 123,
@@ -1599,7 +1843,9 @@
       "minComp": 300000,
       "posted": "05/14/2026",
       "isNew": false,
-      "fit": 5
+      "fit": 5,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 124,
@@ -1612,7 +1858,9 @@
       "minComp": 300000,
       "posted": "04/21/2026",
       "isNew": false,
-      "fit": 5
+      "fit": 5,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 125,
@@ -1625,7 +1873,9 @@
       "minComp": 250000,
       "posted": "04/20/2026",
       "isNew": false,
-      "fit": 80
+      "fit": 80,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 126,
@@ -1638,7 +1888,9 @@
       "minComp": 225000,
       "posted": "04/23/2026",
       "isNew": false,
-      "fit": 12
+      "fit": 12,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 127,
@@ -1651,7 +1903,9 @@
       "minComp": 225000,
       "posted": "04/27/2026",
       "isNew": false,
-      "fit": 28
+      "fit": 28,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 128,
@@ -1664,7 +1918,9 @@
       "minComp": 225000,
       "posted": "05/18/2026",
       "isNew": false,
-      "fit": 12
+      "fit": 12,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 129,
@@ -1677,7 +1933,9 @@
       "minComp": 250000,
       "posted": "05/12/2026",
       "isNew": false,
-      "fit": 3
+      "fit": 3,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 130,
@@ -1690,7 +1948,9 @@
       "minComp": 225000,
       "posted": "04/19/2026",
       "isNew": false,
-      "fit": 37
+      "fit": 37,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 131,
@@ -1703,7 +1963,9 @@
       "minComp": 225000,
       "posted": "04/27/2026",
       "isNew": false,
-      "fit": 2
+      "fit": 2,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 132,
@@ -1716,7 +1978,9 @@
       "minComp": 225000,
       "posted": "04/30/2026",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 133,
@@ -1729,7 +1993,9 @@
       "minComp": 225000,
       "posted": "04/30/2026",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 134,
@@ -1742,7 +2008,9 @@
       "minComp": 350000,
       "posted": "05/12/2026",
       "isNew": false,
-      "fit": 5
+      "fit": 5,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 135,
@@ -1755,7 +2023,9 @@
       "minComp": 250000,
       "posted": "05/01/2026",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 136,
@@ -1768,7 +2038,9 @@
       "minComp": 225000,
       "posted": "05/13/2026",
       "isNew": false,
-      "fit": 12
+      "fit": 12,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 137,
@@ -1781,7 +2053,9 @@
       "minComp": 250000,
       "posted": "04/27/2026",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 138,
@@ -1794,7 +2068,9 @@
       "minComp": 225000,
       "posted": "04/27/2026",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 139,
@@ -1807,7 +2083,9 @@
       "minComp": 300000,
       "posted": "05/12/2026",
       "isNew": false,
-      "fit": 5
+      "fit": 5,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 140,
@@ -1820,7 +2098,9 @@
       "minComp": 250000,
       "posted": "05/18/2026",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 141,
@@ -1833,7 +2113,9 @@
       "minComp": 225000,
       "posted": "05/18/2026",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 142,
@@ -1846,7 +2128,9 @@
       "minComp": 250000,
       "posted": "",
       "isNew": false,
-      "fit": 15
+      "fit": 15,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 143,
@@ -1859,7 +2143,9 @@
       "minComp": 225000,
       "posted": "Posted Yesterday",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 144,
@@ -1872,7 +2158,9 @@
       "minComp": 250000,
       "posted": "05/20/2026",
       "isNew": false,
-      "fit": 3
+      "fit": 3,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 145,
@@ -1885,7 +2173,9 @@
       "minComp": 250000,
       "posted": "04/28/2026",
       "isNew": false,
-      "fit": 3
+      "fit": 3,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 146,
@@ -1898,7 +2188,9 @@
       "minComp": 250000,
       "posted": "04/30/2026",
       "isNew": false,
-      "fit": 3
+      "fit": 3,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 147,
@@ -1911,7 +2203,9 @@
       "minComp": 225000,
       "posted": "05/08/2026",
       "isNew": false,
-      "fit": 2
+      "fit": 2,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 148,
@@ -1924,7 +2218,9 @@
       "minComp": 250000,
       "posted": "05/19/2026",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 149,
@@ -1937,7 +2233,9 @@
       "minComp": 250000,
       "posted": "05/13/2026",
       "isNew": false,
-      "fit": 3
+      "fit": 3,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 150,
@@ -1950,7 +2248,9 @@
       "minComp": 250000,
       "posted": "04/30/2026",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 151,
@@ -1963,7 +2263,9 @@
       "minComp": 250000,
       "posted": "05/14/2026",
       "isNew": false,
-      "fit": 3
+      "fit": 3,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 152,
@@ -1976,7 +2278,9 @@
       "minComp": 250000,
       "posted": "05/18/2026",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 153,
@@ -1989,7 +2293,9 @@
       "minComp": 250000,
       "posted": "05/20/2026",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 154,
@@ -2002,7 +2308,9 @@
       "minComp": 250000,
       "posted": "Posted Yesterday",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 155,
@@ -2015,7 +2323,9 @@
       "minComp": 250000,
       "posted": "04/22/2026",
       "isNew": false,
-      "fit": 3
+      "fit": 3,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 156,
@@ -2028,7 +2338,9 @@
       "minComp": 250000,
       "posted": "04/22/2026",
       "isNew": false,
-      "fit": 3
+      "fit": 3,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 157,
@@ -2041,7 +2353,9 @@
       "minComp": 250000,
       "posted": "04/22/2026",
       "isNew": false,
-      "fit": 3
+      "fit": 3,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 158,
@@ -2054,7 +2368,9 @@
       "minComp": 250000,
       "posted": "04/22/2026",
       "isNew": false,
-      "fit": 3
+      "fit": 3,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 159,
@@ -2067,7 +2383,9 @@
       "minComp": 225000,
       "posted": "05/18/2026",
       "isNew": false,
-      "fit": 2
+      "fit": 2,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 160,
@@ -2080,7 +2398,9 @@
       "minComp": 225000,
       "posted": "",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 161,
@@ -2093,7 +2413,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 12
+      "fit": 12,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 162,
@@ -2106,7 +2428,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 10
+      "fit": 10,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 163,
@@ -2119,7 +2443,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 22
+      "fit": 22,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 164,
@@ -2132,7 +2458,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 30
+      "fit": 30,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 165,
@@ -2145,7 +2473,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 166,
@@ -2158,7 +2488,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 167,
@@ -2171,7 +2503,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 18
+      "fit": 18,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 168,
@@ -2184,7 +2518,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 100
+      "fit": 100,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 169,
@@ -2197,7 +2533,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 170,
@@ -2210,7 +2548,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 171,
@@ -2223,7 +2563,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 100
+      "fit": 100,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 172,
@@ -2236,7 +2578,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 6
+      "fit": 6,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 173,
@@ -2249,7 +2593,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 51
+      "fit": 51,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 174,
@@ -2262,7 +2608,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 48
+      "fit": 48,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 175,
@@ -2275,7 +2623,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 85
+      "fit": 85,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 176,
@@ -2288,7 +2638,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 44
+      "fit": 44,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 177,
@@ -2301,7 +2653,9 @@
       "minComp": 250000,
       "posted": "",
       "isNew": false,
-      "fit": 11
+      "fit": 11,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 178,
@@ -2314,7 +2668,9 @@
       "minComp": 250000,
       "posted": "",
       "isNew": false,
-      "fit": 10
+      "fit": 10,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 179,
@@ -2327,7 +2683,9 @@
       "minComp": 300000,
       "posted": "",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 180,
@@ -2340,7 +2698,9 @@
       "minComp": 225000,
       "posted": "",
       "isNew": false,
-      "fit": 8
+      "fit": 8,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 181,
@@ -2353,7 +2713,9 @@
       "minComp": 250000,
       "posted": "",
       "isNew": false,
-      "fit": 11
+      "fit": 11,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 182,
@@ -2366,7 +2728,9 @@
       "minComp": 250000,
       "posted": "2026-05-14",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 183,
@@ -2379,7 +2743,9 @@
       "minComp": 250000,
       "posted": "2026-04-27",
       "isNew": false,
-      "fit": 3
+      "fit": 3,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 184,
@@ -2392,7 +2758,9 @@
       "minComp": 250000,
       "posted": "2026-04-26",
       "isNew": false,
-      "fit": 59
+      "fit": 59,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 185,
@@ -2405,7 +2773,9 @@
       "minComp": 375000,
       "posted": "2026-04-26",
       "isNew": false,
-      "fit": 5
+      "fit": 5,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 186,
@@ -2418,7 +2788,9 @@
       "minComp": 300000,
       "posted": "2026-03-18",
       "isNew": false,
-      "fit": 5
+      "fit": 5,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 187,
@@ -2431,7 +2803,9 @@
       "minComp": 300000,
       "posted": "02/09/2026",
       "isNew": false,
-      "fit": 5
+      "fit": 5,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 188,
@@ -2444,7 +2818,9 @@
       "minComp": 300000,
       "posted": "05/19/2026",
       "isNew": false,
-      "fit": 52
+      "fit": 52,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 189,
@@ -2457,7 +2833,9 @@
       "minComp": 225000,
       "posted": "08/28/2025",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 190,
@@ -2470,7 +2848,9 @@
       "minComp": 300000,
       "posted": "03/18/2026",
       "isNew": false,
-      "fit": 5
+      "fit": 5,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 191,
@@ -2483,7 +2863,9 @@
       "minComp": 300000,
       "posted": "02/12/2026",
       "isNew": false,
-      "fit": 5
+      "fit": 5,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 192,
@@ -2496,7 +2878,9 @@
       "minComp": 250000,
       "posted": "12/23/2025",
       "isNew": false,
-      "fit": 3
+      "fit": 3,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 193,
@@ -2509,7 +2893,9 @@
       "minComp": 300000,
       "posted": "04/14/2026",
       "isNew": false,
-      "fit": 5
+      "fit": 5,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 194,
@@ -2522,7 +2908,9 @@
       "minComp": 300000,
       "posted": "03/30/2026",
       "isNew": false,
-      "fit": 25
+      "fit": 25,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 195,
@@ -2535,7 +2923,9 @@
       "minComp": 375000,
       "posted": "04/14/2026",
       "isNew": false,
-      "fit": 5
+      "fit": 5,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 196,
@@ -2548,7 +2938,9 @@
       "minComp": 375000,
       "posted": "03/20/2026",
       "isNew": false,
-      "fit": 5
+      "fit": 5,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 197,
@@ -2561,7 +2953,9 @@
       "minComp": 300000,
       "posted": "04/02/2025",
       "isNew": false,
-      "fit": 20
+      "fit": 20,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 198,
@@ -2574,7 +2968,9 @@
       "minComp": 250000,
       "posted": "03/02/2026",
       "isNew": false,
-      "fit": 3
+      "fit": 3,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 199,
@@ -2587,7 +2983,9 @@
       "minComp": 250000,
       "posted": "05/01/2026",
       "isNew": false,
-      "fit": 3
+      "fit": 3,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 200,
@@ -2600,7 +2998,9 @@
       "minComp": 250000,
       "posted": "05/21/2026",
       "isNew": false,
-      "fit": 3
+      "fit": 3,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 201,
@@ -2613,7 +3013,9 @@
       "minComp": 250000,
       "posted": "10/07/2025",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 202,
@@ -2626,7 +3028,9 @@
       "minComp": 250000,
       "posted": "11/11/2025",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 203,
@@ -2639,7 +3043,9 @@
       "minComp": 300000,
       "posted": "04/03/2026",
       "isNew": false,
-      "fit": 5
+      "fit": 5,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 204,
@@ -2652,7 +3058,9 @@
       "minComp": 250000,
       "posted": "03/18/2026",
       "isNew": false,
-      "fit": 3
+      "fit": 3,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 205,
@@ -2665,7 +3073,9 @@
       "minComp": 250000,
       "posted": "05/15/2026",
       "isNew": false,
-      "fit": 3
+      "fit": 3,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 206,
@@ -2678,7 +3088,9 @@
       "minComp": 250000,
       "posted": "04/03/2026",
       "isNew": false,
-      "fit": 23
+      "fit": 23,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 207,
@@ -2691,7 +3103,9 @@
       "minComp": 250000,
       "posted": "04/20/2026",
       "isNew": false,
-      "fit": 3
+      "fit": 3,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 208,
@@ -2704,7 +3118,9 @@
       "minComp": 250000,
       "posted": "04/27/2026",
       "isNew": false,
-      "fit": 3
+      "fit": 3,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 209,
@@ -2717,7 +3133,9 @@
       "minComp": 250000,
       "posted": "01/20/2026",
       "isNew": false,
-      "fit": 3
+      "fit": 3,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 210,
@@ -2730,7 +3148,9 @@
       "minComp": 250000,
       "posted": "04/14/2026",
       "isNew": false,
-      "fit": 3
+      "fit": 3,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 211,
@@ -2743,7 +3163,9 @@
       "minComp": 250000,
       "posted": "05/06/2026",
       "isNew": false,
-      "fit": 3
+      "fit": 3,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 212,
@@ -2756,7 +3178,9 @@
       "minComp": 250000,
       "posted": "04/06/2026",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 213,
@@ -2769,7 +3193,9 @@
       "minComp": 300000,
       "posted": "04/14/2026",
       "isNew": false,
-      "fit": 5
+      "fit": 5,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 214,
@@ -2782,7 +3208,9 @@
       "minComp": 250000,
       "posted": "02/04/2026",
       "isNew": false,
-      "fit": 3
+      "fit": 3,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 215,
@@ -2795,7 +3223,9 @@
       "minComp": 250000,
       "posted": "04/08/2026",
       "isNew": false,
-      "fit": 3
+      "fit": 3,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 216,
@@ -2808,7 +3238,9 @@
       "minComp": 400000,
       "posted": "05/05/2026",
       "isNew": false,
-      "fit": 57
+      "fit": 57,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 217,
@@ -2821,7 +3253,9 @@
       "minComp": 375000,
       "posted": "04/30/2026",
       "isNew": false,
-      "fit": 5
+      "fit": 5,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 218,
@@ -2834,7 +3268,9 @@
       "minComp": 225000,
       "posted": "05/13/2026",
       "isNew": false,
-      "fit": 24
+      "fit": 24,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 219,
@@ -2847,7 +3283,9 @@
       "minComp": 225000,
       "posted": "05/03/2026",
       "isNew": false,
-      "fit": 18
+      "fit": 18,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 220,
@@ -2860,7 +3298,9 @@
       "minComp": 225000,
       "posted": "",
       "isNew": false,
-      "fit": 50
+      "fit": 50,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 221,
@@ -2873,7 +3313,9 @@
       "minComp": 300000,
       "posted": "03/24/2026",
       "isNew": false,
-      "fit": 50
+      "fit": 50,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 222,
@@ -2886,7 +3328,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 6
+      "fit": 6,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 223,
@@ -2899,7 +3343,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 63
+      "fit": 63,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 224,
@@ -2912,7 +3358,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 225,
@@ -2925,7 +3373,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 226,
@@ -2938,7 +3388,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 15
+      "fit": 15,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 227,
@@ -2951,7 +3403,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 228,
@@ -2964,7 +3418,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 229,
@@ -2977,7 +3433,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 230,
@@ -2990,7 +3448,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 12
+      "fit": 12,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 231,
@@ -3003,7 +3463,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 232,
@@ -3016,7 +3478,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 6
+      "fit": 6,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 233,
@@ -3029,7 +3493,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 6
+      "fit": 6,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 234,
@@ -3042,7 +3508,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 235,
@@ -3055,7 +3523,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 81
+      "fit": 81,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 236,
@@ -3068,7 +3538,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 42
+      "fit": 42,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 237,
@@ -3081,7 +3553,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 6
+      "fit": 6,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 238,
@@ -3094,7 +3568,9 @@
       "minComp": 275000,
       "posted": "",
       "isNew": false,
-      "fit": 6
+      "fit": 6,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 239,
@@ -3107,7 +3583,9 @@
       "minComp": 225000,
       "posted": "",
       "isNew": false,
-      "fit": 15
+      "fit": 15,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 240,
@@ -3120,7 +3598,9 @@
       "minComp": 225000,
       "posted": "",
       "isNew": false,
-      "fit": 8
+      "fit": 8,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 241,
@@ -3133,7 +3613,9 @@
       "minComp": 300000,
       "posted": "",
       "isNew": false,
-      "fit": 52
+      "fit": 52,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 242,
@@ -3146,7 +3628,9 @@
       "minComp": 225000,
       "posted": "",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 243,
@@ -3159,7 +3643,9 @@
       "minComp": 400000,
       "posted": "",
       "isNew": false,
-      "fit": 5
+      "fit": 5,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 244,
@@ -3172,7 +3658,9 @@
       "minComp": 400000,
       "posted": "",
       "isNew": false,
-      "fit": 52
+      "fit": 52,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 245,
@@ -3185,7 +3673,9 @@
       "minComp": 250000,
       "posted": "05/08/2026",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 246,
@@ -3198,7 +3688,9 @@
       "minComp": 300000,
       "posted": "05/14/2026",
       "isNew": false,
-      "fit": 5
+      "fit": 5,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 247,
@@ -3211,7 +3703,9 @@
       "minComp": 225000,
       "posted": "05/08/2026",
       "isNew": false,
-      "fit": 30
+      "fit": 30,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 248,
@@ -3224,7 +3718,9 @@
       "minComp": 300000,
       "posted": "05/18/2026",
       "isNew": false,
-      "fit": 20
+      "fit": 20,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 249,
@@ -3237,7 +3733,9 @@
       "minComp": 300000,
       "posted": "05/28/2026",
       "isNew": false,
-      "fit": 5
+      "fit": 5,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 250,
@@ -3250,7 +3748,9 @@
       "minComp": 225000,
       "posted": "05/08/2026",
       "isNew": false,
-      "fit": 8
+      "fit": 8,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 251,
@@ -3263,7 +3763,9 @@
       "minComp": 225000,
       "posted": "05/08/2026",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 252,
@@ -3276,7 +3778,9 @@
       "minComp": 275000,
       "posted": "06/05/2026",
       "isNew": false,
-      "fit": 51
+      "fit": 51,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 253,
@@ -3289,7 +3793,9 @@
       "minComp": 275000,
       "posted": "05/08/2026",
       "isNew": false,
-      "fit": 45
+      "fit": 45,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 254,
@@ -3302,7 +3808,9 @@
       "minComp": 225000,
       "posted": "05/21/2026",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 255,
@@ -3315,7 +3823,9 @@
       "minComp": 275000,
       "posted": "05/08/2026",
       "isNew": false,
-      "fit": 57
+      "fit": 57,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 256,
@@ -3328,7 +3838,9 @@
       "minComp": 225000,
       "posted": "06/02/2026",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 257,
@@ -3341,7 +3853,9 @@
       "minComp": 225000,
       "posted": "05/18/2026",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 258,
@@ -3354,7 +3868,9 @@
       "minComp": 225000,
       "posted": "05/12/2026",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 259,
@@ -3367,7 +3883,9 @@
       "minComp": 225000,
       "posted": "05/08/2026",
       "isNew": false,
-      "fit": 0
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
     },
     {
       "id": 260,
@@ -3380,7 +3898,9 @@
       "minComp": 275000,
       "posted": "05/13/2026",
       "isNew": false,
-      "fit": 45
+      "fit": 45,
+      "applied": true,
+      "applied_date": "2026-06-07"
     }
   ]
 }
