@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-20",
-  "total": 216,
+  "generated": "2026-07-21",
+  "total": 219,
   "roles": [
     {
       "id": 1,
@@ -12,7 +12,7 @@
       "tier": "top",
       "minComp": 350000,
       "posted": "07/13/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 78.4,
       "applied": false,
       "applied_date": ""
@@ -27,7 +27,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "07/15/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 39.3,
       "applied": false,
       "applied_date": ""
@@ -42,7 +42,7 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "07/09/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 36.7,
       "applied": false,
       "applied_date": ""
@@ -207,7 +207,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "07/13/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 63.5,
       "applied": false,
       "applied_date": ""
@@ -222,7 +222,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "07/08/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 72.8,
       "applied": false,
       "applied_date": ""
@@ -237,7 +237,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "07/10/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 44.9,
       "applied": false,
       "applied_date": ""
@@ -252,7 +252,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "07/07/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 33.8,
       "applied": false,
       "applied_date": ""
@@ -267,7 +267,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "07/20/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 62.7,
       "applied": false,
       "applied_date": ""
@@ -282,7 +282,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "07/17/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 59.4,
       "applied": false,
       "applied_date": ""
@@ -297,7 +297,7 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "07/17/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 52.9,
       "applied": false,
       "applied_date": ""
@@ -312,7 +312,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "07/13/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 74.5,
       "applied": false,
       "applied_date": ""
@@ -327,7 +327,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "07/08/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 42.2,
       "applied": false,
       "applied_date": ""
@@ -342,7 +342,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "07/13/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 31.9,
       "applied": false,
       "applied_date": ""
@@ -3237,8 +3237,53 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "07/14/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 47.5,
+      "applied": false,
+      "applied_date": ""
+    },
+    {
+      "id": 217,
+      "title": "Dir. Equity Research Analyst, Consumer Sector",
+      "location": "Chicago, IL",
+      "seniority": "Senior",
+      "link": "https://www.metlifecareers.com/en_US/ml/JobDetail/Director-Equity-Research-Analyst-Consumer-Sector/17344",
+      "firm": "MetLife",
+      "tier": "top",
+      "minComp": 225000,
+      "posted": "05/22/2026",
+      "isNew": true,
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
+    },
+    {
+      "id": 218,
+      "title": "Residential Whole Loan Transaction Manager",
+      "location": "Whippany",
+      "seniority": "Manager",
+      "link": "https://www.metlifecareers.com/en_US/ml/JobDetail/Director-Residential-Whole-Loan-Transaction-Manager/16528",
+      "firm": "MetLife",
+      "tier": "top",
+      "minComp": 250000,
+      "posted": "04/08/2026",
+      "isNew": true,
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
+    },
+    {
+      "id": 219,
+      "title": "Sr Director, Infra Debt & Tax Equity",
+      "location": "New York, NY",
+      "seniority": "Director",
+      "link": "https://www.metlifecareers.com/en_US/ml/JobDetail/Senior-Director-Infrastructure-Debt-Renewable-Structured-Finance-Tax-Equity/18318",
+      "firm": "MetLife",
+      "tier": "top",
+      "minComp": 300000,
+      "posted": "06/17/2026",
+      "isNew": true,
+      "fit": 0,
       "applied": false,
       "applied_date": ""
     }
