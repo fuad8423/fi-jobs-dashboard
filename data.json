@@ -12,7 +12,7 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "12/15/2025",
-      "isNew": true,
+      "isNew": false,
       "fit": 90.9,
       "applied": false,
       "applied_date": ""
@@ -72,7 +72,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "7/3/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 82.3,
       "applied": false,
       "applied_date": ""
@@ -162,7 +162,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "7/27/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 68.4,
       "applied": false,
       "applied_date": ""
@@ -177,7 +177,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "7/24/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 39.2,
       "applied": false,
       "applied_date": ""
@@ -222,7 +222,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "5/5/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 53.5,
       "applied": false,
       "applied_date": ""
@@ -297,7 +297,7 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "06/29/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 68.0,
       "applied": false,
       "applied_date": ""
@@ -312,7 +312,7 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "06/20/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 78.7,
       "applied": false,
       "applied_date": ""
@@ -357,7 +357,7 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "06/20/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 54.4,
       "applied": false,
       "applied_date": ""
@@ -372,7 +372,7 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "06/20/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 87.0,
       "applied": false,
       "applied_date": ""
@@ -387,7 +387,7 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "06/20/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 54.4,
       "applied": false,
       "applied_date": ""
@@ -402,7 +402,7 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "06/20/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 51.6,
       "applied": false,
       "applied_date": ""
@@ -417,7 +417,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "06/22/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 56.6,
       "applied": false,
       "applied_date": ""
@@ -432,7 +432,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "06/20/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 72.3,
       "applied": false,
       "applied_date": ""
@@ -447,7 +447,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "06/20/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 73.7,
       "applied": false,
       "applied_date": ""
@@ -462,7 +462,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "06/20/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 30.2,
       "applied": false,
       "applied_date": ""
@@ -477,7 +477,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "06/20/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 41.6,
       "applied": false,
       "applied_date": ""
@@ -492,7 +492,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "06/20/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 90.1,
       "applied": false,
       "applied_date": ""
@@ -507,7 +507,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "06/20/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 50.4,
       "applied": false,
       "applied_date": ""
@@ -522,7 +522,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "06/20/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 48.6,
       "applied": false,
       "applied_date": ""
@@ -537,7 +537,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "06/20/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 75.7,
       "applied": false,
       "applied_date": ""
@@ -552,7 +552,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "06/20/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 68.5,
       "applied": false,
       "applied_date": ""
@@ -717,7 +717,7 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "06/20/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 40.4,
       "applied": false,
       "applied_date": ""
@@ -762,7 +762,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "06/29/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 54.6,
       "applied": false,
       "applied_date": ""
@@ -777,7 +777,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "Posted Yesterday",
-      "isNew": true,
+      "isNew": false,
       "fit": 33.6,
       "applied": false,
       "applied_date": ""
@@ -822,7 +822,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "06/20/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 60.4,
       "applied": false,
       "applied_date": ""
@@ -837,7 +837,7 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "06/20/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 57.2,
       "applied": false,
       "applied_date": ""
@@ -852,7 +852,7 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "06/20/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 43.6,
       "applied": false,
       "applied_date": ""
@@ -957,7 +957,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "06/20/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 59.3,
       "applied": false,
       "applied_date": ""
@@ -972,7 +972,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "06/20/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 64.2,
       "applied": false,
       "applied_date": ""
@@ -987,7 +987,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "06/20/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 53.6,
       "applied": false,
       "applied_date": ""
@@ -1002,7 +1002,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "06/20/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 49.1,
       "applied": false,
       "applied_date": ""
@@ -1017,7 +1017,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "06/20/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 58.4,
       "applied": false,
       "applied_date": ""
@@ -1032,7 +1032,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "06/20/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 29.1,
       "applied": false,
       "applied_date": ""
@@ -1047,7 +1047,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "06/20/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 89.2,
       "applied": false,
       "applied_date": ""
@@ -1062,7 +1062,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "06/20/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 76.9,
       "applied": false,
       "applied_date": ""
@@ -1077,7 +1077,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "06/20/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 48.7,
       "applied": false,
       "applied_date": ""
@@ -1092,7 +1092,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "06/20/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 24.8,
       "applied": false,
       "applied_date": ""
@@ -1107,7 +1107,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "06/20/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 68.7,
       "applied": false,
       "applied_date": ""
@@ -1137,7 +1137,7 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "06/24/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 33.8,
       "applied": false,
       "applied_date": ""
@@ -1152,7 +1152,7 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "06/23/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 43.2,
       "applied": false,
       "applied_date": ""
@@ -1167,7 +1167,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "06/20/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 43.9,
       "applied": false,
       "applied_date": ""
@@ -1182,7 +1182,7 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "06/20/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 27.8,
       "applied": false,
       "applied_date": ""
@@ -1197,7 +1197,7 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "06/20/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 49.7,
       "applied": false,
       "applied_date": ""
@@ -1212,7 +1212,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "06/20/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 55.6,
       "applied": false,
       "applied_date": ""
@@ -1227,7 +1227,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "05/23/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 28.8,
       "applied": false,
       "applied_date": ""
@@ -1242,7 +1242,7 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "06/22/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 78.0,
       "applied": false,
       "applied_date": ""
@@ -1257,7 +1257,7 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "05/26/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 46.5,
       "applied": false,
       "applied_date": ""
@@ -1272,7 +1272,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "05/23/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 18.4,
       "applied": false,
       "applied_date": ""
@@ -1287,7 +1287,7 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "05/23/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 48.2,
       "applied": false,
       "applied_date": ""
@@ -1302,7 +1302,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "06/11/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 46.5,
       "applied": false,
       "applied_date": ""
@@ -1317,7 +1317,7 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "05/23/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 53.2,
       "applied": false,
       "applied_date": ""
@@ -1332,7 +1332,7 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "06/11/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 86.3,
       "applied": false,
       "applied_date": ""
@@ -1347,7 +1347,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "05/23/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 63.4,
       "applied": false,
       "applied_date": ""
@@ -1362,7 +1362,7 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "05/23/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 63.0,
       "applied": false,
       "applied_date": ""
@@ -1377,7 +1377,7 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "05/23/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 44.4,
       "applied": false,
       "applied_date": ""
@@ -1887,7 +1887,7 @@
       "tier": "top",
       "minComp": 225000,
       "posted": "04/24/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 49.1,
       "applied": false,
       "applied_date": ""
@@ -1902,7 +1902,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "04/15/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 49.9,
       "applied": false,
       "applied_date": ""
@@ -1917,7 +1917,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "05/05/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 78.9,
       "applied": false,
       "applied_date": ""
@@ -3462,7 +3462,7 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "05/04/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 68.4,
       "applied": false,
       "applied_date": ""
@@ -4122,7 +4122,7 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "07/01/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 77.7,
       "applied": false,
       "applied_date": ""
