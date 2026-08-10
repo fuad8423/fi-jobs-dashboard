@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-10",
-  "total": 298,
+  "total": 297,
   "roles": [
     {
       "id": 1,
@@ -229,12 +229,12 @@
     },
     {
       "id": 16,
-      "title": "Insurance Product Development & Strategy Lead",
+      "title": "Group Insurance Product Development & Strategy Lead",
       "location": "White Plains, NY",
       "seniority": "Lead",
       "link": "https://careers.newyorklife.com/careers/job/41229599",
       "firm": "New York Life",
-      "tier": "top",
+      "tier": "adjacent",
       "minComp": 250000,
       "posted": "04/06/2026",
       "isNew": false,
@@ -3304,21 +3304,6 @@
     },
     {
       "id": 221,
-      "title": "Group Insurance Product Development & Strategy Lead",
-      "location": "White Plains, NY",
-      "seniority": "Lead",
-      "link": "https://careers.newyorklife.com/careers/job/41229599",
-      "firm": "New York Life",
-      "tier": "adjacent",
-      "minComp": 250000,
-      "posted": "04/06/2026",
-      "isNew": false,
-      "fit": 5,
-      "applied": false,
-      "applied_date": ""
-    },
-    {
-      "id": 222,
       "title": "Corporate Vice President, Director - NYL.com Product Management, Consumer Audiences",
       "location": "New York, NY",
       "seniority": "Director",
@@ -3333,7 +3318,7 @@
       "applied_date": ""
     },
     {
-      "id": 223,
+      "id": 222,
       "title": "Senior Research Associate",
       "location": "New York, NY",
       "seniority": "Vice President",
@@ -3348,7 +3333,7 @@
       "applied_date": ""
     },
     {
-      "id": 224,
+      "id": 223,
       "title": "Managing Director, Client Portfolio Management",
       "location": "New York, NY",
       "seniority": "Managing Director",
@@ -3363,7 +3348,7 @@
       "applied_date": ""
     },
     {
-      "id": 225,
+      "id": 224,
       "title": "Corporate Vice President, Strategy Lead",
       "location": "New York, NY",
       "seniority": "Vice President",
@@ -3378,7 +3363,7 @@
       "applied_date": ""
     },
     {
-      "id": 226,
+      "id": 225,
       "title": "Blackstone Multi-Asset Investing (BXMA)- Credit Team, Analyst",
       "location": "New York, NY",
       "seniority": "Senior",
@@ -3393,7 +3378,7 @@
       "applied_date": ""
     },
     {
-      "id": 227,
+      "id": 226,
       "title": "Portfolio Analyst/Associate - SMA/Municipals",
       "location": "Newport Beach, CA",
       "seniority": "Senior",
@@ -3408,7 +3393,7 @@
       "applied_date": ""
     },
     {
-      "id": 228,
+      "id": 227,
       "title": "Portfolio Associate - Derivatives",
       "location": "Newport Beach, CA",
       "seniority": "Vice President",
@@ -3423,7 +3408,7 @@
       "applied_date": ""
     },
     {
-      "id": 229,
+      "id": 228,
       "title": "Principal, Portfolio Management",
       "location": "US",
       "seniority": "Principal",
@@ -3438,7 +3423,7 @@
       "applied_date": ""
     },
     {
-      "id": 230,
+      "id": 229,
       "title": "Risk, Credit Risk, Corporate Real Estate",
       "location": "Dallas, TX",
       "seniority": "VP+",
@@ -3453,7 +3438,7 @@
       "applied_date": ""
     },
     {
-      "id": 231,
+      "id": 230,
       "title": "Asset & Wealth Management, Client Solutions Group, Retail Insurance - Regional Consultant, Associate",
       "location": "Chicago, IL",
       "seniority": "VP+",
@@ -3468,7 +3453,7 @@
       "applied_date": ""
     },
     {
-      "id": 232,
+      "id": 231,
       "title": "Director - Investment Risk Management",
       "location": "Baltimore, MD",
       "seniority": "Director",
@@ -3483,7 +3468,7 @@
       "applied_date": ""
     },
     {
-      "id": 233,
+      "id": 232,
       "title": "Fixed Income Attribution Senior Consultant",
       "location": "Ft. Lauderdale, FL",
       "seniority": "Senior",
@@ -3498,7 +3483,7 @@
       "applied_date": ""
     },
     {
-      "id": 234,
+      "id": 233,
       "title": "Head of Insurance General Account Solutions \u2013 US",
       "location": "New York, NY",
       "seniority": "Director",
@@ -3513,7 +3498,7 @@
       "applied_date": ""
     },
     {
-      "id": 235,
+      "id": 234,
       "title": "Head of Performance & Attribution",
       "location": "Ft. Lauderdale, FL",
       "seniority": "Director",
@@ -3528,7 +3513,7 @@
       "applied_date": ""
     },
     {
-      "id": 236,
+      "id": 235,
       "title": "Investment Grade CorporateTrader",
       "location": "Pasadena, CA",
       "seniority": "Senior",
@@ -3543,7 +3528,7 @@
       "applied_date": ""
     },
     {
-      "id": 237,
+      "id": 236,
       "title": "Investment Risk Senior Analyst",
       "location": "Baltimore, MD",
       "seniority": "Senior",
@@ -3558,7 +3543,7 @@
       "applied_date": ""
     },
     {
-      "id": 238,
+      "id": 237,
       "title": "Portfolio Manager, Alternative Risk Premia (EG)",
       "location": "Boston, MA",
       "seniority": "Portfolio Manager",
@@ -3573,7 +3558,7 @@
       "applied_date": ""
     },
     {
-      "id": 239,
+      "id": 238,
       "title": "Portfolio Manager, Private Markets",
       "location": "New York, NY",
       "seniority": "Portfolio Manager",
@@ -3588,7 +3573,7 @@
       "applied_date": ""
     },
     {
-      "id": 240,
+      "id": 239,
       "title": "Quantitative Developer",
       "location": "Pasadena, CA",
       "seniority": "Senior",
@@ -3603,7 +3588,7 @@
       "applied_date": ""
     },
     {
-      "id": 241,
+      "id": 240,
       "title": "Quantitative Portfolio Manager - Custom Indexing (L/S strategies)",
       "location": "New York, NY",
       "seniority": "Portfolio Manager",
@@ -3618,7 +3603,7 @@
       "applied_date": ""
     },
     {
-      "id": 242,
+      "id": 241,
       "title": "Research Analyst (Western Asset)",
       "location": "New York, NY",
       "seniority": "Senior",
@@ -3633,7 +3618,7 @@
       "applied_date": ""
     },
     {
-      "id": 243,
+      "id": 242,
       "title": "Risk Analyst (Putnam)",
       "location": "Boston, MA",
       "seniority": "Senior",
@@ -3648,7 +3633,7 @@
       "applied_date": ""
     },
     {
-      "id": 244,
+      "id": 243,
       "title": "Senior Quantitative Analyst (Putnam Investments)",
       "location": "Boston, MA",
       "seniority": "Senior",
@@ -3663,7 +3648,7 @@
       "applied_date": ""
     },
     {
-      "id": 245,
+      "id": 244,
       "title": "Senior Quantitative Analyst, Quantitative & Risk Analytics",
       "location": "Lincoln, MA",
       "seniority": "Senior",
@@ -3678,7 +3663,7 @@
       "applied_date": ""
     },
     {
-      "id": 246,
+      "id": 245,
       "title": "Solutions Portfolio Manager - FTIS",
       "location": "New York, NY",
       "seniority": "Portfolio Manager",
@@ -3693,7 +3678,7 @@
       "applied_date": "2026-06-07"
     },
     {
-      "id": 247,
+      "id": 246,
       "title": "Director, RMBS Trading & Residential Credit Investing",
       "location": "Addison, TX; Montpelier, VT",
       "seniority": "Director",
@@ -3708,7 +3693,7 @@
       "applied_date": ""
     },
     {
-      "id": 248,
+      "id": 247,
       "title": "Executive Director Derivatives & Hedging",
       "location": "Addison, TX; Montpelier, VT; New York, NY",
       "seniority": "ED",
@@ -3723,7 +3708,7 @@
       "applied_date": ""
     },
     {
-      "id": 249,
+      "id": 248,
       "title": "Sr. Director, Derivatives & Hedging",
       "location": "Addison, TX; Montpelier, VT",
       "seniority": "Director",
@@ -3738,7 +3723,7 @@
       "applied_date": ""
     },
     {
-      "id": 250,
+      "id": 249,
       "title": "Sr. Director, Insurance Portfolio Management",
       "location": "Addison, TX; Montpelier, VT; New York, NY",
       "seniority": "Director",
@@ -3753,7 +3738,7 @@
       "applied_date": "2026-06-07"
     },
     {
-      "id": 251,
+      "id": 250,
       "title": "AVP, Market Risk",
       "location": "Addison, TX; Montpelier, VT",
       "seniority": "AVP",
@@ -3768,7 +3753,7 @@
       "applied_date": ""
     },
     {
-      "id": 252,
+      "id": 251,
       "title": "Director, Capital Strategy, Liquidity & Rating Agency Relations",
       "location": "Addison, TX; Montpelier, VT",
       "seniority": "Director",
@@ -3783,7 +3768,7 @@
       "applied_date": ""
     },
     {
-      "id": 253,
+      "id": 252,
       "title": "Director, Commercial Real Estate Origination",
       "location": "Addison, TX; Montpelier, VT",
       "seniority": "Director",
@@ -3798,7 +3783,7 @@
       "applied_date": ""
     },
     {
-      "id": 254,
+      "id": 253,
       "title": "Portfolio Manager",
       "location": "Dallas, TX",
       "seniority": "Portfolio Manager",
@@ -3813,7 +3798,7 @@
       "applied_date": ""
     },
     {
-      "id": 255,
+      "id": 254,
       "title": "Investment Manager",
       "location": "Dallas, TX",
       "seniority": "Director",
@@ -3828,7 +3813,7 @@
       "applied_date": ""
     },
     {
-      "id": 256,
+      "id": 255,
       "title": "Senior Investment Analyst",
       "location": "Dallas, TX",
       "seniority": "VP",
@@ -3843,7 +3828,7 @@
       "applied_date": ""
     },
     {
-      "id": 257,
+      "id": 256,
       "title": "Global Banking & Markets Operations - Equity Derivatives and Structured Products",
       "location": "New York, NY",
       "seniority": "VP+",
@@ -3858,7 +3843,7 @@
       "applied_date": ""
     },
     {
-      "id": 258,
+      "id": 257,
       "title": "Global Banking & Markets, Loan Management, SF Trade Analytics, Analyst/Associate",
       "location": "Dallas, TX",
       "seniority": "VP+",
@@ -3873,7 +3858,7 @@
       "applied_date": ""
     },
     {
-      "id": 259,
+      "id": 258,
       "title": "Global Banking & Markets Operations-Mortgage Loan Servicing",
       "location": "Dallas, TX",
       "seniority": "VP+",
@@ -3888,7 +3873,7 @@
       "applied_date": ""
     },
     {
-      "id": 260,
+      "id": 259,
       "title": "AWM, Private Bank, Capital Markets (Securities-Based Lending), Vice President",
       "location": "San Francisco",
       "seniority": "VP+",
@@ -3903,7 +3888,7 @@
       "applied_date": ""
     },
     {
-      "id": 261,
+      "id": 260,
       "title": "Risk, Counterparty Credit Risk, Associate, WarsawWarsaw\u00b7Poland\u00b7Associate",
       "location": "US",
       "seniority": "VP+",
@@ -3918,7 +3903,7 @@
       "applied_date": ""
     },
     {
-      "id": 262,
+      "id": 261,
       "title": "Counterparty Credit Risk / Analyst / WarsawWarsaw\u00b7Poland\u00b7Analyst",
       "location": "US",
       "seniority": "VP+",
@@ -3933,7 +3918,7 @@
       "applied_date": ""
     },
     {
-      "id": 263,
+      "id": 262,
       "title": "Corporate Treasury, Senior AWS Architect, Payments Platform",
       "location": "Dallas, TX",
       "seniority": "VP+",
@@ -3948,7 +3933,7 @@
       "applied_date": ""
     },
     {
-      "id": 264,
+      "id": 263,
       "title": "Risk - Credit Risk Review - Vice President - HyderabadHyderabad\u00b7India\u00b7Vice President",
       "location": "US",
       "seniority": "VP+",
@@ -3963,7 +3948,7 @@
       "applied_date": ""
     },
     {
-      "id": 265,
+      "id": 264,
       "title": "Risk, Credit Risk (Financial Institutions), Vice President, Salt Lake City or",
       "location": "Dallas, TX",
       "seniority": "VP+",
@@ -3978,7 +3963,7 @@
       "applied_date": ""
     },
     {
-      "id": 266,
+      "id": 265,
       "title": "Risk, Credit Risk - Asset Secured Lending, Analyst, FrankfurtFrankfurt\u00b7Germany\u00b7Analyst",
       "location": "US",
       "seniority": "VP+",
@@ -3993,7 +3978,7 @@
       "applied_date": ""
     },
     {
-      "id": 267,
+      "id": 266,
       "title": "Corporate Treasury, Risk & Governance, Associate",
       "location": "Dallas, TX",
       "seniority": "VP+",
@@ -4008,7 +3993,7 @@
       "applied_date": ""
     },
     {
-      "id": 268,
+      "id": 267,
       "title": "Global Banking & Markets, FICCs Credit Strats \u2013 Embedded Control Strat - Associate - ParisParis\u00b7France\u00b7Associate",
       "location": "US",
       "seniority": "VP+",
@@ -4023,7 +4008,7 @@
       "applied_date": ""
     },
     {
-      "id": 269,
+      "id": 268,
       "title": "Asset & Wealth Management, Alternatives, Investment Grade Corporate Private Credit, Vice President",
       "location": "New York, NY",
       "seniority": "VP+",
@@ -4038,7 +4023,7 @@
       "applied_date": ""
     },
     {
-      "id": 270,
+      "id": 269,
       "title": "Risk, Credit Risk - Vice President",
       "location": "Salt Lake City, UT",
       "seniority": "VP+",
@@ -4053,7 +4038,7 @@
       "applied_date": ""
     },
     {
-      "id": 271,
+      "id": 270,
       "title": "Associate Portfolio Manager, IFI High Yield",
       "location": "Atlanta, GA",
       "seniority": "Portfolio Manager",
@@ -4068,7 +4053,7 @@
       "applied_date": ""
     },
     {
-      "id": 272,
+      "id": 271,
       "title": "Asset & Wealth Management, Private Wealth Management, Goldman Sachs Family Office, Insurance Practice Lead, Vice President",
       "location": "New York, NY",
       "seniority": "VP+",
@@ -4083,7 +4068,7 @@
       "applied_date": ""
     },
     {
-      "id": 273,
+      "id": 272,
       "title": "Asset & Wealth Management, Real Estate Investing \u2013 Credit Originations, Vice President / Senior Vice President",
       "location": "Los Angeles, CA",
       "seniority": "VP+",
@@ -4098,7 +4083,7 @@
       "applied_date": ""
     },
     {
-      "id": 274,
+      "id": 273,
       "title": "Corporate Treasury, Mortgages Trader/Portfolio Manager, Vice President",
       "location": "New York, NY",
       "seniority": "VP+",
@@ -4113,7 +4098,7 @@
       "applied_date": ""
     },
     {
-      "id": 275,
+      "id": 274,
       "title": "Global Investment Research, Credit Research Analyst",
       "location": "Salt Lake City, UT",
       "seniority": "VP+",
@@ -4128,7 +4113,7 @@
       "applied_date": ""
     },
     {
-      "id": 276,
+      "id": 275,
       "title": "Corporate Treasury Operations-Trade Processing",
       "location": "New York, NY",
       "seniority": "VP+",
@@ -4143,7 +4128,7 @@
       "applied_date": ""
     },
     {
-      "id": 277,
+      "id": 276,
       "title": "Dir. Equity Research Analyst, Consumer Sector",
       "location": "Chicago, IL",
       "seniority": "Senior",
@@ -4158,7 +4143,7 @@
       "applied_date": ""
     },
     {
-      "id": 278,
+      "id": 277,
       "title": "Sr Director, Infra Debt & Tax Equity",
       "location": "New York, NY",
       "seniority": "Director",
@@ -4173,7 +4158,7 @@
       "applied_date": ""
     },
     {
-      "id": 279,
+      "id": 278,
       "title": "SMA Portfolio Manager",
       "location": "New York, NY",
       "seniority": "Portfolio Manager",
@@ -4188,7 +4173,7 @@
       "applied_date": ""
     },
     {
-      "id": 280,
+      "id": 279,
       "title": "Senior Associate / Vice President - Private Debt",
       "location": "New York, NY",
       "seniority": "Vice President",
@@ -4203,7 +4188,7 @@
       "applied_date": ""
     },
     {
-      "id": 281,
+      "id": 280,
       "title": "Research Analyst",
       "location": "New York, NY",
       "seniority": "Senior",
@@ -4218,7 +4203,7 @@
       "applied_date": ""
     },
     {
-      "id": 282,
+      "id": 281,
       "title": "Senior Research Analyst",
       "location": "New York, NY",
       "seniority": "Senior",
@@ -4233,7 +4218,7 @@
       "applied_date": ""
     },
     {
-      "id": 283,
+      "id": 282,
       "title": "Fixed Income Portfolio Analyst",
       "location": "Boston, MA",
       "seniority": "Senior",
@@ -4248,7 +4233,7 @@
       "applied_date": ""
     },
     {
-      "id": 284,
+      "id": 283,
       "title": "Fixed Income Portfolio Analyst, Securitized Team",
       "location": "Boston, MA",
       "seniority": "Senior",
@@ -4263,7 +4248,7 @@
       "applied_date": ""
     },
     {
-      "id": 285,
+      "id": 284,
       "title": "Principal, CRE Debt Capital Markets",
       "location": "New York, NY",
       "seniority": "Principal",
@@ -4278,7 +4263,7 @@
       "applied_date": ""
     },
     {
-      "id": 286,
+      "id": 285,
       "title": "Quantitative Strategist, Mortgage-Backed Securities (MBS)",
       "location": "Boston, MA",
       "seniority": "Senior",
@@ -4293,7 +4278,7 @@
       "applied_date": ""
     },
     {
-      "id": 287,
+      "id": 286,
       "title": "IGPC Deal Lead",
       "location": "New York, NY",
       "seniority": "Lead",
@@ -4308,7 +4293,7 @@
       "applied_date": ""
     },
     {
-      "id": 288,
+      "id": 287,
       "title": "Quantitative Trading Analyst",
       "location": "Boston, MA",
       "seniority": "Senior",
@@ -4323,7 +4308,7 @@
       "applied_date": ""
     },
     {
-      "id": 289,
+      "id": 288,
       "title": "Sub Advisory Client Relations Manager, VP-SVP",
       "location": "New York, NY",
       "seniority": "SVP",
@@ -4338,7 +4323,7 @@
       "applied_date": ""
     },
     {
-      "id": 290,
+      "id": 289,
       "title": "Contract Leveraged Loans Operations Associate",
       "location": "New York, NY",
       "seniority": "Vice President",
@@ -4353,7 +4338,7 @@
       "applied_date": ""
     },
     {
-      "id": 291,
+      "id": 290,
       "title": "Associate-Vice President, Client Relations",
       "location": "Philadelphia, PA",
       "seniority": "Vice President",
@@ -4368,7 +4353,7 @@
       "applied_date": ""
     },
     {
-      "id": 292,
+      "id": 291,
       "title": "Client Portfolio Manager, Multi-Asset",
       "location": "New York, NY",
       "seniority": "Manager",
@@ -4383,7 +4368,7 @@
       "applied_date": ""
     },
     {
-      "id": 293,
+      "id": 292,
       "title": "Head of Americas, Product",
       "location": "New York, NY",
       "seniority": "Director",
@@ -4398,7 +4383,7 @@
       "applied_date": ""
     },
     {
-      "id": 294,
+      "id": 293,
       "title": "Emerging Markets Corporate Credit Research Analyst",
       "location": "Los Angeles, CA",
       "seniority": "Senior",
@@ -4413,7 +4398,7 @@
       "applied_date": ""
     },
     {
-      "id": 295,
+      "id": 294,
       "title": "Trader \u2013 APAC Credit and Emerging Markets Asia",
       "location": "Los Angeles, CA",
       "seniority": "Vice President",
@@ -4428,7 +4413,7 @@
       "applied_date": ""
     },
     {
-      "id": 296,
+      "id": 295,
       "title": "AVP, Insurance Solutions Strategist",
       "location": "Los Angeles, CA",
       "seniority": "AVP",
@@ -4443,7 +4428,7 @@
       "applied_date": ""
     },
     {
-      "id": 297,
+      "id": 296,
       "title": "Head of Private Credit Fund Accounting",
       "location": "Los Angeles, CA",
       "seniority": "Director",
@@ -4458,7 +4443,7 @@
       "applied_date": ""
     },
     {
-      "id": 298,
+      "id": 297,
       "title": "Agency MBS Senior Analyst/Trader",
       "location": "Los Angeles, CA",
       "seniority": "Senior",
