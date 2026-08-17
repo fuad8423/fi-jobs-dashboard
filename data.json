@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-17",
-  "total": 293,
+  "total": 297,
   "roles": [
     {
       "id": 1,
@@ -4394,6 +4394,66 @@
       "posted": "04/06/2026",
       "isNew": false,
       "fit": 5,
+      "applied": false,
+      "applied_date": ""
+    },
+    {
+      "id": 294,
+      "title": "Cat Portfolio Manager",
+      "location": "New York, NY",
+      "seniority": "Portfolio Manager",
+      "link": "https://everestre.wd5.myworkdayjobs.com/en-US/careers/job/New-York-NY/Cat-Portfolio-Manager_R7196-1",
+      "firm": "Everest",
+      "tier": "top",
+      "minComp": 275000,
+      "posted": "08/12/2026",
+      "isNew": true,
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
+    },
+    {
+      "id": 295,
+      "title": "Director, Private Credit",
+      "location": "Warren, NJ",
+      "seniority": "Director",
+      "link": "https://everestre.wd5.myworkdayjobs.com/en-US/careers/job/Warren-NJ/Director--Private-Credit_R7375-2",
+      "firm": "Everest",
+      "tier": "top",
+      "minComp": 300000,
+      "posted": "08/10/2026",
+      "isNew": true,
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
+    },
+    {
+      "id": 296,
+      "title": "Senior Vice President, Head of Private Credit & Co-Head of Alternatives",
+      "location": "Warren, NJ",
+      "seniority": "Director",
+      "link": "https://everestre.wd5.myworkdayjobs.com/en-US/careers/job/Warren-NJ/Senior-Vice-President--Head-of-Private-Credit---Co-Head-of-Alternatives_R7348",
+      "firm": "Everest",
+      "tier": "top",
+      "minComp": 300000,
+      "posted": "07/23/2026",
+      "isNew": true,
+      "fit": 0,
+      "applied": false,
+      "applied_date": ""
+    },
+    {
+      "id": 297,
+      "title": "VP I, CRO & Reinsurance Risk Manager North America",
+      "location": "Warren, NJ",
+      "seniority": "Vice President",
+      "link": "https://everestre.wd5.myworkdayjobs.com/en-US/careers/job/Warren-NJ/VP-I--CRO---Reinsurance-Risk-Manager-North-America_R7227",
+      "firm": "Everest",
+      "tier": "top",
+      "minComp": 250000,
+      "posted": "07/18/2026",
+      "isNew": true,
+      "fit": 0,
       "applied": false,
       "applied_date": ""
     }
