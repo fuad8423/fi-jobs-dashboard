@@ -4407,8 +4407,8 @@
       "tier": "top",
       "minComp": 275000,
       "posted": "08/12/2026",
-      "isNew": true,
-      "fit": 0,
+      "isNew": false,
+      "fit": 36.0,
       "applied": false,
       "applied_date": ""
     },
@@ -4422,7 +4422,7 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "08/10/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 0,
       "applied": false,
       "applied_date": ""
@@ -4437,7 +4437,7 @@
       "tier": "top",
       "minComp": 300000,
       "posted": "07/23/2026",
-      "isNew": true,
+      "isNew": false,
       "fit": 0,
       "applied": false,
       "applied_date": ""
@@ -4452,8 +4452,8 @@
       "tier": "top",
       "minComp": 250000,
       "posted": "07/18/2026",
-      "isNew": true,
-      "fit": 0,
+      "isNew": false,
+      "fit": 8,
       "applied": false,
       "applied_date": ""
     }
