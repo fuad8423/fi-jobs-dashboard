@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-25",
-  "total": 295,
+  "total": 297,
   "roles": [
     {
       "id": 1,
@@ -4039,21 +4039,6 @@
     },
     {
       "id": 270,
-      "title": "Agency MBS Senior Analyst/Trader",
-      "location": "Los Angeles, CA",
-      "seniority": "Senior",
-      "link": "https://careers-tcw.icims.com/jobs/2204/agency-mbs-senior-analyst-trader/job?in_iframe=1",
-      "firm": "TCW",
-      "tier": "top",
-      "minComp": 225000,
-      "posted": "05/2026",
-      "isNew": false,
-      "fit": 48.8,
-      "applied": false,
-      "applied_date": ""
-    },
-    {
-      "id": 271,
       "title": "Senior Associate, Individual Disability Insurance Wholesaler",
       "location": "Remote, NY",
       "seniority": "Vice President",
@@ -4068,7 +4053,7 @@
       "applied_date": ""
     },
     {
-      "id": 272,
+      "id": 271,
       "title": "Associate, Insurance Analytics & Business Intelligence",
       "location": "New York, NY",
       "seniority": "Vice President",
@@ -4083,7 +4068,7 @@
       "applied_date": ""
     },
     {
-      "id": 273,
+      "id": 272,
       "title": "Cat Portfolio Manager",
       "location": "New York, NY",
       "seniority": "Portfolio Manager",
@@ -4098,7 +4083,7 @@
       "applied_date": ""
     },
     {
-      "id": 274,
+      "id": 273,
       "title": "Director, Private Credit",
       "location": "Warren, NJ",
       "seniority": "Director",
@@ -4113,7 +4098,7 @@
       "applied_date": ""
     },
     {
-      "id": 275,
+      "id": 274,
       "title": "Senior Vice President, Head of Private Credit & Co-Head of Alternatives",
       "location": "Warren, NJ",
       "seniority": "Director",
@@ -4128,7 +4113,7 @@
       "applied_date": ""
     },
     {
-      "id": 276,
+      "id": 275,
       "title": "VP I, CRO & Reinsurance Risk Manager North America",
       "location": "Warren, NJ",
       "seniority": "Vice President",
@@ -4143,7 +4128,7 @@
       "applied_date": ""
     },
     {
-      "id": 277,
+      "id": 276,
       "title": "FinOps Senior Manager (Enterprise Technology Services Portfolio)",
       "location": "Los Angeles, CA",
       "seniority": "Manager",
@@ -4158,7 +4143,7 @@
       "applied_date": ""
     },
     {
-      "id": 278,
+      "id": 277,
       "title": "Quantitative Research Associate - Systematic Portfolio Construction",
       "location": "Los Angeles, CA",
       "seniority": "Vice President",
@@ -4173,7 +4158,7 @@
       "applied_date": ""
     },
     {
-      "id": 279,
+      "id": 278,
       "title": "Portfolio Manager, Specialty Finance",
       "location": "New York, NY",
       "seniority": "Portfolio Manager",
@@ -4188,7 +4173,7 @@
       "applied_date": ""
     },
     {
-      "id": 280,
+      "id": 279,
       "title": "Senior Software Developer \u2013 Security Risk Modelling",
       "location": "Newport Beach, CA",
       "seniority": "Senior",
@@ -4203,7 +4188,7 @@
       "applied_date": ""
     },
     {
-      "id": 281,
+      "id": 280,
       "title": "Portfolio Manager",
       "location": "Newport Beach, CA",
       "seniority": "Portfolio Manager",
@@ -4218,7 +4203,7 @@
       "applied_date": ""
     },
     {
-      "id": 282,
+      "id": 281,
       "title": "Portfolio Manager \u2013 Insurance, FIG",
       "location": "New York, NY",
       "seniority": "Portfolio Manager",
@@ -4233,7 +4218,7 @@
       "applied_date": ""
     },
     {
-      "id": 283,
+      "id": 282,
       "title": "Senior Director, Securitized Products Credit Research",
       "location": "Newark, NJ",
       "seniority": "Director",
@@ -4248,7 +4233,7 @@
       "applied_date": ""
     },
     {
-      "id": 284,
+      "id": 283,
       "title": "Executive Director, Fixed Income Quantitative Research",
       "location": "Newark, NJ",
       "seniority": "ED",
@@ -4263,7 +4248,7 @@
       "applied_date": ""
     },
     {
-      "id": 285,
+      "id": 284,
       "title": "Associate, ETF Capital Markets",
       "location": "Newark, NJ",
       "seniority": "Vice President",
@@ -4278,7 +4263,7 @@
       "applied_date": ""
     },
     {
-      "id": 286,
+      "id": 285,
       "title": "Investment Associate, Asset Based Finance",
       "location": "Newark, NJ",
       "seniority": "Vice President",
@@ -4293,7 +4278,7 @@
       "applied_date": ""
     },
     {
-      "id": 287,
+      "id": 286,
       "title": "Senior Actuarial Associate (Fixed Annuity Pricing)",
       "location": "Newark, NJ",
       "seniority": "Vice President",
@@ -4308,7 +4293,7 @@
       "applied_date": ""
     },
     {
-      "id": 288,
+      "id": 287,
       "title": "Senior Relationship Manager - Annuities Distribution",
       "location": "Newark, NJ",
       "seniority": "Manager",
@@ -4323,7 +4308,7 @@
       "applied_date": ""
     },
     {
-      "id": 289,
+      "id": 288,
       "title": "Annuities Sales Associate",
       "location": "Newark, NJ",
       "seniority": "Vice President",
@@ -4338,7 +4323,7 @@
       "applied_date": ""
     },
     {
-      "id": 290,
+      "id": 289,
       "title": "Asset Management - Insurance Portfolio Manager - Vice President",
       "location": "US",
       "seniority": "Vice President",
@@ -4353,7 +4338,7 @@
       "applied_date": ""
     },
     {
-      "id": 291,
+      "id": 290,
       "title": "Asset Management - Investment Specialist, Municipals - Managing Director",
       "location": "US",
       "seniority": "Managing Director",
@@ -4368,7 +4353,7 @@
       "applied_date": ""
     },
     {
-      "id": 292,
+      "id": 291,
       "title": "Asset Management - Investment Platform Trading Analytics & Strategy (GFICC) - Executive Director",
       "location": "US",
       "seniority": "Executive Director",
@@ -4383,7 +4368,7 @@
       "applied_date": ""
     },
     {
-      "id": 293,
+      "id": 292,
       "title": "Vice President, Structured Notes Treasury",
       "location": "US",
       "seniority": "Vice President",
@@ -4398,7 +4383,7 @@
       "applied_date": ""
     },
     {
-      "id": 294,
+      "id": 293,
       "title": "Credit Firm Specialist, Vice President",
       "location": "US",
       "seniority": "Vice President",
@@ -4413,7 +4398,7 @@
       "applied_date": ""
     },
     {
-      "id": 295,
+      "id": 294,
       "title": "Asset Management - MAS Investment Specialist - Executive Director",
       "location": "US",
       "seniority": "Executive Director",
@@ -4424,6 +4409,51 @@
       "posted": "6/9/2026",
       "isNew": false,
       "fit": 76.8,
+      "applied": false,
+      "applied_date": ""
+    },
+    {
+      "id": 295,
+      "title": "Associate",
+      "location": "Los Angeles, CA",
+      "seniority": "Vice President",
+      "link": "https://careers-tcw.icims.com/jobs/2269/associate/job?in_iframe=1",
+      "firm": "TCW",
+      "tier": "top",
+      "minComp": 250000,
+      "posted": "",
+      "isNew": true,
+      "fit": 2.9,
+      "applied": false,
+      "applied_date": ""
+    },
+    {
+      "id": 296,
+      "title": "Risk Lead",
+      "location": "Los Angeles, CA",
+      "seniority": "Lead",
+      "link": "https://careers-tcw.icims.com/jobs/2246/risk-lead/job?in_iframe=1",
+      "firm": "TCW",
+      "tier": "top",
+      "minComp": 250000,
+      "posted": "",
+      "isNew": true,
+      "fit": 35.8,
+      "applied": false,
+      "applied_date": ""
+    },
+    {
+      "id": 297,
+      "title": "Agency MBS Senior Analyst/Trader",
+      "location": "Los Angeles, CA",
+      "seniority": "Senior",
+      "link": "https://careers-tcw.icims.com/jobs/2204/agency-mbs-senior-analyst-trader/job?in_iframe=1",
+      "firm": "TCW",
+      "tier": "top",
+      "minComp": 225000,
+      "posted": "",
+      "isNew": false,
+      "fit": 48.8,
       "applied": false,
       "applied_date": ""
     }
