@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-11",
-  "total": 175,
+  "total": 172,
   "roles": [
     {
       "id": 1,
@@ -1819,51 +1819,6 @@
     },
     {
       "id": 122,
-      "title": "Associate-Vice President, Client Relations",
-      "location": "Philadelphia, PA",
-      "seniority": "Vice President",
-      "link": "https://pinebridge.wd5.myworkdayjobs.com/en-US/PineBridge_Career_Site/job/Pennsylvania/Associate-Vice-President--Client-Relations_R-02029",
-      "firm": "PineBridge",
-      "tier": "adjacent",
-      "minComp": 250000,
-      "posted": "2026-04-27",
-      "isNew": false,
-      "fit": 22.4,
-      "applied": false,
-      "applied_date": ""
-    },
-    {
-      "id": 123,
-      "title": "Client Portfolio Manager, Multi-Asset",
-      "location": "New York, NY",
-      "seniority": "Manager",
-      "link": "https://pinebridge.wd5.myworkdayjobs.com/en-US/PineBridge_Career_Site/job/New-York/Client-Portfolio-Manager--Multi-Asset_R-02030",
-      "firm": "PineBridge",
-      "tier": "adjacent",
-      "minComp": 250000,
-      "posted": "2026-04-26",
-      "isNew": false,
-      "fit": 76.4,
-      "applied": false,
-      "applied_date": ""
-    },
-    {
-      "id": 124,
-      "title": "Head of Americas, Product",
-      "location": "New York, NY",
-      "seniority": "Director",
-      "link": "https://pinebridge.wd5.myworkdayjobs.com/en-US/PineBridge_Career_Site/job/New-York/Head-of-Americas--Product_R-02011",
-      "firm": "PineBridge",
-      "tier": "adjacent",
-      "minComp": 300000,
-      "posted": "2026-03-18",
-      "isNew": false,
-      "fit": 10.8,
-      "applied": false,
-      "applied_date": ""
-    },
-    {
-      "id": 125,
       "title": "Senior Associate, Individual Disability Insurance Wholesaler",
       "location": "Remote, NY",
       "seniority": "Vice President",
@@ -1878,7 +1833,7 @@
       "applied_date": ""
     },
     {
-      "id": 126,
+      "id": 123,
       "title": "Cat Portfolio Manager",
       "location": "New York, NY",
       "seniority": "Portfolio Manager",
@@ -1893,7 +1848,7 @@
       "applied_date": ""
     },
     {
-      "id": 127,
+      "id": 124,
       "title": "Director, Private Credit",
       "location": "Warren, NJ",
       "seniority": "Director",
@@ -1908,7 +1863,7 @@
       "applied_date": ""
     },
     {
-      "id": 128,
+      "id": 125,
       "title": "Senior Vice President, Head of Private Credit & Co-Head of Alternatives",
       "location": "Warren, NJ",
       "seniority": "Director",
@@ -1923,7 +1878,7 @@
       "applied_date": ""
     },
     {
-      "id": 129,
+      "id": 126,
       "title": "VP I, CRO & Reinsurance Risk Manager North America",
       "location": "Warren, NJ",
       "seniority": "Vice President",
@@ -1938,7 +1893,7 @@
       "applied_date": ""
     },
     {
-      "id": 130,
+      "id": 127,
       "title": "FinOps Senior Manager (Enterprise Technology Services Portfolio)",
       "location": "Los Angeles, CA",
       "seniority": "Manager",
@@ -1953,7 +1908,7 @@
       "applied_date": ""
     },
     {
-      "id": 131,
+      "id": 128,
       "title": "Quantitative Research Associate - Systematic Portfolio Construction",
       "location": "Los Angeles, CA",
       "seniority": "Vice President",
@@ -1968,7 +1923,7 @@
       "applied_date": ""
     },
     {
-      "id": 132,
+      "id": 129,
       "title": "Portfolio Manager, Specialty Finance",
       "location": "New York, NY",
       "seniority": "Portfolio Manager",
@@ -1983,7 +1938,7 @@
       "applied_date": ""
     },
     {
-      "id": 133,
+      "id": 130,
       "title": "Senior Software Developer \u2013 Security Risk Modelling",
       "location": "Newport Beach, CA",
       "seniority": "Senior",
@@ -1998,7 +1953,7 @@
       "applied_date": ""
     },
     {
-      "id": 134,
+      "id": 131,
       "title": "Portfolio Manager",
       "location": "Newport Beach, CA",
       "seniority": "Portfolio Manager",
@@ -2013,7 +1968,7 @@
       "applied_date": ""
     },
     {
-      "id": 135,
+      "id": 132,
       "title": "Portfolio Manager \u2013 Insurance, FIG",
       "location": "New York, NY",
       "seniority": "Portfolio Manager",
@@ -2028,7 +1983,7 @@
       "applied_date": ""
     },
     {
-      "id": 136,
+      "id": 133,
       "title": "Senior Director, Securitized Products Credit Research",
       "location": "Newark, NJ",
       "seniority": "Director",
@@ -2043,7 +1998,7 @@
       "applied_date": ""
     },
     {
-      "id": 137,
+      "id": 134,
       "title": "Executive Director, Fixed Income Quantitative Research",
       "location": "Newark, NJ",
       "seniority": "ED",
@@ -2058,7 +2013,7 @@
       "applied_date": ""
     },
     {
-      "id": 138,
+      "id": 135,
       "title": "Associate, ETF Capital Markets",
       "location": "Newark, NJ",
       "seniority": "Vice President",
@@ -2073,7 +2028,7 @@
       "applied_date": ""
     },
     {
-      "id": 139,
+      "id": 136,
       "title": "Investment Associate, Asset Based Finance",
       "location": "Newark, NJ",
       "seniority": "Vice President",
@@ -2088,7 +2043,7 @@
       "applied_date": ""
     },
     {
-      "id": 140,
+      "id": 137,
       "title": "Senior Actuarial Associate (Fixed Annuity Pricing)",
       "location": "Newark, NJ",
       "seniority": "Vice President",
@@ -2103,7 +2058,7 @@
       "applied_date": ""
     },
     {
-      "id": 141,
+      "id": 138,
       "title": "Senior Relationship Manager - Annuities Distribution",
       "location": "Newark, NJ",
       "seniority": "Manager",
@@ -2118,7 +2073,7 @@
       "applied_date": ""
     },
     {
-      "id": 142,
+      "id": 139,
       "title": "Annuities Sales Associate",
       "location": "Newark, NJ",
       "seniority": "Vice President",
@@ -2133,7 +2088,7 @@
       "applied_date": ""
     },
     {
-      "id": 143,
+      "id": 140,
       "title": "Asset Management - Insurance Portfolio Manager - Vice President",
       "location": "US",
       "seniority": "Vice President",
@@ -2148,7 +2103,7 @@
       "applied_date": ""
     },
     {
-      "id": 144,
+      "id": 141,
       "title": "Asset Management - Investment Specialist, Municipals - Managing Director",
       "location": "US",
       "seniority": "Managing Director",
@@ -2163,7 +2118,7 @@
       "applied_date": ""
     },
     {
-      "id": 145,
+      "id": 142,
       "title": "Asset Management - Investment Platform Trading Analytics & Strategy (GFICC) - Executive Director",
       "location": "US",
       "seniority": "Executive Director",
@@ -2178,7 +2133,7 @@
       "applied_date": ""
     },
     {
-      "id": 146,
+      "id": 143,
       "title": "Vice President, Structured Notes Treasury",
       "location": "US",
       "seniority": "Vice President",
@@ -2193,7 +2148,7 @@
       "applied_date": ""
     },
     {
-      "id": 147,
+      "id": 144,
       "title": "Credit Firm Specialist, Vice President",
       "location": "US",
       "seniority": "Vice President",
@@ -2208,7 +2163,7 @@
       "applied_date": ""
     },
     {
-      "id": 148,
+      "id": 145,
       "title": "Associate",
       "location": "Los Angeles, CA",
       "seniority": "Vice President",
@@ -2223,7 +2178,7 @@
       "applied_date": ""
     },
     {
-      "id": 149,
+      "id": 146,
       "title": "Risk Lead",
       "location": "Los Angeles, CA",
       "seniority": "Lead",
@@ -2238,7 +2193,7 @@
       "applied_date": ""
     },
     {
-      "id": 150,
+      "id": 147,
       "title": "Agency MBS Senior Analyst/Trader",
       "location": "Los Angeles, CA",
       "seniority": "Senior",
@@ -2253,7 +2208,7 @@
       "applied_date": ""
     },
     {
-      "id": 151,
+      "id": 148,
       "title": "Cubist Portfolio Manager",
       "location": "New York, NY",
       "seniority": "Portfolio Manager",
@@ -2268,7 +2223,7 @@
       "applied_date": ""
     },
     {
-      "id": 152,
+      "id": 149,
       "title": "Book Portfolio Manager",
       "location": "New York, NY",
       "seniority": "Portfolio Manager",
@@ -2283,7 +2238,7 @@
       "applied_date": ""
     },
     {
-      "id": 153,
+      "id": 150,
       "title": "Strategist, CIO Office (FICC)",
       "location": "New York, NY",
       "seniority": "Senior",
@@ -2298,7 +2253,7 @@
       "applied_date": ""
     },
     {
-      "id": 154,
+      "id": 151,
       "title": "Quantitative Analyst, Structured Products Investment Team",
       "location": "New York, NY",
       "seniority": "Senior",
@@ -2313,7 +2268,7 @@
       "applied_date": ""
     },
     {
-      "id": 155,
+      "id": 152,
       "title": "Investment Associate (Quantitative Research \u2013 FT Investment Solutions)",
       "location": "Boston, MA",
       "seniority": "Vice President",
@@ -2328,7 +2283,7 @@
       "applied_date": ""
     },
     {
-      "id": 156,
+      "id": 153,
       "title": "Portfolio Construction Analyst (Fixed Income & Portfolio Risk Analysis)",
       "location": "Philadelphia, PA",
       "seniority": "Senior",
@@ -2343,7 +2298,7 @@
       "applied_date": ""
     },
     {
-      "id": 157,
+      "id": 154,
       "title": "Equity Solutions Portfolio Analyst \u2013 Portfolio Construction & Optimization",
       "location": "Boston, MA",
       "seniority": "Senior",
@@ -2358,7 +2313,7 @@
       "applied_date": ""
     },
     {
-      "id": 158,
+      "id": 155,
       "title": "Investment Risk Manager - Liquidity",
       "location": "New York, NY",
       "seniority": "Manager",
@@ -2373,7 +2328,7 @@
       "applied_date": ""
     },
     {
-      "id": 159,
+      "id": 156,
       "title": "Investment Risk Manager - Equities - 2 Opportunities Available",
       "location": "New York, NY",
       "seniority": "Manager",
@@ -2388,7 +2343,7 @@
       "applied_date": ""
     },
     {
-      "id": 160,
+      "id": 157,
       "title": "Investment Risk Manager - Private Assets",
       "location": "New York, NY",
       "seniority": "Manager",
@@ -2403,7 +2358,7 @@
       "applied_date": ""
     },
     {
-      "id": 161,
+      "id": 158,
       "title": "Fund Administration & Oversight Analyst",
       "location": "Pasadena, CA",
       "seniority": "Senior",
@@ -2418,7 +2373,7 @@
       "applied_date": ""
     },
     {
-      "id": 162,
+      "id": 159,
       "title": "AVP Private Credit Analyst \u2013 ABF",
       "location": "New York, NY",
       "seniority": "Vice President",
@@ -2433,7 +2388,7 @@
       "applied_date": ""
     },
     {
-      "id": 163,
+      "id": 160,
       "title": "Junior Associate Client Advisor - Insurance Solutions",
       "location": "New York, NY",
       "seniority": "Vice President",
@@ -2448,7 +2403,7 @@
       "applied_date": ""
     },
     {
-      "id": 164,
+      "id": 161,
       "title": "AVP, Insurance Portfolio Manager",
       "location": "Atlanta, GA",
       "seniority": "Portfolio Manager",
@@ -2463,7 +2418,7 @@
       "applied_date": ""
     },
     {
-      "id": 165,
+      "id": 162,
       "title": "Senior Portfolio Manager, Mortgage Derivatives",
       "location": "Atlanta, GA",
       "seniority": "Portfolio Manager",
@@ -2478,7 +2433,7 @@
       "applied_date": ""
     },
     {
-      "id": 166,
+      "id": 163,
       "title": "Senior Real Estate Portfolio Analyst",
       "location": "Atlanta, GA",
       "seniority": "Senior",
@@ -2493,7 +2448,7 @@
       "applied_date": ""
     },
     {
-      "id": 167,
+      "id": 164,
       "title": "Senior Case Design Life Insurance Illustrations Analyst",
       "location": "Omaha NE-6750",
       "seniority": "Senior",
@@ -2508,7 +2463,7 @@
       "applied_date": ""
     },
     {
-      "id": 168,
+      "id": 165,
       "title": "Junior Portfolio Manager",
       "location": "Newport Beach, CA",
       "seniority": "Portfolio Manager",
@@ -2523,7 +2478,7 @@
       "applied_date": ""
     },
     {
-      "id": 169,
+      "id": 166,
       "title": "Senior Quantitative Investment Risk Modeler",
       "location": "Newport Beach, CA",
       "seniority": "Senior",
@@ -2538,7 +2493,7 @@
       "applied_date": ""
     },
     {
-      "id": 170,
+      "id": 167,
       "title": "Senior Actuary (FSA) - Life and Annuity Pricing Modeler",
       "location": "Newport Beach, CA",
       "seniority": "Senior",
@@ -2553,7 +2508,7 @@
       "applied_date": ""
     },
     {
-      "id": 171,
+      "id": 168,
       "title": "Senior Actuary (FSA) - Enterprise Reinsurance",
       "location": "Newport Beach, CA",
       "seniority": "Senior",
@@ -2568,7 +2523,7 @@
       "applied_date": ""
     },
     {
-      "id": 172,
+      "id": 169,
       "title": "Principal Product Manager - Investment Analytics (Fixed Income)",
       "location": "Los Angeles, CA",
       "seniority": "Principal",
@@ -2583,7 +2538,7 @@
       "applied_date": ""
     },
     {
-      "id": 173,
+      "id": 170,
       "title": "Vice President | Investor Relations & Portfolio Monitoring, PE GP Stakes",
       "location": "Chicago, IL",
       "seniority": "Vice President",
@@ -2598,7 +2553,7 @@
       "applied_date": ""
     },
     {
-      "id": 174,
+      "id": 171,
       "title": "Corporate Vice President, Compensation Modeling & AI",
       "location": "New York, NY",
       "seniority": "Vice President",
@@ -2613,7 +2568,7 @@
       "applied_date": ""
     },
     {
-      "id": 175,
+      "id": 172,
       "title": "Brokerage Operations Manager, NYLIFE Securities  94806",
       "location": "Cleveland, OH",
       "seniority": "Manager",
